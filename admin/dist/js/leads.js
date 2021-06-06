@@ -166,7 +166,7 @@ $(document).ready(function () {
         success: function (res) {
           if (res.deleted == 1) {
             $(".message")
-              .html("Player has been deleted successfully!")
+              .html("Lead has been deleted successfully!")
               .fadeIn()
               .delay(3000)
               .fadeOut();
