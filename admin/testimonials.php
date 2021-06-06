@@ -76,7 +76,7 @@
             <!-- ============================================================== -->
             <div class="navbar-brand">
               <!-- Logo icon -->
-              <a href="index.php">
+              <a href="index.html">
                 <b class="logo-icon">
                   <!-- Dark Logo icon -->
                   <img
@@ -229,9 +229,9 @@
           <!-- Sidebar navigation-->
           <nav class="sidebar-nav">
             <ul id="sidebarnav">
-              <li class="sidebar-item selected">
+            <li class="sidebar-item ">
                 <a
-                  class="sidebar-link sidebar-link active"
+                  class="sidebar-link"
                   href="index.php"
                   aria-expanded="false"
                   ><i data-feather="users" class="feather-icon"></i
