@@ -229,9 +229,9 @@
           <!-- Sidebar navigation-->
           <nav class="sidebar-nav">
             <ul id="sidebarnav">
-              <li class="sidebar-item selected">
+              <li class="sidebar-item ">
                 <a
-                  class="sidebar-link sidebar-link active"
+                  class="sidebar-link"
                   href="index.php"
                   aria-expanded="false"
                   ><i data-feather="users" class="feather-icon"></i
@@ -334,7 +334,7 @@
                 <nav aria-label="breadcrumb">
                   <ol class="breadcrumb m-0 p-0">
                     <li class="breadcrumb-item">
-                      <a href="index.php" class="text-muted">Leads</a>
+                      <a href="index.html" class="text-muted">Leads</a>
                     </li>
                   </ol>
                 </nav>

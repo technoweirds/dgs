@@ -10,26 +10,18 @@ if ($action == 'adduser' && !empty($_POST)) {
     $pname = $_POST['username'];
     $email = $_POST['email'];
     $phone = $_POST['phone'];
-    $photo = $_FILES['photo'];
     $playerId = (!empty($_POST['userid'])) ? $_POST['userid'] : '';
 
     // file (photo) upload
+
     $imagename = '';
-    if (!empty($photo['name'])) {
-        $imagename = $obj->uploadPhoto($photo);
-        $playerData = [
-            'pname' => $pname,
-            'email' => $email,
-            'phone' => $phone,
-            'photo' => $imagename,
-        ];
-    } else {
-        $playerData = [
-            'pname' => $pname,
-            'email' => $email,
-            'phone' => $phone,
-        ];
-    }
+
+    $playerData = [
+        'pname' => $pname,
+        'email' => $email,
+        'phone' => $phone,
+    ];
+
 
     if ($playerId) {
         $obj->update($playerData, $playerId);
