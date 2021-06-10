@@ -328,13 +328,13 @@
                   mb-1
                 "
               >
-                Your Leads
+                Your Services
               </h4>
               <div class="d-flex align-items-center">
                 <nav aria-label="breadcrumb">
                   <ol class="breadcrumb m-0 p-0">
                     <li class="breadcrumb-item">
-                      <a href="index.html" class="text-muted">Leads</a>
+                      <a href="services.php" class="text-muted">Services</a>
                     </li>
                   </ol>
                 </nav>
@@ -353,71 +353,48 @@
           <!-- Start Page Content -->
           <!-- ============================================================== -->
           <!-- *************************************************************** -->
-          <!-- Start First Cards -->
-          <!-- *************************************************************** -->
-          <div class="card-group col-12 col-sm-12 col-md-3 col-lg-3">
-            <div class="card border-right">
-              <div class="card-body">
-                <div class="d-flex d-lg-flex d-md-block align-items-center">
-                  <div>
-                    <div class="d-inline-flex align-items-center">
-                      <h2 class="text-dark mb-1 font-weight-medium">236</h2>
-                      <span
-                        class="
-                          badge
-                          bg-primary
-                          font-12
-                          text-white
-                          font-weight-medium
-                          badge-pill
-                          ml-2
-                          d-lg-block d-md-none
-                        "
-                        >Leads</span
-                      >
-                    </div>
-                  </div>
-                  <div class="ml-auto mt-md-3 mt-lg-0">
-                    <span class="opacity-7 text-muted"
-                      ><i data-feather="user-plus"></i
-                    ></span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- *************************************************************** -->
-          <!-- End First Cards -->
-          <!-- *************************************************************** -->
 
           <!-- CRUD App Start -->
           <div class="alert alert-success text-center message" role="alert"></div>
-          <?php
-          include_once 'form.php';
-          include_once 'profile.php';
-          ?>
-          <div class="row mb-3">
-            <div class="col-3">
-              <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#userModal" id="addnewbtn">Add New <i
-              data-feather="plus"></i></button>
-            </div>
-            <div class="col-9">
-              <div class="input-group input-group-lg">
-                <div class="input-group-prepend">
-                  <span class="input-group-text" id="basic-addon2"><i data-feather="search" aria-hidden="true"></i></span>
-                </div>
-                <input type="text" class="form-control" aria-label="Sizing example input"
-                  aria-describedby="inputGroup-sizing-lg" placeholder="Search..." id="searchinput">
 
-              </div>
+
+          <?php 
+            include_once 'dbconfig.php';
+  
+          ?>
+
+          
+
+
+
+
+          <div class="row">
+            <div class="col-12">
+              <div class="table-responsive">
+                  <table id="zero_config" class="table table-striped table-bordered no-wrap">
+                      <thead>
+                          <tr>
+                              <th>ID </th>
+                              <th>Service Title </th>
+                              <th>Description</th>
+                              <th>Edit</th>
+                              <th>Delete</th>
+
+                          </tr>
+                      </thead>
+                      <tbody>
+                        <?php
+                          $query = "SELECT * FROM services";       
+                          // $records_per_page=50;
+                          // $newquery = $services->paging($query,$records_per_page);
+                          $services->dataview($query);
+                        ?> 
+                      </tbody>
+                  </table>
+                </div>
             </div>
           </div>
-          <?php
-          include_once 'playerstable.php';
-          ?>
-          <nav id="pagination">
-          </nav>
-          <input type="hidden" name="currentpage" id="currentpage" value="1">
+
           <!-- CRUD App End -->
           <!-- ============================================================== -->
           <!-- End PAge Content -->
