@@ -459,6 +459,9 @@ pre code {
 .price-btn-offset {
 	padding: 50px 0
 }
+.margin-top-90-percent {
+	margin-top: 90%
+}
 @media only screen and (max-width:767px) {
 .price-top-offset {
 	margin-top: 0
