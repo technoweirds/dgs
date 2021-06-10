@@ -8842,3 +8842,16 @@ section.pos-rel.section-bg-light-2 .counter-pagination .swiper-pagination-bullet
 	float: left;
 	right: -66%;
 }
+/* Footer address */
+.address-text {
+	position: relative;
+}
+.address-text:after {
+    content: '';
+    width: 100%;
+    border-bottom: solid 1px #fff;
+    position: absolute;
+    left: 0;
+    bottom: -10%;
+    z-index: 1;
+}
