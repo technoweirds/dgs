@@ -5630,13 +5630,25 @@ h1 {
 }
 .quote {
 	padding-left: 50px;
+	padding-right: 25px;
 	position: relative
 }
-.quote:after {
+.quote:before {
 	content: '\201C';
 	position: absolute;
 	left: 0;
 	top: 0;
+	z-index: 4;
+	font-family: Font Awesome;
+	font-size: 40px;
+	line-height: 40px;
+	color: #000
+}
+.quote:after {
+	content: '\201D';
+	position: absolute;
+	right: 0;
+	bottom: -10px;
 	z-index: 4;
 	font-family: Font Awesome;
 	font-size: 40px;
