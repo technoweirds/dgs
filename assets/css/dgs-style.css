@@ -8855,3 +8855,9 @@ section.pos-rel.section-bg-light-2 .counter-pagination .swiper-pagination-bullet
     bottom: -10%;
     z-index: 1;
 }
+
+/* Contact */
+.contact-text-justify {
+	text-align: justify;
+	text-justify: inter-word;
+}

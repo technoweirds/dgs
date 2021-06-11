@@ -97,7 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- main start -->
 		<main class="js-animsition-overlay" data-animsition-overlay="true">
 			<!-- pos-rel start -->
-			<section id="up" class="pos-rel js-parallax-bg" style="background-image:url(assets/images/backgrounds/kal-visuals--UG2O1U2EfY-unsplash.jpg)">
+			<section id="up" class="pos-rel js-parallax-bg" style="background-color: #000;">
 				<!-- bg-overlay -->
 				<div class="bg-overlay-black"></div>
 				<!-- pos-rel start -->
@@ -106,14 +106,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- title start -->
 						<h2 class="headline-xl">
 							<span class="hidden-box d-block">
-								<span class="subhead-xxl margin-top-20 anim-slide">As you embark on this journey and every step of the way, we focus on your success.</span>
+								<span class="subhead-xxl margin-top-20 anim-slide contact-text-justify">As you embark on this journey and every step of the way, we focus on your success.</span>
 							</span>
 							<span class="hidden-box d-block">
-								<span class="subhead-xxl margin-top-20 anim-slide">Our Marketing team acts as your trusted partner who knows how your brand would connect with your audience to make</span> 
+								<span class="subhead-xxl margin-top-20 anim-slide contact-text-justify">Our Marketing team acts as your trusted partner who knows how your brand would connect with your audience to make</span> 
 							</span>
 							</h2>
 							<img class="magictxt" src="assets/images/magic.png" /><!-- title end -->
-							<span class="subhead-xxl margin-top-20 anim-slide">Your success is our success!</span>
+							<span class="subhead-xxl margin-top-20 anim-slide contact-text-justify">Your success is our success!</span>
 						<p class="subhead-xs text-color-dadada margin-top-20 anim-fade tr-delay-04"></p>
 					</div>
 				</div><!-- pos-rel end -->
