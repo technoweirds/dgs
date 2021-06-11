@@ -150,7 +150,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="six-columns padding-bottom-20">
 							<h1 class="column-l-r-margin-10 headline-m js-scrollanim">
 								<span class="hidden-box d-block">
-									<span class="anim-slide">Co-Founder and CEO</span>
+									<span class="anim-slide dgshdtxt">Co-Founder and CEO</span>
 								</span>
 								</h1><!-- title end -->
                                                                 <h3 class="column-l-r-margin-10 headline-m js-scrollanim">
