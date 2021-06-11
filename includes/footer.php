@@ -16,7 +16,7 @@
 						<!-- column start -->
 						<div class="eight-columns">
 							<h3 class="column-l-r-margin-10 headline-l footer-title">
-								The Best Digital<br>Agency for<br>Your Businnes
+								The Best Digital<br>Agency for<br>Your Business
 							</h3>
 						</div><!-- column end -->
 						<!-- column start -->
@@ -50,7 +50,7 @@
 							</ul>
 						</div><!-- column end -->
 					</div><!-- flex-container end -->
-
+					
 					<!-- flex-container start -->
 					<div class="flex-container flex-justify-center padding-top-30">
 						<!-- column start -->
@@ -67,10 +67,16 @@
 						<div class="four-columns column-50-100 padding-top-60 footer-address">
 							<div class="column-l-r-margin-10">
 								<div class="subhead-xxs text-color-white">Address</div>
-								<div class="margin-top-10">
+								<div class="margin-top-10 address-text ">
 									<a href="#" class="subhead-xxs text-color-white text-hover-to-white js-pointer-small">
 										305 Damas Gold, Near Ansar Mall,<br>
-								AI Ittihad Road, AI Nahda, 32629 Sharjah, UAE.
+										AI Ittihad Road, AI Nahda, 32629 Sharjah, UAE.
+									</a>
+								</div>
+								<div class="margin-top-10">
+									<a href="#" class="subhead-xxs text-color-white text-hover-to-white js-pointer-small">
+										8 Bansari Apartment, 30th Road, Pali Naka,<br>
+										Bandra West, Mumbai, Maharashtra 400050, India.
 									</a>
 								</div>
 							</div>
@@ -108,7 +114,7 @@
 					<!-- footer-copyright start -->
 					<div class="footer-copyright text-center pos-abs pos-bottom-center">
 						<p class="copyright-style">
-							&copy; Copyright 2021 D'Genius Solutions All Right Reserved
+							&copy; Copyright 2021 D'Genius Solutions All Rights Reserved
 						</p>
 					</div><!-- footer-copyright end -->
 				</div><!-- container end -->
