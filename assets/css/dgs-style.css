@@ -8855,9 +8855,36 @@ section.pos-rel.section-bg-light-2 .counter-pagination .swiper-pagination-bullet
     bottom: -10%;
     z-index: 1;
 }
-
+/* End Footer */
 /* Contact */
 .contact-text-justify {
 	text-align: justify;
 	text-justify: inter-word;
 }
+/* End Contact */
+/* This Spot awaits you */
+.spot_awaits_you_wrapper {
+	margin-left: auto;
+	margin-right: auto;
+}
+.spot_awaits_you_text {
+	width: 250px;
+	max-width: 250px;
+	height: 125px;
+	max-height: 125px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/* border: 2px dashed #77c3d8; */
+	/* background: -webkit-linear-gradient(to right, #77c3d8 0, #32a5d8 20%, #8f4cc0 40%, #eb4092 60%, #fd7943 80%, #ffb033 100%); */
+	/* background: -moz-linear-gradient(to right, #77c3d8 0, #32a5d8 20%, #8f4cc0 40%, #eb4092 60%, #fd7943 80%, #ffb033 100%); */
+	/* background: linear-gradient(to right, #77c3d8 0, #32a5d8 20%, #8f4cc0 40%, #eb4092 60%, #fd7943 80%, #ffb033 100%); */
+	border: 2px dashed #000;
+	background:
+	linear-gradient(#000,#000) padding-box ,
+	linear-gradient(to bottom, #4fc3f7, #ab5ca4 49%, #ff512f) border-box;
+	/* -webkit-background-clip: text;
+	-webkit-text-fill-color: transparent */
+
+}
+/* End this spot awaits you */
