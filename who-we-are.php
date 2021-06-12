@@ -140,7 +140,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<!-- flex-container start -->
 					<div class="container flex-container padding-bottom-70">
 						<!-- column start -->
-						<div class="six-columns padding-bottom-20 padding-left-right-50">
+						<div class="six-columns padding-bottom-20 padding-left-right-50 anim-overlay js-scrollanim">
 							<!-- image start -->
 							<img class="" src="assets/images/projects/beauty-lab/gold-iphone-8-2872404.jpg" alt="founder" width="100" height="600">
                                                  <!-- image end -->
