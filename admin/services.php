@@ -16,10 +16,10 @@
     />
     <title>Admin Panel - DGS</title>
     <!-- This page plugin CSS -->
-    <link
+    <!-- <link
       href="assets/extra-libs/datatables.net-bs4/css/dataTables.bootstrap4.css"
       rel="stylesheet"
-    />
+    /> -->
     <script src="https://unpkg.com/feather-icons"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
       integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
@@ -349,6 +349,9 @@
         <!-- Container fluid  -->
         <!-- ============================================================== -->
         <div class="container-fluid">
+
+        <a href="add-services.php" class="btn btn-large btn-success"><i class="glyphicon glyphicon-plus"></i> &nbsp; Add Service</a>
+
           <!-- ============================================================== -->
           <!-- Start Page Content -->
           <!-- ============================================================== -->
@@ -371,7 +374,7 @@
           <div class="row">
             <div class="col-12">
               <div class="table-responsive">
-                  <table id="zero_config" class="table table-striped table-bordered no-wrap">
+                  <table id="" class="table table-striped table-bordered no-wrap">
                       <thead>
                           <tr>
                               <th>ID </th>
@@ -394,6 +397,7 @@
                 </div>
             </div>
           </div>
+
 
           <!-- CRUD App End -->
           <!-- ============================================================== -->
@@ -426,6 +430,24 @@
     <!-- All Jquery -->
     <!-- ============================================================== -->
     <script src="assets/libs/jquery/dist/jquery.min.js"></script>
+
+
+    <script>
+
+    $(document).ready(function() {
+    $('#example').DataTable( {
+        "pagingType": "full_numbers"
+
+
+//         "Paginate":true,
+//  "PaginationType":"full_numbers",
+//  "LengthChange": true,
+//  "Info" : true
+
+    } );
+} );
+
+</script>
     <!-- Bootstrap tether Core JavaScript -->
     <script src="assets/libs/popper.js/dist/umd/popper.min.js"></script>
     <script src="assets/libs/bootstrap/dist/js/bootstrap.min.js"></script>

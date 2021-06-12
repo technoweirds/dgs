@@ -24,7 +24,7 @@ if(isset($_GET['inserted']))
 	?>
     <div class="container-fluid">
 	<div class="alert alert-info">
-    Record inserted successfully. <a href="index.php">HOME</a>!
+    Record inserted successfully.
 	</div>
 	</div>
     <?php
@@ -52,16 +52,16 @@ else if(isset($_GET['failure']))
         </div>
  
         <div class="form-group">
-			<label for="descr">descr</label>
+			<label for="descr">Description</label>
 			<input id="descr" name="descr" class="form-control" type="text" required />
         </div>
  
         <table>
             <td colspan="2">
             <button type="submit" class="btn btn-primary" name="btn-save">
-    		<span class="glyphicon glyphicon-plus"></span> Create New Customer
+    		<span class="glyphicon glyphicon-plus"></span> Create New Service
 			</button>  
-            <a href="index.php" class="btn btn-large btn-success"><i class="glyphicon glyphicon-backward"></i> &nbsp; Back to index</a>
+            <a href="services.php" class="btn btn-large btn-success"><i class="glyphicon glyphicon-backward"></i> &nbsp; Back to Services</a>
             </td>
         </table>
 </form>
