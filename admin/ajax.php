@@ -10,6 +10,8 @@ if ($action == 'adduser' && !empty($_POST)) {
     $pname = $_POST['username'];
     $email = $_POST['email'];
     $phone = $_POST['phone'];
+    $phone = $_POST['photo'];
+
     $playerId = (!empty($_POST['userid'])) ? $_POST['userid'] : '';
 
     // file (photo) upload
@@ -20,6 +22,7 @@ if ($action == 'adduser' && !empty($_POST)) {
         'pname' => $pname,
         'email' => $email,
         'phone' => $phone,
+        'photo' => $photo,
     ];
 
 

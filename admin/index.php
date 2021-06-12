@@ -16,10 +16,10 @@
     />
     <title>Admin Panel - DGS</title>
     <!-- This page plugin CSS -->
-    <link
+    <!-- <link
       href="assets/extra-libs/datatables.net-bs4/css/dataTables.bootstrap4.css"
       rel="stylesheet"
-    />
+    /> -->
     <script src="https://unpkg.com/feather-icons"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
       integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
@@ -76,7 +76,7 @@
             <!-- ============================================================== -->
             <div class="navbar-brand">
               <!-- Logo icon -->
-              <a href="index.php">
+              <a href="index.html">
                 <b class="logo-icon">
                   <!-- Dark Logo icon -->
                   <img
@@ -229,9 +229,9 @@
           <!-- Sidebar navigation-->
           <nav class="sidebar-nav">
             <ul id="sidebarnav">
-              <li class="sidebar-item selected">
+              <li class="sidebar-item ">
                 <a
-                  class="sidebar-link sidebar-link active"
+                  class="sidebar-link"
                   href="index.php"
                   aria-expanded="false"
                   ><i data-feather="users" class="feather-icon"></i
@@ -353,71 +353,54 @@
           <!-- Start Page Content -->
           <!-- ============================================================== -->
           <!-- *************************************************************** -->
-          <!-- Start First Cards -->
-          <!-- *************************************************************** -->
-          <div class="card-group col-12 col-sm-12 col-md-3 col-lg-3">
-            <div class="card border-right">
-              <div class="card-body">
-                <div class="d-flex d-lg-flex d-md-block align-items-center">
-                  <div>
-                    <div class="d-inline-flex align-items-center">
-                      <h2 class="text-dark mb-1 font-weight-medium">236</h2>
-                      <span
-                        class="
-                          badge
-                          bg-primary
-                          font-12
-                          text-white
-                          font-weight-medium
-                          badge-pill
-                          ml-2
-                          d-lg-block d-md-none
-                        "
-                        >Leads</span
-                      >
-                    </div>
-                  </div>
-                  <div class="ml-auto mt-md-3 mt-lg-0">
-                    <span class="opacity-7 text-muted"
-                      ><i data-feather="user-plus"></i
-                    ></span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- *************************************************************** -->
-          <!-- End First Cards -->
-          <!-- *************************************************************** -->
 
           <!-- CRUD App Start -->
-          <div class="alert alert-success text-center message" role="alert"></div>
-          <?php
-          include_once 'form.php';
-          include_once 'profile.php';
-          ?>
-          <div class="row mb-3">
-            <div class="col-3">
-              <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#userModal" id="addnewbtn">Add New <i
-              data-feather="plus"></i></button>
-            </div>
-            <div class="col-9">
-              <div class="input-group input-group-lg">
-                <div class="input-group-prepend">
-                  <span class="input-group-text" id="basic-addon2"><i data-feather="search" aria-hidden="true"></i></span>
-                </div>
-                <input type="text" class="form-control" aria-label="Sizing example input"
-                  aria-describedby="inputGroup-sizing-lg" placeholder="Search..." id="searchinput">
 
-              </div>
+          <a href="add-leads.php" class="btn btn-large btn-success"><i class="glyphicon glyphicon-plus"></i> &nbsp; Add Leads</a>
+
+          <?php 
+            include_once 'dbconfig.php';
+
+
+  
+          ?>
+
+          
+
+
+
+
+          <div class="row">
+            <div class="col-12">
+              <div class="table-responsive">
+                  <table id="" class="table table-striped table-bordered no-wrap">
+                      <thead>
+                          <tr>
+                              <th>ID </th>
+                              <th>FN </th>
+                              <th>LN</th>
+                              <th>Email</th>
+                              <th>Message</th>
+                              <th>Date</th>
+
+
+
+                          </tr>
+                      </thead>
+                      <tbody>
+                        <?php
+                          $query = "SELECT * FROM leads";       
+                          // $records_per_page=50;
+                          // $newquery = $services->paging($query,$records_per_page);
+                          $leads->dataview($query);
+                        ?> 
+                      </tbody>
+                  </table>
+                </div>
             </div>
           </div>
-          <?php
-          include_once 'playerstable.php';
-          ?>
-          <nav id="pagination">
-          </nav>
-          <input type="hidden" name="currentpage" id="currentpage" value="1">
+
+
           <!-- CRUD App End -->
           <!-- ============================================================== -->
           <!-- End PAge Content -->
@@ -449,6 +432,24 @@
     <!-- All Jquery -->
     <!-- ============================================================== -->
     <script src="assets/libs/jquery/dist/jquery.min.js"></script>
+
+
+    <script>
+
+    $(document).ready(function() {
+    $('#example').DataTable( {
+        "pagingType": "full_numbers"
+
+
+//         "Paginate":true,
+//  "PaginationType":"full_numbers",
+//  "LengthChange": true,
+//  "Info" : true
+
+    } );
+} );
+
+</script>
     <!-- Bootstrap tether Core JavaScript -->
     <script src="assets/libs/popper.js/dist/umd/popper.min.js"></script>
     <script src="assets/libs/bootstrap/dist/js/bootstrap.min.js"></script>

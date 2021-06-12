@@ -1,6 +1,10 @@
+
+
+
+
 <?php
 
-class services
+class leads
 {
 	private $db;
 	
@@ -9,13 +13,19 @@ class services
 		$this->db = $DB_con;
 	}
 	
-	public function create($title,$descr)
+	public function create($fn,$ln ,$email ,$message, $date)
 	{
 		try
 		{
-			$stmt = $this->db->prepare("INSERT INTO services(title,descr) VALUES(:title, :descr)");
-			$stmt->bindparam(":title",$title);
-			$stmt->bindparam(":descr",$descr);
+			$stmt = $this->db->prepare("INSERT INTO leads(first_name,last_name , email , message ,date) VALUES(:fn, :ln , :email , :msg , :date)");
+			$stmt->bindparam(":fn",$fn);
+			$stmt->bindparam(":ln",$ln);
+			$stmt->bindparam(":email",$email);
+
+			$stmt->bindparam(":msg",$message);
+			$stmt->bindparam(":date",$date);
+
+
 			// $stmt->bindparam(":website",$website);
 			// $stmt->bindparam(":contact",$contact);
 			// $stmt->bindparam(":job",$job);
@@ -33,28 +43,42 @@ class services
 	
 	public function getID($id)
 	{
-		$stmt = $this->db->prepare("SELECT * FROM services WHERE id=:id");
+		$stmt = $this->db->prepare("SELECT * FROM leads WHERE id=:id");
 		$stmt->execute(array(":id"=>$id));
 		$editRow=$stmt->fetch(PDO::FETCH_ASSOC);
 		return $editRow;
 	}
 	
-	public function update($id,$title,$descr)
+	public function update($id,$fn,$ln,$email,$message,$date)
 	{
 		try
 		{
 
-			echo $descr;
-			echo $title;
-			$stmt=$this->db->prepare("UPDATE services SET title=:title,
-													descr=:descr
+			echo $ln;
+			echo $fn;
+            echo $email;
+
+            echo $message;
+			echo $date;
+
+			$stmt=$this->db->prepare("UPDATE leads SET first_name=:fn,
+													last_name=:ln,
+													email=:email,
+													message=:message,
+													date=:date
+
+
 													WHERE id=:id");
 
 $stmt->bindparam(":id",$id);
 
-			$stmt->bindparam(":title",$title);
-			$stmt->bindparam(":descr",$descr);
-			$stmt->execute();
+$stmt->bindparam(":fn",$fn);
+$stmt->bindparam(":ln",$ln);
+$stmt->bindparam(":email",$email);
+
+$stmt->bindparam(":message",$message);
+$stmt->bindparam(":date",$date);
+$stmt->execute();
 			return true;	
 		}
 		catch(PDOException $e)
@@ -66,7 +90,7 @@ $stmt->bindparam(":id",$id);
 	
 	public function delete($id)
 	{
-		$stmt = $this->db->prepare("DELETE FROM services WHERE id=:id");
+		$stmt = $this->db->prepare("DELETE FROM leads WHERE id=:id");
 		$stmt->bindparam(":id",$id);
 		$stmt->execute();
 		return true;
@@ -88,13 +112,18 @@ $stmt->bindparam(":id",$id);
 				?>
                 <tr>
 					<td><?php print($counter); ?></td>
-					<td><?php print($row['title']); ?></td>
-					<td><?php print($row['descr']); ?></td>
+					<td><?php print($row['first_name']); ?></td>
+					<td><?php print($row['last_name']); ?></td>
+					<td><?php print($row['email']); ?></td>
+					<td><?php print($row['message']); ?></td>
+					<td><?php print($row['date']); ?></td>
+
+
 					<td>
-					<a href="edit-services.php?edit_id=<?php print($row['id']); ?>"><i class="form-control-icon" data-feather="edit"></i></a>
+					<a href="edit-leads.php?edit_id=<?php print($row['id']); ?>"><i class="form-control-icon" data-feather="edit"></i></a>
 					</td>
 					<td>
-					<a href="delete-services.php?delete_id=<?php print($row['id']); ?>"><i class="form-control-icon" data-feather="trash-2"></i></a>
+					<a href="delete-leads.php?delete_id=<?php print($row['id']); ?>"><i class="form-control-icon" data-feather="trash-2"></i></a>
 					</td>
                 </tr>
                 <?php
