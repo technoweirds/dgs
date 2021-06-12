@@ -608,6 +608,13 @@
 									<img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/clients/raymond-hover.png" alt="clients logo">
 								</div>
 							</div><!-- clients-lines__column end -->
+                            <!-- clients-lines__column start -->
+							<div class="spot_awaits_you_wrapper">
+								<div class="clients-lines__inner hover-box pos-rel headline-xxxs">
+									<p class="client-logo pos-abs pos-center-center spot_awaits_you_text"> This Spot Awaits You</p>
+									<!-- <p class="client-logo client-hover-in pos-abs pos-center-center spot_awaits_you_text dgshdtxt"> This Spot Awaits You</p> -->
+								</div>
+							</div><!-- clients-lines__column end -->
 							
 					</div><!-- container end -->
 				</div><!-- pos-rel end -->
