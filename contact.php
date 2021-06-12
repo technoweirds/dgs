@@ -219,7 +219,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="container small padding-top-bottom-120 form-box">
 						<h4 class="headline-xxxxs text-center">Lets Get In Touch!</h4>
 						<!-- flex-container start -->
-						<form action="" method="post" name="formobrsv" id="send_form" class="flex-container padding-top-90">
+						<form action="contactbackend.php" method="post" name="formobrsv" id="send_form" class="flex-container padding-top-90">
 							<!-- column start -->
 							<div class="four-columns">
 								<div class="column-r-margin-10">
@@ -238,11 +238,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<input type="email" name="email" placeholder="Enter your email address" id="email" required class="form-input js-pointer-small">
 								</div>
 							</div><!-- column end -->
-							<!-- column start -->
-							<div class="twelve-columns">
-								<textarea name="message" placeholder="Enter your message" id="message" required class="form-input js-pointer-small"></textarea>
+
+							<div class="five-columns">
+								<div class="column-l-r-margin-5">
+								<label class = "form-check">Select Your Requirements : </label>
+
+
+								</div>
 							</div><!-- column end -->
-							<!-- column start -->
+							<div class="five-columns">
+								<div class="column-l-r-margin-10">
+								<input type="checkbox" id="design" name="service[]" value="Design">
+								<label class = "form-check">Design</label><br>
+								<input type="checkbox" id="development" name="service[]" value="development">
+								<label class = "form-check">Marketing</label><br>
+								<input type="checkbox" id="marketing" name="service[]" value="marketing">
+								<label class = "form-check">Development</label>
+
+
+
+
+							</div>
+							</div><!-- column end -->
+
+
+
+
 							<div class="twelve-columns text-center padding-top-90">
 								<button id="send" class="border-btn js-pointer-large">
 									<span class="border-btn__inner">submit</span>
