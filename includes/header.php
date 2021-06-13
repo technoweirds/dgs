@@ -12,7 +12,7 @@
 			</div><!-- logo end -->
 
 			<!-- menu-icon start -->
-			<div class="menu-icon js-menu-open-close js-pointer-large js-midnight-color js-headroom">
+			<div class="menu-icon vertical js-menu-open-close js-pointer-large js-midnight-color js-headroom">
 				<div class="menu-icon__box">
 					<span class="menu-icon__inner"></span>
 					<span class="menu-icon__close"></span>
