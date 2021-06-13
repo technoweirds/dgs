@@ -134,25 +134,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div><!-- pos-rel end -->
 			</section><!-- mision vision end-->
                         <!-- about us start -->
-			<section id="down" class="pos-rel section-bg-dark-2">
-				<!-- pos-rel start -->
+			<!-- <section id="down" class="pos-rel section-bg-dark-2">
+				
 				<div class="pos-rel padding-top-bottom-70">
-					<!-- flex-container start -->
+					
 					<div class="container flex-container padding-bottom-70">
-						<!-- column start -->
-						<div class="six-columns padding-bottom-20 padding-left-right-50">
-							<!-- image start -->
+						
+						<div class="six-columns padding-bottom-20 padding-left-right-50 anim-overlay js-scrollanim">
+							
 							<img class="" src="assets/images/projects/beauty-lab/gold-iphone-8-2872404.jpg" alt="founder" width="100" height="600">
-                                                 <!-- image end -->
-						</div><!-- column end -->
+                                                 
+						</div>
 
-						<!-- column start -->
+						
 						<div class="six-columns padding-bottom-20">
 							<h1 class="column-l-r-margin-10 headline-m js-scrollanim">
 								<span class="hidden-box d-block">
-									<span class="anim-slide dgshdtxt">Co-Founder and CEO</span>
+									<span class="anim-slide dgshdtxt"> <h1>Co-Founder and CEO</h1> </span>
 								</span>
-								</h1><!-- title end -->
+								</h1>
                                                                 <h3 class="column-l-r-margin-10 headline-m js-scrollanim">
 								<span class="hidden-box headline-xxxs">
                                                                         <span class="anim-slide text-color-dadada">Experience:</span>
@@ -164,7 +164,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                 <h3 class="column-l-r-margin-10 headline-m js-scrollanim">
 								<span class="hidden-box headline-xxxs">
                                                                         <span class="anim-slide text-color-dadada">Domain Knowledge:</span><br> 
-                                                                        <span class="anim-slide text-color-white">Traditional<br> Digital Marketing<br>Brand Strategy<br></span></span></h3> 
+                                                                        <span class="anim-slide text-color-white">Traditional<br> Digital Marketing<br></span></span></h3> 
                                                                 <h3 class="column-l-r-margin-10 headline-m js-scrollanim">
 								<span class="hidden-box headline-xxxs"> 
                                                                         <span class="anim-slide text-color-dadada">Brands Consulted:</span>
@@ -173,12 +173,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</h3>
                                                               	</span>
 								</h3>
-                                                                   <!-- title end -->  
-                                                                </div><!-- column end -->
-					</div><!-- flex-container end -->
+                                                                     
+                                                                </div>
+					</div>
                                                                                       
-				</div><!-- pos-rel end -->
-			</section><!-- about us end -->
+				</div>
+			</section> -->
 
 			<!-- work process start -->
 			<section id="down" class="pos-rel section-bg-light-1" data-midnight="black">
@@ -235,19 +235,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div><!-- pos-rel end -->
 			</section><!-- work process end -->
                         <!-- awards start -->
-			<section class="pos-rel section-bg-dark-2">
-				<!-- pos-rel start -->
+			<!-- <section class="pos-rel section-bg-dark-2">
+				
 				<div class="pos-rel flex-min-height-100vh">
-					<!-- container start -->
+					
 					<div class="container padding-top-bottom-120">
-						<!-- title start -->
+						
 						<h2 class="headline-xl text-center hidden-box js-scrollanim">
 							<span class="anim-slide">Awards and Honors</span>
-						</h2><!-- title end -->
+						</h2>
 
-						<!-- flex-container start -->
+						
 						<div class="flex-container flex-justify-center padding-top-30">
-							<!-- column start -->
+							
 							<div class="four-columns column-100-100 padding-top-60">
 								<div class="column-l-r-margin-10-999 text-center">
 									<div class="awards-logo">
@@ -263,9 +263,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</li>
 									</ul>
 								</div>
-							</div><!-- column end -->
+							</div>
 
-							<!-- column start -->
+							
 							<div class="four-columns column-100-100 padding-top-60">
 								<div class="column-l-r-margin-10-999 text-center">
 									<div class="awards-logo">
@@ -284,9 +284,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</li>
 									</ul>
 								</div>
-							</div><!-- column end -->
+							</div>
 
-							<!-- column start -->
+							
 							<div class="four-columns column-100-100 padding-top-60">
 								<div class="column-l-r-margin-10-999 text-center">
 									<div class="awards-logo">
@@ -302,9 +302,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</li>
 									</ul>
 								</div>
-							</div><!-- column end -->
+							</div>
 
-							<!-- column start -->
+							
 							<div class="four-columns column-100-100 padding-top-60">
 								<div class="column-l-r-margin-10-999 text-center">
 									<div class="awards-logo">
@@ -320,9 +320,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</li>
 									</ul>
 								</div>
-							</div><!-- column end -->
+							</div>
 
-							<!-- column start -->
+							
 							<div class="four-columns column-100-100 padding-top-60">
 								<div class="column-l-r-margin-10-999 text-center">
 									<div class="awards-logo">
@@ -338,11 +338,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</li>
 									</ul>
 								</div>
-							</div><!-- column end -->
-						</div><!-- flex-container end -->
-					</div><!-- container end -->
-				</div><!-- pos-rel end -->
-			</section><!-- awards end -->
+							</div>
+						</div>
+					</div>
+				</div>
+			</section> -->
+			<!-- Awards end -->
 
 		</main><!-- main end -->
 

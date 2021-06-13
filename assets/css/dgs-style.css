@@ -5629,8 +5629,8 @@ h1 {
 	text-transform: uppercase
 }
 .quote {
-	padding-left: 50px;
-	padding-right: 25px;
+	padding-left: 25px;
+	padding-right: 5px;
 	position: relative
 }
 .quote:before {

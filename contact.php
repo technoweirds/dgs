@@ -308,8 +308,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</section><!-- form section end -->
 		</main><!-- main end -->
 
-		<?php include("includes/footer.php"); ?>
-
 		<!-- scripts -->
 		<script src="assets/js/plugins.js"></script>
 		<script src="assets/js/footer-reveal.js"></script>
