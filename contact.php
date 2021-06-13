@@ -151,11 +151,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="four-columns column-50-100 padding-top-60">
 								<div class="column-r-margin-20 js-scrollanim">
 									<p class="headline-xxxxs invert" data-text="Visit us">Visit us</p>
+									<h6 class="list list_margin-1px padding-top-20 text-color-b0b0b0 address-text">
+										<span class="list__item">
+											<span class="d-inline-block hidden-box">
+												<span class="text-color-dadada tr-delay-01">8 Bansari Apartment, 30th Road, Pali Naka,<br>
+								 				</span>
+											</span>
+										</span>
+										<span class="list__item">
+											<span class="d-inline-block hidden-box">
+												<span class="text-color-dadada tr-delay-02">Bandra West, Mumbai,</span>
+											</span>
+										</span>
+										<span class="list__item">
+											<span class="d-inline-block hidden-box">
+												<span class="text-color-dadada tr-delay-03">400050 Maharashtra, India.</span>
+											</span>
+										</span>
+									</h6>
 									<h6 class="list list_margin-1px padding-top-20 text-color-b0b0b0">
 										<span class="list__item">
 											<span class="d-inline-block hidden-box">
 												<span class="text-color-dadada tr-delay-01">305 Damas Gold, Near Ansar Mall,<br>
-								 </span>
+								 				</span>
 											</span>
 										</span>
 										<span class="list__item">
@@ -169,9 +187,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											</span>
 										</span>
 									</h6>
-									<div class="padding-top-10 anim-fade tr-delay-04">
+									<!-- <div class="padding-top-10 anim-fade tr-delay-04">
 										<a href="#" class="subhead-xxs text-color-dadada text-hover-to-red js-pointer-small">Open in google maps</a>
-									</div>
+									</div> -->
 								</div>
 							</div><!-- column end -->
 

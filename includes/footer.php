@@ -69,14 +69,14 @@
 								<div class="subhead-xxs text-color-white">Address</div>
 								<div class="margin-top-10 address-text ">
 									<a href="#" class="subhead-xxs text-color-white text-hover-to-white js-pointer-small">
-										305 Damas Gold, Near Ansar Mall,<br>
-										AI Ittihad Road, AI Nahda, 32629 Sharjah, UAE.
+										8 Bansari Apartment, 30th Road, Pali Naka,<br>
+										Bandra West, Mumbai, Maharashtra 400050, India.
 									</a>
 								</div>
 								<div class="margin-top-10">
 									<a href="#" class="subhead-xxs text-color-white text-hover-to-white js-pointer-small">
-										8 Bansari Apartment, 30th Road, Pali Naka,<br>
-										Bandra West, Mumbai, Maharashtra 400050, India.
+										305 Damas Gold, Near Ansar Mall,<br>
+										AI Ittihad Road, AI Nahda, 32629 Sharjah, UAE.
 									</a>
 								</div>
 							</div>
