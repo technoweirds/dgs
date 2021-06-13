@@ -235,19 +235,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div><!-- pos-rel end -->
 			</section><!-- work process end -->
                         <!-- awards start -->
-			<section class="pos-rel section-bg-dark-2">
-				<!-- pos-rel start -->
+			<!-- <section class="pos-rel section-bg-dark-2">
+				
 				<div class="pos-rel flex-min-height-100vh">
-					<!-- container start -->
+					
 					<div class="container padding-top-bottom-120">
-						<!-- title start -->
+						
 						<h2 class="headline-xl text-center hidden-box js-scrollanim">
 							<span class="anim-slide">Awards and Honors</span>
-						</h2><!-- title end -->
+						</h2>
 
-						<!-- flex-container start -->
+						
 						<div class="flex-container flex-justify-center padding-top-30">
-							<!-- column start -->
+							
 							<div class="four-columns column-100-100 padding-top-60">
 								<div class="column-l-r-margin-10-999 text-center">
 									<div class="awards-logo">
@@ -263,9 +263,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</li>
 									</ul>
 								</div>
-							</div><!-- column end -->
+							</div>
 
-							<!-- column start -->
+							
 							<div class="four-columns column-100-100 padding-top-60">
 								<div class="column-l-r-margin-10-999 text-center">
 									<div class="awards-logo">
@@ -284,9 +284,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</li>
 									</ul>
 								</div>
-							</div><!-- column end -->
+							</div>
 
-							<!-- column start -->
+							
 							<div class="four-columns column-100-100 padding-top-60">
 								<div class="column-l-r-margin-10-999 text-center">
 									<div class="awards-logo">
@@ -302,9 +302,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</li>
 									</ul>
 								</div>
-							</div><!-- column end -->
+							</div>
 
-							<!-- column start -->
+							
 							<div class="four-columns column-100-100 padding-top-60">
 								<div class="column-l-r-margin-10-999 text-center">
 									<div class="awards-logo">
@@ -320,9 +320,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</li>
 									</ul>
 								</div>
-							</div><!-- column end -->
+							</div>
 
-							<!-- column start -->
+							
 							<div class="four-columns column-100-100 padding-top-60">
 								<div class="column-l-r-margin-10-999 text-center">
 									<div class="awards-logo">
@@ -338,11 +338,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										</li>
 									</ul>
 								</div>
-							</div><!-- column end -->
-						</div><!-- flex-container end -->
-					</div><!-- container end -->
-				</div><!-- pos-rel end -->
-			</section><!-- awards end -->
+							</div>
+						</div>
+					</div>
+				</div>
+			</section> -->
+			<!-- Awards end -->
 
 		</main><!-- main end -->
 
