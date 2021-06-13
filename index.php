@@ -216,7 +216,7 @@
 					<!-- swiper-slide start -->
 					<div class="swiper-slide">
 						<!-- slide-bg -->
-						<div class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/images/backgrounds/banner1.jpg)"></div>
+						<div class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/videos/banner1.gif)"></div>
 						<!-- bg-overlay -->
 						<div class="bg-overlay-black"></div>
 
@@ -237,7 +237,7 @@
 					<!-- swiper-slide start -->
 					<div class="swiper-slide">
 						<!-- slide-bg -->
-						<div class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/images/backgrounds/banner2.jpg)"></div>
+						<div class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/videos/banner2.gif)"></div>
 						<!-- bg-overlay -->
 						<div class="bg-overlay-black"></div>
 
@@ -254,11 +254,10 @@
 							</div>
 						</div><!-- content end -->
 					</div><!-- swiper-slide end -->
-
 					<!-- swiper-slide start -->
 					<div class="swiper-slide">
 						<!-- slide-bg -->
-						<div class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/images/backgrounds/banner3.jpg)"></div>
+						<div class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/videos/banner3.gif)"></div>
 						<!-- bg-overlay -->
 						<div class="bg-overlay-black"></div>
 
