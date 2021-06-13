@@ -18,6 +18,11 @@ catch(PDOException $e)
 
 include_once 'class.services.php';
 
+include_once 'class.leads.php';
+
+$leads = new leads($DB_con);
+
+
 $services = new services($DB_con);
 
 ?>

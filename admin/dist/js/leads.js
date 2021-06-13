@@ -28,8 +28,9 @@ function getplayerrow(player) {
   if (player) {
     playerRow = `<tr>
           <td class="align-middle">${player.pname}</td>
-          <td class="align-middle">${player.email}</td>
           <td class="align-middle">${player.phone}</td>
+          <td class="align-middle">${player.photo}</td>
+
           <td class="align-middle">
             <a href="#" class="btn btn-success mr-3 profile" data-toggle="modal" data-target="#userViewModal"
               title="Prfile" data-id="${player.id}"><i class="fa fa-id-card" aria-hidden="true"></i></a>
