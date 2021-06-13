@@ -134,7 +134,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div><!-- pos-rel end -->
 			</section><!-- mision vision end-->
                         <!-- about us start -->
-			<section id="down" class="pos-rel section-bg-dark-2">
+			<!-- <section id="down" class="pos-rel section-bg-dark-2">
 				
 				<div class="pos-rel padding-top-bottom-70">
 					
@@ -178,7 +178,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
                                                                                       
 				</div>
-			</section>
+			</section> -->
 
 			<!-- work process start -->
 			<section id="down" class="pos-rel section-bg-light-1" data-midnight="black">
