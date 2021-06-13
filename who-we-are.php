@@ -164,7 +164,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                 <h3 class="column-l-r-margin-10 headline-m js-scrollanim">
 								<span class="hidden-box headline-xxxs">
                                                                         <span class="anim-slide text-color-dadada">Domain Knowledge:</span><br> 
-                                                                        <span class="anim-slide text-color-white">Traditional<br> Digital Marketing<br>Brand Strategy<br></span></span></h3> 
+                                                                        <span class="anim-slide text-color-white">Traditional<br> Digital Marketing<br></span></span></h3> 
                                                                 <h3 class="column-l-r-margin-10 headline-m js-scrollanim">
 								<span class="hidden-box headline-xxxs"> 
                                                                         <span class="anim-slide text-color-dadada">Brands Consulted:</span>
