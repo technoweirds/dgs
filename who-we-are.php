@@ -135,24 +135,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</section><!-- mision vision end-->
                         <!-- about us start -->
 			<section id="down" class="pos-rel section-bg-dark-2">
-				<!-- pos-rel start -->
+				
 				<div class="pos-rel padding-top-bottom-70">
-					<!-- flex-container start -->
+					
 					<div class="container flex-container padding-bottom-70">
-						<!-- column start -->
+						
 						<div class="six-columns padding-bottom-20 padding-left-right-50 anim-overlay js-scrollanim">
-							<!-- image start -->
+							
 							<img class="" src="assets/images/projects/beauty-lab/gold-iphone-8-2872404.jpg" alt="founder" width="100" height="600">
-                                                 <!-- image end -->
-						</div><!-- column end -->
+                                                 
+						</div>
 
-						<!-- column start -->
+						
 						<div class="six-columns padding-bottom-20">
 							<h1 class="column-l-r-margin-10 headline-m js-scrollanim">
 								<span class="hidden-box d-block">
-									<span class="anim-slide dgshdtxt">Co-Founder and CEO</span>
+									<span class="anim-slide dgshdtxt"> <h1>Co-Founder and CEO</h1> </span>
 								</span>
-								</h1><!-- title end -->
+								</h1>
                                                                 <h3 class="column-l-r-margin-10 headline-m js-scrollanim">
 								<span class="hidden-box headline-xxxs">
                                                                         <span class="anim-slide text-color-dadada">Experience:</span>
@@ -173,12 +173,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</h3>
                                                               	</span>
 								</h3>
-                                                                   <!-- title end -->  
-                                                                </div><!-- column end -->
-					</div><!-- flex-container end -->
+                                                                     
+                                                                </div>
+					</div>
                                                                                       
-				</div><!-- pos-rel end -->
-			</section><!-- about us end -->
+				</div>
+			</section>
 
 			<!-- work process start -->
 			<section id="down" class="pos-rel section-bg-light-1" data-midnight="black">
