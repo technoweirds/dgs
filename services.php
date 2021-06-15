@@ -191,28 +191,28 @@ Without a digital marketing plan, your search engine optimization (SEO) and othe
 A few key points that account for digital strategy are:
 	<br>
 
-Research & information gathering 
+&#9675; Research & information gathering 
 <br>
 
-Content marketing 
+&#9675; Content marketing 
 <br>
 
-Tool to execute content 
+&#9675; Tool to execute content 
 <br>
 
-Data personalization & Analytics
+&#9675; Data personalization & Analytics
 <br>
 
-Set goals and vision 
+&#9675; Set goals and vision 
 <br>
 
-Website strategy 
+&#9675; Website strategy 
 <br>
 
-Transform results actively 
+&#9675; Transform results actively 
 <br>
 
-<img id="myImg" src="assets\images\services\Branding Process.jpg" alt="Snow" style="width:100%;">
+<img id="myImg" src="assets\images\services\Branding Process.jpg" alt="" style="width:100%; margin-top: 50px;">
 
 </p>
 									</div>

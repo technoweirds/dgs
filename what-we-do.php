@@ -114,7 +114,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<section class="pos-rel section-bg-dark-1">
 				<!-- pos-rel start -->
 				<div class="pos-rel padding-top-bottom-120 padding-left-right-30">
-                                  <img class="pos-rel bg-img-cover" src="assets/images/backgrounds/dont-worry.png" alt="development">	
+                                  <img class="pos-rel bg-img-cover" src="assets\images\backgrounds\Dont-worry.png" alt="development">	
 				</div><!-- pos-rel end -->
 			</section><!-- team end -->
                           <!-- about start -->
@@ -195,7 +195,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<!-- grid-margin-box start -->
 							<div class="grid-margin-box js-scrollanim">
 								<div class="anim-fade">
-									<span class="subhead-xs text-color-red">01</span><br>
+									<span class="subhead-xs dgshdtxt">01</span><br>
 									<h3 class="headline-xxs text-color-black margin-top-30">Branding</h3>
 									<p class="body-text-xs text-color-black margin-top-20">After years of wrestling for the right key to branding, our team of Geniuses is always on their toes to bring you exclusive and attractive brand solutions.</p>
 								</div>
@@ -206,7 +206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<!-- grid-margin-box start -->
 							<div class="grid-margin-box js-scrollanim">
 								<div class="anim-fade">
-									<span class="subhead-xs text-color-red">02</span><br>
+									<span class="subhead-xs dgshdtxt">02</span><br>
 									<h3 class="headline-xxs text-color-black margin-top-30">Client Servicing</h3>
 									<p class="body-text-xs text-color-black margin-top-20">At D'Genius, we don't believe in serving the client what is needed but more than what is needed. We believe if you grow we grow. Our excellent and proficient team of Client Servicing will leave no stone unturned when it comes to delivering the needful.</p>
                                                               </div>
@@ -218,7 +218,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<!-- grid-margin-box start -->
 							<div class="grid-margin-box js-scrollanim">
 								<div class="anim-fade">
-									<span class="subhead-xs text-color-red">03</span><br>
+									<span class="subhead-xs dgshdtxt">03</span><br>
 									<h3 class="headline-xxs text-color-black margin-top-30">Content</h3>
 									<p class="body-text-xs text-color-black margin-top-20">When it comes to content, we come with a comprehensive plan to promote & create outputs. Our content team works vigorously by joining content architecture with SEO and pulls out remarkable results for your brand.</p>
 								</div>
@@ -229,7 +229,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<!-- grid-margin-box start -->
 							<div class="grid-margin-box js-scrollanim">
 								<div class="anim-fade">
-									<span class="subhead-xs text-color-red">04</span><br>
+									<span class="subhead-xs dgshdtxt">04</span><br>
 									<h3 class="headline-xxs text-color-black margin-top-30">Graphic Designing</h3>
 									<p class="body-text-xs text-color-black margin-top-20">For us artists at D'Genius, graphic designing is not about just creating visual content to promote the message. We ensure the language and the authenticity of the brand or business is projected directly to the audience via our designs.</p>
 								</div>
@@ -240,7 +240,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<!-- grid-margin-box start -->
 							<div class="grid-margin-box js-scrollanim">
 								<div class="anim-fade">
-									<span class="subhead-xs text-color-red">05</span><br>
+									<span class="subhead-xs dgshdtxt">05</span><br>
 									<h3 class="headline-xxs text-color-black margin-top-30">Digital Marketing Strategy & Analysis</h3>
 									<p class="body-text-xs text-color-black margin-top-20">Structuring a successful digital marketing plan in and around the business has been a passion for us geniuses at D'Genius for 15 years. We look for possibilities to walk the virgin road that has never been explored. Trust us to lead the path.</p>
 								</div>

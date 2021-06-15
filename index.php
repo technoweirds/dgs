@@ -835,10 +835,7 @@
 			<div class="pos-rel bg-img-cover height-100vh" style="background-image:url(assets/images/projects/neon-lights/woman-wearing-beige-and-gray-hoodie-portrait-2272855.jpg)">
 				<div class="bg-overlay-black"></div>
 				<div class="pos-rel height-100perc">
-					<a href="assets/logo.mp4" class="play-button js-popup-youtube js-pointer-large">
-						<span class="play-button__inner"></span>
-					</a>
-				</div>
+				<iframe width=100% height="1000" src="https://www.youtube.com/embed/_WDEcDwxua0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>				</div>
 			</div><!-- video content end -->
 		</main><!-- main end -->
 		
