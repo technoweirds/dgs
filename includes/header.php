@@ -36,28 +36,28 @@
 				<ul class="list list_center list_margin-20px hidden-box">
 					<li class="list__item">
 						<div class="hidden-box d-inline-block">
-							<a href="#" class="anim-slide js-pointer-small">
+							<a href="https://www.facebook.com/DGeniussolutions/" class="anim-slide js-pointer-small">
 								<i class="fab fa-facebook-f"></i>
 							</a>
 						</div>
 					</li>
 					<li class="list__item">
 						<div class="hidden-box d-inline-block">
-							<a href="#" class="anim-slide tr-delay-04 js-pointer-small">
+							<a href="https://instagram.com/dgenius_solutions?utm_medium=copy_link" class="anim-slide tr-delay-04 js-pointer-small">
 								<i class="fab fa-instagram"></i>
 							</a>
 						</div>
 					</li>
 					<li class="list__item">
 						<div class="hidden-box d-inline-block">
-							<a href="#" class="anim-slide tr-delay-04 js-pointer-small">
+							<a href="https://www.linkedin.com/company/d-genius-solutions" class="anim-slide tr-delay-04 js-pointer-small">
 								<i class="fab fa-linkedin-in"></i>
 							</a>
 						</div>
 					</li>
 					<li class="list__item">
 						<div class="hidden-box d-inline-block">
-							<a href="#" class="anim-slide tr-delay-04 js-pointer-small">
+							<a href="https://twitter.com/DGenius_S?s=09" class="anim-slide tr-delay-04 js-pointer-small">
 								<i class="fab fa-twitter"></i>
 							</a>
 						</div>

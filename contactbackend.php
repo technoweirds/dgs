@@ -24,8 +24,7 @@ VALUES ('$fn', '$ln', '$email' , '$chk' , '1/2/3')";
 $in_ch=mysqli_query($con,$sql);  
 if($in_ch==1)  
    {  
-      echo'<script>alert("Inserted Successfully")</script>';  
-   }  
+      header("location: index.php");	   }  
 else  
    {  
       echo'<script>alert("Failed To Insert")</script>';  
