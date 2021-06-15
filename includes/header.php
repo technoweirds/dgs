@@ -23,7 +23,8 @@
 			<div class="header-contact js-midnight-color js-headroom">
 				<div class="header-contact__flex">
 					<div class="header-contact__anim">
-						<a href="https://wa.me/9167350238?text=Thank%20You%20!!!%20Our%20support%20team%20will%20get%20in%20touch%20with%20you%20shortly.%0AWe%20are%20glad%20to%20receive%20a%20Query%20from%20you.%0A%0ACall%20us%20%3A%20%2B91%209167350238" target="_blank" class="header-contact__btn vertical-text center js-pointer-large">
+						<a href="https://wa.me/9167350238?text=Thank%20you%20for%20showing%20interest%2C%20we%20are%20glad%20to%20have%20you%20here.%20Hold%20on%20tight%20till%20we%20get%20in%20touch%20with%20you%20or%20call%20us%20at%20%2B91%209167350238.
+" target="_blank" class="header-contact__btn vertical-text center js-pointer-large">
 						<span class="vertical-text__inner"><i class="far fa-comment-dots"></i> Get in touch</span>
 						</a>
 					</div>
