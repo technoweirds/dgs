@@ -190,7 +190,7 @@
 
 						<div class="hidden-box d-inline-block">
 
-							<div class="headline-xxxxs nav-title-color nav-reveal-anim js-nav-anim">Sales Address:</div>
+							<div class="headline-xxxxs nav-title-color nav-reveal-anim js-nav-anim margin-top-10">Sales Address:</div>
 						</div>
 						<div class="nav-fade-anim js-nav-anim margin-top-10">
 							<a href="#" class="subhead-xxs nav-text-color js-pointer-small">
@@ -214,7 +214,7 @@
 
 				<!-- nav-copyright start -->
 				<div class="nav-copyright text-right">
-					<p class="copyright-style nav-fade-anim js-nav-anim">
+					<p class="copyright-style nav-fade-anim js-nav-anim margin-right-50">
 						&copy; Copyright 2020 D'Genius Solutions.
 					</p>
 				</div><!-- nav-copyright end -->
