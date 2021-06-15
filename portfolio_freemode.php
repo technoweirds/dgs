@@ -78,156 +78,482 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<i class="pointer__inner fas fa-link"></i>
 		</div><!-- pointer end -->
 
+		<!-- to top btn start -->
+		<a href="#up" class="scroll-to-btn js-headroom js-midnight-color js-smooth-scroll js-pointer-large">
+			<span class="scroll-to-btn__box">
+				<span class="scroll-to-btn__arrow"></span>
+			</span>
+		</a><!-- to top btn end -->
+
+		<!-- scroll down btn start -->
+		<a href="#down" class="scroll-to-btn to-down js-headroom js-midnight-color js-smooth-scroll js-pointer-large js-scroll-btn">
+			<span class="scroll-to-btn__box">
+				<span class="scroll-to-btn__arrow"></span>
+			</span>
+		</a><!-- scroll down btn end -->
+
 		<?php include("includes/header.php"); ?>
-		
+
 		<!-- main start -->
 		<main class="js-animsition-overlay" data-animsition-overlay="true">
-			<!-- one-page-slider start -->
-			<section class="pos-rel section-bg-dark-1 after-preloader-anim js-freemode-slider one-page-slider">
-				<!-- swiper-wrapper start -->
-				<div class="swiper-wrapper">
-					<!-- swiper-slide start -->
-					<div class="swiper-slide">
-						<div class="swiper-parallax-bg-box" data-swiper-parallax-y="50%">
-							<div class="bg-img-cover height-100perc" style="background-image: url(assets/images/projects/speakers/revolt-eeEsmrTVH7Q-unsplash.jpg);"></div>
-							<div class="bg-overlay-black"></div>
-						</div>
-						<div class="pos-rel d-flex flex-center-center height-100perc" data-swiper-parallax-y="25%">
-							<h2 class="container small slider-preloader-anim">
-								<a href="project_drone.html" class="headline-xxxxl js-pointer-large js-animsition-link">Speakers</a>
-							</h2>
-						</div>
-					</div><!-- swiper-slide end -->
 
-					<!-- swiper-slide start -->
-					<div class="swiper-slide">
-						<div class="swiper-parallax-bg-box" data-swiper-parallax-y="50%">
-							<div class="bg-img-cover height-100perc" style="background-image: url(assets/images/projects/black-bike/josh-nuttall-pIwu5XNvXpk-unsplash.jpg);"></div>
-							<div class="bg-overlay-black"></div>
-						</div>
-						<div class="pos-rel d-flex flex-center-center height-100perc" data-swiper-parallax-y="25%">
-							<h2 class="container small">
-								<a href="project_drone.html" class="headline-xxxxl js-pointer-large js-animsition-link">Black Bike</a>
-							</h2>
-						</div>
-					</div><!-- swiper-slide end -->
+			<!-- portfolio start -->
+			<section class="pos-rel section-bg-light-2" data-midnight="black">
+				<!-- pos-rel start -->
+				<div class="pos-rel padding-top-bottom-120">
+					<!-- title start -->
+					<h2 class="headline-xxxl text-color-black text-center hidden-box js-scrollanim">
+						<span class="anim-slide">
+							A glimpse of our <span class="">Works</span>
+						</span>
+					</h2><!-- title end -->
 
-					<!-- swiper-slide start -->
-					<div class="swiper-slide">
-						<div class="swiper-parallax-bg-box" data-swiper-parallax-y="50%">
-							<div class="bg-img-cover height-100perc" style="background-image: url(assets/images/projects/phone-case/kerttu-jaatinen-j-5LhTTAzL4-unsplash.jpg);"></div>
-							<div class="bg-overlay-black"></div>
-						</div>
-						<div class="pos-rel d-flex flex-center-center height-100perc" data-swiper-parallax-y="25%">
-							<h2 class="container small">
-								<a href="project_drone.html" class="headline-xxxxl js-pointer-large js-animsition-link">Phone Case</a>
-							</h2>
-						</div>
-					</div><!-- swiper-slide end -->
+					<!-- filter-buttons start -->
+					<div class="list list_row list_center list_margin-30px padding-top-90 js-filter-button-box js-scrollanim">
+						<button class="list__item js-filter-button anim-fade js-pointer-small js-filter-button-active" data-filter="*">
+							<h2><span class="flip-btn text-color-black" data-text="EVERYTHING">EVERYTHING</span></h2>
+						</button>
+						<button class="list__item js-filter-button anim-fade tr-delay-01 js-pointer-small" data-filter=".branding">
+							<h2><span class="flip-btn text-color-black" data-text="BRANDING">BRANDING</span></h2>
+						</button>
+						<button class="list__item js-filter-button anim-fade tr-delay-02 js-pointer-small" data-filter=".social">
+							<h2><span class="flip-btn text-color-black" data-text="SOCIAL MEDIA MARKETING">SOCIAL MEDIA MARKETING</span></h2>
+						</button>
+						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".video">
+							<h2><span class="flip-btn text-color-black" data-text="VIDEO PRODUCTION">Music Video</span></h2>
+						</button>
+						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".tvc">
+							<h2><span class="flip-btn text-color-black" data-text="TVC">TVC</span></h2>
+						</button>
+						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".email">
+							<h2><span class="flip-btn text-color-black" data-text="EMAIL MARKETING">Email Marketing</span></h2>
+						</button>
+						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".linkedin">
+							<h2><span class="flip-btn text-color-black" data-text="LINKEDIN B2B">Linkedin B2B</span></h2>
+						</button>
+						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".website">
+							<h2><span class="flip-btn text-color-black" data-text="WEBSITE">Website</span></h2>
+						</button>
+					</div><!-- filter-buttons end -->
 
-					<!-- swiper-slide start -->
-					<div class="swiper-slide">
-						<div class="swiper-parallax-bg-box" data-swiper-parallax-y="50%">
-							<div class="bg-img-cover height-100perc" style="background-image: url(assets/images/projects/furniture/goashape-RvyJGaoaWrs-unsplash.jpg);"></div>
-							<div class="bg-overlay-black"></div>
-						</div>
-						<div class="pos-rel d-flex flex-center-center height-100perc" data-swiper-parallax-y="25%">
-							<h2 class="container small">
-								<a href="project_drone.html" class="headline-xxxxl js-pointer-large js-animsition-link">Furniture</a>
-							</h2>
-						</div>
-					</div><!-- swiper-slide end -->
+					<!-- js-isotope-filter-grid-box start -->
+					<div class="js-isotope-filter-grid-box container full">
+						<!-- empty grid -->
+						<div class="js-isotope-filter-grid-item empty-grid-1px-33-50-none"></div>
+						<div class="js-isotope-filter-grid-item empty-grid-200px-33-none"></div>
+						<div class="js-isotope-filter-grid-item empty-grid-100px-33-50-none"></div>
 
-					<!-- swiper-slide start -->
-					<div class="swiper-slide">
-						<div class="swiper-parallax-bg-box" data-swiper-parallax-y="50%">
-							<div class="bg-img-cover height-100perc" style="background-image: url(assets/images/projects/drone/quadcopter-on-wooden-surface-1601217.jpg);"></div>
-							<div class="bg-overlay-black"></div>
-						</div>
-						<div class="pos-rel d-flex flex-center-center height-100perc" data-swiper-parallax-y="25%">
-							<h2 class="container small">
-								<a href="project_drone.html" class="headline-xxxxl js-pointer-large js-animsition-link">Drone</a>
-							</h2>
-						</div>
-					</div><!-- swiper-slide end -->
+						<!-- Branding -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/branding/structural-specialities-projects.png" alt="Structural Specialities & Projects">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
 
-					<!-- swiper-slide start -->
-					<div class="swiper-slide">
-						<div class="swiper-parallax-bg-box" data-swiper-parallax-y="50%">
-							<div class="bg-img-cover height-100perc" style="background-image: url(assets/images/projects/pexels/woman-in-black-sexy-top-2825034.jpg);"></div>
-							<div class="bg-overlay-black"></div>
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">Branding</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Structural Specialities & Projects</span>
+									</h3>
+								</div>
+							</a>
 						</div>
-						<div class="pos-rel d-flex flex-center-center height-100perc" data-swiper-parallax-y="25%">
-							<h2 class="container small">
-								<a href="project_drone.html" class="headline-xxxxl js-pointer-large js-animsition-link">Pexels</a>
-							</h2>
-						</div>
-					</div><!-- swiper-slide end -->
+						<!-- grid-item end -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/branding/MKA&CO.png" alt="MKA&CO">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
 
-					<!-- swiper-slide start -->
-					<div class="swiper-slide">
-						<div class="swiper-parallax-bg-box" data-swiper-parallax-y="50%">
-							<div class="bg-img-cover height-100perc" style="background-image: url(assets/images/projects/home-decor/tom-crew-NUUjVj4YQLA-unsplash.jpg);"></div>
-							<div class="bg-overlay-black"></div>
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">Branding</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">MKA&CO</span>
+									</h3>
+								</div>
+							</a>
 						</div>
-						<div class="pos-rel d-flex flex-center-center height-100perc" data-swiper-parallax-y="25%">
-							<h2 class="container small">
-								<a href="project_drone.html" class="headline-xxxxl js-pointer-large js-animsition-link">Home Decor</a>
-							</h2>
-						</div>
-					</div><!-- swiper-slide end -->
+						<!-- grid-item end -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/branding/DGS.png" alt="DGS">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
 
-					<!-- swiper-slide start -->
-					<div class="swiper-slide">
-						<div class="swiper-parallax-bg-box" data-swiper-parallax-y="50%">
-							<div class="bg-img-cover height-100perc" style="background-image: url(assets/images/projects/sneakers/revolt-164_6wVEHfI-unsplash.jpg);"></div>
-							<div class="bg-overlay-black"></div>
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">Branding</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">DGS</span>
+									</h3>
+								</div>
+							</a>
 						</div>
-						<div class="pos-rel d-flex flex-center-center height-100perc" data-swiper-parallax-y="25%">
-							<h2 class="container small">
-								<a href="project_drone.html" class="headline-xxxxl js-pointer-large js-animsition-link">Sneakers</a>
-							</h2>
-						</div>
-					</div><!-- swiper-slide end -->
+						<!-- grid-item end -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/branding/YIMT.png" alt="YIMT">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
 
-					<!-- swiper-slide start -->
-					<div class="swiper-slide">
-						<div class="swiper-parallax-bg-box" data-swiper-parallax-y="50%">
-							<div class="bg-img-cover height-100perc" style="background-image: url(assets/images/projects/sandman/revolt-mBP_MP6F8mc-unsplash.jpg);"></div>
-							<div class="bg-overlay-black"></div>
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">Branding</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">YIMT</span>
+									</h3>
+								</div>
+							</a>
 						</div>
-						<div class="pos-rel d-flex flex-center-center height-100perc" data-swiper-parallax-y="25%">
-							<h2 class="container small">
-								<a href="project_drone.html" class="headline-xxxxl js-pointer-large js-animsition-link">Sandman</a>
-							</h2>
+						<!-- grid-item end -->
+						<!-- Branding End -->
+
+						<!-- Social Media Marketing -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/social-media-marketing/Aertrip1.png" alt="Aertrip">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
+
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">SOCIAL MEDIA MARKETING</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Aertrip</span>
+									</h3>
+								</div>
+							</a>
 						</div>
-					</div><!-- swiper-slide end -->
-				</div><!-- swiper-wrapper end -->
+						<!-- grid-item end -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/social-media-marketing/Aertrip2.png" alt="Aertrip">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
 
-				<!-- swiper-button-prev start -->
-				<div class="swiper-button-prev-box">
-					<div class="anim-fade">
-						<div class="swiper-button-prev"></div>
-					</div>
-				</div><!-- swiper-button-prev end -->
-				<!-- swiper-button-next start -->
-				<div class="swiper-button-next-box">
-					<div class="anim-fade tr-delay-03">
-						<div class="swiper-button-next"></div>
-					</div>
-				</div><!-- swiper-button-next end -->
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">SOCIAL MEDIA MARKETING</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Aertrip</span>
+									</h3>
+								</div>
+							</a>
+						</div>
+						<!-- grid-item end -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/social-media-marketing/Compuage1.gif" alt="Compuage">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
 
-				<!-- swiper-pagination start -->
-				<div class="pagination-box">
-					<div class="anim-fade tr-delay-06">
-						<div class="swiper-pagination counter-pagination"></div>
-					</div>
-				</div><!-- swiper-pagination end -->
-			</section><!-- one-page-slider end -->
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">SOCIAL MEDIA MARKETING</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Compuage</span>
+									</h3>
+								</div>
+							</a>
+						</div>
+						<!-- grid-item end -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/social-media-marketing/Fundenable1.png" alt="Fundenable">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
+
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">SOCIAL MEDIA MARKETING</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Fundenable</span>
+									</h3>
+								</div>
+							</a>
+						</div>
+						<!-- grid-item end -->
+						<!-- Social Media Marketing End -->
+
+						<!-- Music Video -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item video">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/kailasa-music-video/kailasa-music-video.png" alt="Kailasa Music Video">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
+
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">Music Video</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Kailasa Music Video</span>
+									</h3>
+								</div>
+							</a>
+						</div>
+						<!-- grid-item end -->
+						<!-- Music Video End -->
+
+						<!-- TVC -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item tvc">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/welspun/Welspun.png" alt="Welspun">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
+
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">TVC</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Welspun</span>
+									</h3>
+								</div>
+							</a>
+						</div>
+						<!-- grid-item end -->
+						<!-- TVC End -->
+
+						<!-- Email Marketing -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item email">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/email-marketing/Compuage1.jpg" alt="Compuage">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
+
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">Email Marketing</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Compuage</span>
+									</h3>
+								</div>
+							</a>
+						</div>
+						<!-- grid-item end -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item email">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/email-marketing/Compuage2.jpg" alt="Compuage">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
+
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">Email Marketing</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Compuage</span>
+									</h3>
+								</div>
+							</a>
+						</div>
+						<!-- grid-item end -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item email">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/email-marketing/Compuage3.png" alt="Compuage">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
+
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">Email Marketing</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Compuage</span>
+									</h3>
+								</div>
+							</a>
+						</div>
+						<!-- grid-item end -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item email">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/email-marketing/Compuage4.jpg" alt="Compuage">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
+
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">Email Marketing</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Compuage</span>
+									</h3>
+								</div>
+							</a>
+						</div>
+						<!-- grid-item end -->
+						<!-- Email Marketing End -->
+
+						<!-- LinkedIn B2B -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item linkedin">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/linkedin-b2b/Aertrip1.jpg" alt="Aertrip ">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
+
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">LinkedIn B2B</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Aertrip</span>
+									</h3>
+								</div>
+							</a>
+						</div>
+						<!-- grid-item end -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item linkedin">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/linkedin-b2b/Aertrip2.jpg" alt="Aertrip ">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
+
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">LinkedIn B2B</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Aertrip</span>
+									</h3>
+								</div>
+							</a>
+						</div>
+						<!-- grid-item end -->
+						<!-- LinkedIn B2B End -->
+
+						<!-- Website -->
+						<!-- grid-item start -->
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item website">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/website/website.jpg" alt="Structural Specialities & Projects">
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
+
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">Website</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Structural Specialities & Projects</span>
+									</h3>
+								</div>
+							</a>
+						</div>
+						<!-- grid-item end -->
+						<!-- Website End -->
+
+	
+
+						</div><!-- js-isotope-filter-grid-box end -->
+				</div><!-- pos-rel end -->
+			</section><!-- portfolio end -->
+
+			
 		</main><!-- main end -->
+
+		<?php include("includes/footer.php"); ?>
+		
 
 		<!-- scripts -->
 		<script src="assets/js/plugins.js"></script>
+		<script src="assets/js/footer-reveal.js"></script>
 		<script src="assets/js/main.js"></script>
+		<script src="assets/js/footer-reveal_init.js"></script>
 	</body>
 </html>
