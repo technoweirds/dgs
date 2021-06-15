@@ -313,7 +313,7 @@
 					<!-- swiper-slide start -->
 					<div class="swiper-slide">
 						<!-- slide-bg -->
-						<div class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/videos/b1.gif)"></div>
+						<a  href="services.php" class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/videos/b1.gif)"></a>
 						<!-- bg-overlay -->
 						<div class="bg-overlay-black"></div>
 

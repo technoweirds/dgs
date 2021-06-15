@@ -130,7 +130,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<p class="body-text-l"> Social media marketing services to us is the process of creating tailored content and promoting it on social media platforms to connect your brand with your audience, build brand awareness, drive sales and website traffic. The key to successful social media marketing is having a strategy. D'Genius Solutions aims at being one of the best social media marketing agencies in the coming years by successfully executing reliable and result-driven strategies for the brand across various sectors.
 
-<br>Top social media platforms we use for brand marketing: Facebook, LinkedIn, Twitter, Instagram.</p>
+									<br>Top social media platforms we use for brand marketing: Facebook, LinkedIn, Twitter, Instagram.</p>
 									</div>
 								</div><!-- accordion__tab end -->
 
@@ -169,9 +169,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</div>
 									<div class="accordion__content js-accordion-content container">
 
-									<p class="body-text-l">Copy and Content creation is an eminent service in marketing. The right copy will promote the content curated for  brand awareness, build a tailored audience and compel sales. As a copy & content marketing agency we ensure serving our clients quality copy and content <br> Copywriting features: Advertise a product/service, describe a product/service, Sell a product/service. <br>Content writing & producing features: Curate brand associated & authentic content to be promoted through copy & design, increase brand positivity, bring in associates and relationships for the brand/business.<br>
-
-</p>
+									<p class="body-text-l">Copy and Content creation is an eminent service in marketing. The right copy will promote the content curated for  brand awareness, build a tailored audience and compel sales. As a copy & content marketing agency we ensure serving our clients quality copy and content <br> Copywriting features: Advertise a product/service, describe a product/service, Sell a product/service. <br>Content writing & producing features: Curate brand associated & authentic content to be promoted through copy & design, increase brand positivity, bring in associates and relationships for the brand/business.<br></p>
 									</div>
 								</div><!-- accordion__tab end -->
 
@@ -184,37 +182,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</div>
 									<div class="accordion__content js-accordion-content container">
 
-									<p class="body-text-l">Why do you need a digital strategy?  <br>A digital strategy provides a suitable direction for the brand or business to follow digitally. The strategy aims to lead the brand with a digital vision that walks in alignment with ambitious marketing solutions provided by a team of digital experts. These strategies use content, tools, platforms, and various digital mediums to meet the business objectives of the brand.Digital marketing strategy development is the way towards making guides that manage entrepreneurs and advertisers in accomplishing their image targets. 
-To secure a competitive situation in the online commercial centre, each industry chief should have a complete web showcasing plan to carry out tasks and hit business goals. Many advertisers, notwithstanding, get right into search engine marketing (SEM) without a substantial promoting technique plan. This is a terrible move, as the maxim goes: "Neglecting to design is intending to fizzle." 
-Without a digital marketing plan, your search engine optimization (SEO) and other digital marketing efforts will battle to make headway, what's more, you will not see the profit from speculation (ROI) you're expecting.
-<br>
-A few key points that account for digital strategy are:
-	<br>
+										<p class="body-text-l">Why do you need a digital strategy?  <br>A digital strategy provides a suitable direction for the brand or business to follow digitally. The strategy aims to lead the brand with a digital vision that walks in alignment with ambitious marketing solutions provided by a team of digital experts. These strategies use content, tools, platforms, and various digital mediums to meet the business objectives of the brand.Digital marketing strategy development is the way towards making guides that manage entrepreneurs and advertisers in accomplishing their image targets. 
+										To secure a competitive situation in the online commercial centre, each industry chief should have a complete web showcasing plan to carry out tasks and hit business goals. Many advertisers, notwithstanding, get right into search engine marketing (SEM) without a substantial promoting technique plan. This is a terrible move, as the maxim goes: "Neglecting to design is intending to fizzle." 
+										Without a digital marketing plan, your search engine optimization (SEO) and other digital marketing efforts will battle to make headway, what's more, you will not see the profit from speculation (ROI) you're expecting.
+										<br>
+										A few key points that account for digital strategy are:
+											<br>
 
-&#9675; Research & information gathering 
-<br>
+										&#9675; Research & information gathering 
+										<br>
 
-&#9675; Content marketing 
-<br>
+										&#9675; Content marketing 
+										<br>
 
-&#9675; Tool to execute content 
-<br>
+										&#9675; Tool to execute content 
+										<br>
 
-&#9675; Data personalization & Analytics
-<br>
+										&#9675; Data personalization & Analytics
+										<br>
 
-&#9675; Set goals and vision 
-<br>
+										&#9675; Set goals and vision 
+										<br>
 
-&#9675; Website strategy 
-<br>
+										&#9675; Website strategy 
+										<br>
 
-&#9675; Transform results actively 
-<br>
+										&#9675; Transform results actively 
+										<br>
 
-<img id="myImg" src="assets\images\services\Branding Process.jpg" alt="" style="width:100%; margin-top: 50px;">
+										<img id="myImg" src="assets\images\services\Branding Process.jpg" alt="" style="width:100%; margin-top: 50px;">
 
-</p>
+										</p>
 									</div>
 								</div><!-- accordion__tab end -->
 
@@ -400,7 +398,7 @@ A few key points that account for digital strategy are:
 			</section><!-- work process end -->
 
 			<!-- pricing start -->
-			<section class="pos-rel section-bg-dark-2">
+			<section id = "neha" class="pos-rel section-bg-dark-2">
 				<!-- pos-rel start -->
 				<div class="pos-rel padding-top-bottom-120">
 					<!-- title start -->
