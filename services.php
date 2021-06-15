@@ -212,7 +212,7 @@ Website strategy 
 Transform results actively 
 <br>
 
-<img id="myImg" src="assets\images\services\Branding Process.jpg" alt="Snow" style="width:100%; margin-top:40px">
+<img id="myImg" src="assets\images\services\Branding Process.jpg" alt="Snow" style="width:100%;">
 
 </p>
 									</div>
