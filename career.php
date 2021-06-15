@@ -104,7 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h3 class="headline-xxxs hidden-box">
 							<span class="anim-slide">Grow with DGS!</span>
 						</h3>
-						<h2 class="subhead-xxl margin-top-20 anim-slide">If you've got the talent to put up a great show in the advertising business, we are looking for you. The founders of DGenius believe in working with people who come with passion and compassion. We seek modern marketing and digital experts who can contribute and grow with DGS in various sectors spanning copywriting, designing, digital marketing, client servicing, business development and more.</h2>
+						<h2 class="subhead-xxl margin-top-20 anim-slide">If you've got the talent to put up a great show in the advertising business, we are looking for you. The founders of D'Genius believe in working with people who come with passion and compassion. We seek modern marketing and digital experts who can contribute and grow with DGS in various sectors spanning copywriting, designing, digital marketing, client servicing, business development and more.</h2>
 					</div>
 				</div><!-- pos-rel end -->
 			</section><!-- page head end -->

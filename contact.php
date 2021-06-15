@@ -122,7 +122,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<p class="headline-xxxxs invert" data-text="Email us">Email us</p>
 									<div class="padding-top-20">
 										<h6 class="anim-fade tr-delay-01">
-											<a href="#" class="subhead-xxs text-color-dadada text-hover-to-red js-pointer-small">business@dgeniussolutions.com</a>
+											<a href="#" class="subhead-xxs text-color-dadada js-pointer-small">business@dgeniussolutions.com</a>
 										</h6>
 									</div>
 								</div>
@@ -180,7 +180,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<p class="headline-xxxxs invert" data-text="Call us">Call us</p>
 									<div class="padding-top-20">
 										<h6 class="anim-fade tr-delay-01">
-											<a href="tel:+91 9167350238" class="subhead-xxs text-color-dadada text-hover-to-red js-pointer-small">+91 9167350238</a>
+											<a href="tel:+91 9167350238" class="subhead-xxs text-color-dadada js-pointer-small">+91 9167350238</a>
 										</h6><br>
 										</div>
 								</div>

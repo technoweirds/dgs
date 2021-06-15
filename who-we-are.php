@@ -189,7 +189,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="headline-xxs text-color-black hidden-box">
 							<span class="anim-slide js-scrollanim">Our Approach</span>
 						</h2>
-                                             <p class="body-text-s text-color-black margin-top-20">Team D'Genius has its share of masterminds who play the game collaboratively to achieve our client's goals. Thereby stating, "our Approach is based on testing, innovating and making breakthroughs, leading our clients to the best results."</p>
+                                             <p class="body-text-s text-color-black margin-top-20">Team D'Genius has its share of masterminds who play the game collaboratively to achieve our client's goals. Thereby stating, "Our approach is based on testing, innovating and making breakthroughs, leading our clients to the best results."</p>
 						<!-- flex-container start -->
 						<div class="flex-container padding-top-30">
 							<!-- column start -->

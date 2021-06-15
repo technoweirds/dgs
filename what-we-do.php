@@ -21,9 +21,9 @@
     <meta content="All, FOLLOW" name="MSNBOTS" />
     <meta content="All, FOLLOW" name="BINGBOTS" />   
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="canonical" href="https://www.dgeniussolutions.com/index.html" />
-	<link rel="amphtml" href="http://dgeniussolutions.com/amp/index.html" />
-	<link rel="preconnect" href="https://www.dgeniussolutions.com" />
+    <link rel="canonical" href="https://www.D'Geniussolutions.com/index.html" />
+	<link rel="amphtml" href="http://D'Geniussolutions.com/amp/index.html" />
+	<link rel="preconnect" href="https://www.D'Geniussolutions.com" />
     <link rel="preconnect" href="https://www.facebook.com" />
     <link rel="preconnect" href="https://connect.facebook.net" />
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
@@ -132,9 +132,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<img class="client-logo client-hover-out pos-abs pos-center-center" src="assets/images/care/c.png" alt="We Care">
 									<img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/care/cc.png" alt="We Care">
 								</div>
-                                                        <h3 class="body-text-s text-center margin-top-5">Building perception </h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Higher engagement</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Result-oriented</h3> 
+                                                        <h3 class="body-text-s text-left margin-top-5">Building perception </h3>
+                                                        <h3 class="body-text-s text-left margin-top-5">Higher engagement</h3>
+                                                        <h3 class="body-text-s text-left margin-top-5">Result-oriented</h3> 
 							</div><!-- clients-lines__column end -->
 
 							<!-- clients-lines__column start -->
@@ -143,9 +143,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<img class="client-logo client-hover-out pos-abs pos-center-center" src="assets/images/care/a.png" alt="We Care">
 									<img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/care/aa.png" alt="We Care">
                                                          </div>
-                                                        <h3 class="body-text-s text-center margin-top-5">Associating with them in the right way</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Brand positioning</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Showing empathy</h3> 
+                                                        <h3 class="body-text-s text-left margin-top-5">Associating with them in the right way</h3>
+                                                        <h3 class="body-text-s text-left margin-top-5">Brand positioning</h3>
+                                                        <h3 class="body-text-s text-left margin-top-5">Showing empathy</h3> 
                                           		</div><!-- clients-lines__column end -->
 
 							<!-- clients-lines__column start -->
@@ -154,9 +154,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<img class="client-logo client-hover-out pos-abs pos-center-center" src="assets/images/care/r.png" alt="We Care">
 									<img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/care/rr.png" alt="We Care">
 								</div>
-                                                        <h3 class="body-text-s text-center margin-top-5">Focus on important issues</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Adding value</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Being Consistent</h3>                                           		
+                                                        <h3 class="body-text-s text-left margin-top-5">Focus on important issues</h3>
+                                                        <h3 class="body-text-s text-left margin-top-5">Adding value</h3>
+                                                        <h3 class="body-text-s text-left margin-top-5">Being Consistent</h3>                                           		
 							</div><!-- clients-lines__column end -->
 
 							<!-- clients-lines__column start -->
@@ -165,9 +165,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<img class="client-logo client-hover-out pos-abs pos-center-center" src="assets/images/care/e.png" alt="We Care">
 									<img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/care/ee.png" alt="We Care">
 								</div>
-                                                       <h3 class="body-text-s text-center margin-top-5">Measuring market value</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Taking valuable feedback</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Measuring market value</h3>                                       		
+                                                       <h3 class="body-text-s text-left margin-top-5">Measuring market value</h3>
+                                                        <h3 class="body-text-s text-left margin-top-5">Taking valuable feedback</h3>
+                                                        <h3 class="body-text-s text-left margin-top-5">Measuring market value</h3>                                       		
 							</div><!-- clients-lines__column end -->
                                       
 				</div><!-- pos-rel end -->
@@ -208,7 +208,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="anim-fade">
 									<span class="subhead-xs text-color-red">02</span><br>
 									<h3 class="headline-xxs text-color-black margin-top-30">Client Servicing</h3>
-									<p class="body-text-xs text-color-black margin-top-20">At DGenius, we don't believe in serving the client what is needed but more than what is needed. We believe if you grow we grow. Our excellent and proficient team of Client Servicing will leave no stone unturned when it comes to delivering the needful.</p>
+									<p class="body-text-xs text-color-black margin-top-20">At D'Genius, we don't believe in serving the client what is needed but more than what is needed. We believe if you grow we grow. Our excellent and proficient team of Client Servicing will leave no stone unturned when it comes to delivering the needful.</p>
                                                               </div>
 							</div><!-- grid-margin-box end -->
 						</div><!-- grid-item end -->
@@ -231,7 +231,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="anim-fade">
 									<span class="subhead-xs text-color-red">04</span><br>
 									<h3 class="headline-xxs text-color-black margin-top-30">Graphic Designing</h3>
-									<p class="body-text-xs text-color-black margin-top-20">For us artists at DGenius, graphic designing is not about just creating visual content to promote the message. We ensure the language and the authenticity of the brand or business is projected directly to the audience via our designs.</p>
+									<p class="body-text-xs text-color-black margin-top-20">For us artists at D'Genius, graphic designing is not about just creating visual content to promote the message. We ensure the language and the authenticity of the brand or business is projected directly to the audience via our designs.</p>
 								</div>
 							</div><!-- grid-margin-box end -->
 						</div><!-- grid-item end -->
@@ -242,7 +242,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="anim-fade">
 									<span class="subhead-xs text-color-red">05</span><br>
 									<h3 class="headline-xxs text-color-black margin-top-30">Digital Marketing Strategy & Analysis</h3>
-									<p class="body-text-xs text-color-black margin-top-20">Structuring a successful digital marketing plan in and around the business has been a passion for us geniuses at DGenius for 15 years. We look for possibilities to walk the virgin road that has never been explored. Trust us to lead the path.</p>
+									<p class="body-text-xs text-color-black margin-top-20">Structuring a successful digital marketing plan in and around the business has been a passion for us geniuses at D'Genius for 15 years. We look for possibilities to walk the virgin road that has never been explored. Trust us to lead the path.</p>
 								</div>
 							</div><!-- grid-margin-box end -->
 						</div><!-- grid-item end -->  
