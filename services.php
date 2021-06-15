@@ -97,17 +97,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- main start -->
 		<main class="js-animsition-overlay" data-animsition-overlay="true">
 			<!-- page head start -->
-			<!-- <section id="up" class="pos-rel section-bg-dark-1">
-				
-				<div class="pos-rel flex-min-height-100vh">
-					<div class="container padding-top-bottom-120 after-preloader-anim">
-						<h3 class="headline-xxxs hidden-box">
+			<section id="up" class="pos-rel section-bg-dark-1">
+
+			<div class="container padding-top-bottom-120 after-preloader-anim">
+						<h1 class="headline-1 hidden-box">
 							<span class="anim-slide">Our Services</span>
-						</h3>
-						<h2 class="subhead-xxl margin-top-20 anim-slide">90's mixtape single-origin coffee XOXO fashion axe butcher whatever, kinfolk cornhole retro cliche tofu humblebrag before they sold out. Af hammock listicle vape banjo echo park meditation organic cred subway tile.</h2>
+						</h1>
+						<!-- <h2 class="subhead-xxl margin-top-20 anim-slide">CONTENT NEEDED</h2> -->
 					</div>
-				</div>
-			</section> -->
+
+			</section><!-- page head end -->
 
 			<!-- services start -->
 			<section id="down" class="pos-rel section-bg-dark-2">
@@ -117,55 +116,212 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="width-100perc padding-bottom-120">
 						<!-- padding-top-90 start -->
 						<div class="padding-top-120">
+							<h6 class="headline-xxl container hidden-box">
+								<span class="anim-slide js-scrollanim">BRAND MARKETING </span>
+							</h6>
+
+							<!-- accordion start -->
+							<div class="accordion accordion_underline js-accordion margin-top-60">
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Social Media Marketing</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l"> Social media marketing services to us is the process of creating tailored content and promoting it on social media platforms to connect your brand with your audience, build brand awareness, drive sales and website traffic. The key to successful social media marketing is having a strategy. D'Genius Solutions aims at being one of the best social media marketing agencies in the coming years by successfully executing reliable and result-driven strategies for the brand across various sectors.
+
+									<br>Top social media platforms we use for brand marketing: Facebook, LinkedIn, Twitter, Instagram.</p>
+									</div>
+								</div><!-- accordion__tab end -->
+
+
+
+
+
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">LinkedIn Marketing</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l"> LinkedIn is the No.1 platform for B2B lead generation and the world's largest professional networking site. Using an appropriate LinkedIn marketing strategy to network, connect and sell for you is what we mastered. Thus, LinkedIn marketing services channelized in the right direction is a great tool for targeting and turning high-quality prospects into customers.</p>
+									</div>
+								</div><!-- accordion__tab end -->
+
+
+
+
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Design & Development</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l"> Design in marketing is the visual stimuli for a brand. It speaks for the company through various ad banners, graphics, and design elements. We serve the right purpose of a creative designing agency by understanding the lifestyle and core of a brand or business and its aesthetic through a genuine look and feel for its audience.</p>
+									</div>
+								</div><!-- accordion__tab end -->
+
+
+
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Copy & Content</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">Copy and Content creation is an eminent service in marketing. The right copy will promote the content curated for  brand awareness, build a tailored audience and compel sales. As a copy & content marketing agency we ensure serving our clients quality copy and content <br> Copywriting features: Advertise a product/service, describe a product/service, Sell a product/service. <br>Content writing & producing features: Curate brand associated & authentic content to be promoted through copy & design, increase brand positivity, bring in associates and relationships for the brand/business.<br></p>
+									</div>
+								</div><!-- accordion__tab end -->
+
+
+
+
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Digital Strategy</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+										<p class="body-text-l">Why do you need a digital strategy?  <br>A digital strategy provides a suitable direction for the brand or business to follow digitally. The strategy aims to lead the brand with a digital vision that walks in alignment with ambitious marketing solutions provided by a team of digital experts. These strategies use content, tools, platforms, and various digital mediums to meet the business objectives of the brand.Digital marketing strategy development is the way towards making guides that manage entrepreneurs and advertisers in accomplishing their image targets. 
+										To secure a competitive situation in the online commercial centre, each industry chief should have a complete web showcasing plan to carry out tasks and hit business goals. Many advertisers, notwithstanding, get right into search engine marketing (SEM) without a substantial promoting technique plan. This is a terrible move, as the maxim goes: "Neglecting to design is intending to fizzle." 
+										Without a digital marketing plan, your search engine optimization (SEO) and other digital marketing efforts will battle to make headway, what's more, you will not see the profit from speculation (ROI) you're expecting.
+										<br>
+										A few key points that account for digital strategy are:
+											<br>
+
+										&#9675; Research & information gathering 
+										<br>
+
+										&#9675; Content marketing 
+										<br>
+
+										&#9675; Tool to execute content 
+										<br>
+
+										&#9675; Data personalization & Analytics
+										<br>
+
+										&#9675; Set goals and vision 
+										<br>
+
+										&#9675; Website strategy 
+										<br>
+
+										&#9675; Transform results actively 
+										<br>
+
+										<img id="myImg" src="assets\images\services\Branding Process.jpg" alt="" style="width:100%; margin-top: 50px;">
+
+										</p>
+									</div>
+								</div><!-- accordion__tab end -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								<!-- accordion__tab start -->
+
+						<!-- padding-top-90 start -->
+						<div class="padding-top-120">
 							<h2 class="headline-l container hidden-box">
-								<a href="service_brand_marketing.php"><span class="anim-slide js-scrollanim js-pointer-large">BRAND MARKETING</span></a> 
-							</h2>
-							<h2 class="headline-l container hidden-box">
-								<span class="anim-slide js-scrollanim js-pointer-large">VIDEO COLLATERALS</span>
-							</h2>
-							<h2 class="headline-l container hidden-box">
-								<span class="anim-slide js-scrollanim js-pointer-large">MEDIA MANAGEMENT</span>
-							</h2>
-							<h2 class="headline-l container hidden-box">
-								<span class="anim-slide js-scrollanim js-pointer-large">TECHNOLOGY</span>
-							</h2>
-							<h2 class="headline-l container hidden-box">
-								<span class="anim-slide js-scrollanim js-pointer-large">BRANDING</span>
+								<span class="anim-slide js-scrollanim"></span>
 							</h2>
 
 							<!-- accordion start -->
-							<!-- <div class="accordion accordion_underline js-accordion margin-top-60">
-								
+							<div class="accordion accordion_underline js-accordion margin-top-60">
+								<!-- accordion__tab start -->
 								<div class="accordion__tab js-accordion-tab">
 									<div class="accordion__btn js-accordion-btn container js-pointer-large">
-										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Front-end Development</h6>
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">UI/UX Design</h6>
 									</div>
 									<div class="accordion__content js-accordion-content container">
 										<p class="body-text-l">Green juice roof party kombucha mixtape chartreuse. Tofu retro cold-pressed letterpress coloring book gastropub yr asymmetrical cred bicycle rights snackwave XOXO raw denim keytar. Coloring book poutine church-key, selfies asymmetrical pickled banjo green juice PBR&B. Chicharrones you probably haven't heard of them bushwick stumptown yuccie authentic schlitz next level franzen hoodie. Cardigan disrupt fashion axe post-ironic, cold-pressed woke hoodie letterpress YOLO schlitz sartorial etsy prism squid church-key. Pinterest lumbersexual forage chillwave godard pitchfork vexillologist deep v chia truffaut four dollar toast food truck meditation. Hot chicken coloring book cliche YOLO, crucifix kale chips swag hexagon raclette paleo next level austin.<br><br>Hammock sriracha paleo, iPhone swag af flexitarian hella pickled neutra pug. Trust fund chicharrones iPhone stumptown chia. Godard 3 wolf moon tacos try-hard, raw denim locavore messenger bag portland. Blue bottle hashtag schlitz etsy knausgaard, aesthetic tacos freegan lomo deep v fashion axe.</p>
 									</div>
-								</div>
+								</div><!-- accordion__tab end -->
 
-								
+								<!-- accordion__tab start -->
 								<div class="accordion__tab js-accordion-tab">
 									<div class="accordion__btn js-accordion-btn container js-pointer-large">
-										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Back-end Development</h6>
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Graphic Design</h6>
 									</div>
 									<div class="accordion__content js-accordion-content container">
 										<p class="body-text-l">Green juice roof party kombucha mixtape chartreuse. Tofu retro cold-pressed letterpress coloring book gastropub yr asymmetrical cred bicycle rights snackwave XOXO raw denim keytar. Coloring book poutine church-key, selfies asymmetrical pickled banjo green juice PBR&B. Chicharrones you probably haven't heard of them bushwick stumptown yuccie authentic schlitz next level franzen hoodie. Cardigan disrupt fashion axe post-ironic, cold-pressed woke hoodie letterpress YOLO schlitz sartorial etsy prism squid church-key. Pinterest lumbersexual forage chillwave godard pitchfork vexillologist deep v chia truffaut four dollar toast food truck meditation. Hot chicken coloring book cliche YOLO, crucifix kale chips swag hexagon raclette paleo next level austin.<br><br>Hammock sriracha paleo, iPhone swag af flexitarian hella pickled neutra pug. Trust fund chicharrones iPhone stumptown chia. Godard 3 wolf moon tacos try-hard, raw denim locavore messenger bag portland. Blue bottle hashtag schlitz etsy knausgaard, aesthetic tacos freegan lomo deep v fashion axe.</p>
 									</div>
-								</div>
+								</div><!-- accordion__tab end -->
 
-								
+								<!-- accordion__tab start -->
 								<div class="accordion__tab js-accordion-tab">
 									<div class="accordion__btn js-accordion-btn container js-pointer-large">
-										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">SEO Optimisation</h6>
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Motion Design</h6>
 									</div>
 									<div class="accordion__content js-accordion-content container">
 										<p class="body-text-l">Green juice roof party kombucha mixtape chartreuse. Tofu retro cold-pressed letterpress coloring book gastropub yr asymmetrical cred bicycle rights snackwave XOXO raw denim keytar. Coloring book poutine church-key, selfies asymmetrical pickled banjo green juice PBR&B. Chicharrones you probably haven't heard of them bushwick stumptown yuccie authentic schlitz next level franzen hoodie. Cardigan disrupt fashion axe post-ironic, cold-pressed woke hoodie letterpress YOLO schlitz sartorial etsy prism squid church-key. Pinterest lumbersexual forage chillwave godard pitchfork vexillologist deep v chia truffaut four dollar toast food truck meditation. Hot chicken coloring book cliche YOLO, crucifix kale chips swag hexagon raclette paleo next level austin.<br><br>Hammock sriracha paleo, iPhone swag af flexitarian hella pickled neutra pug. Trust fund chicharrones iPhone stumptown chia. Godard 3 wolf moon tacos try-hard, raw denim locavore messenger bag portland. Blue bottle hashtag schlitz etsy knausgaard, aesthetic tacos freegan lomo deep v fashion axe.</p>
 									</div>
-								</div>
-							</div> -->
-							<!-- accordion end -->
+								</div><!-- accordion__tab end -->
+							</div><!-- accordion end -->
+						</div><!-- padding-top-90 end -->
+
+						<!-- padding-top-90 start -->
+						<div class="padding-top-120">
+							<h2 class="headline-l container hidden-box">
+								<span class="anim-slide js-scrollanim">Marketing</span>
+							</h2>
+
+							<!-- accordion start -->
+							<div class="accordion accordion_underline js-accordion margin-top-60">
+								<!-- accordion__tab start -->
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Social Media Marketing</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+										<p class="body-text-l">Green juice roof party kombucha mixtape chartreuse. Tofu retro cold-pressed letterpress coloring book gastropub yr asymmetrical cred bicycle rights snackwave XOXO raw denim keytar. Coloring book poutine church-key, selfies asymmetrical pickled banjo green juice PBR&B. Chicharrones you probably haven't heard of them bushwick stumptown yuccie authentic schlitz next level franzen hoodie. Cardigan disrupt fashion axe post-ironic, cold-pressed woke hoodie letterpress YOLO schlitz sartorial etsy prism squid church-key. Pinterest lumbersexual forage chillwave godard pitchfork vexillologist deep v chia truffaut four dollar toast food truck meditation. Hot chicken coloring book cliche YOLO, crucifix kale chips swag hexagon raclette paleo next level austin.<br><br>Hammock sriracha paleo, iPhone swag af flexitarian hella pickled neutra pug. Trust fund chicharrones iPhone stumptown chia. Godard 3 wolf moon tacos try-hard, raw denim locavore messenger bag portland. Blue bottle hashtag schlitz etsy knausgaard, aesthetic tacos freegan lomo deep v fashion axe.</p>
+									</div>
+								</div><!-- accordion__tab end -->
+
+								<!-- accordion__tab start -->
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Brand Strategy</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+										<p class="body-text-l">Green juice roof party kombucha mixtape chartreuse. Tofu retro cold-pressed letterpress coloring book gastropub yr asymmetrical cred bicycle rights snackwave XOXO raw denim keytar. Coloring book poutine church-key, selfies asymmetrical pickled banjo green juice PBR&B. Chicharrones you probably haven't heard of them bushwick stumptown yuccie authentic schlitz next level franzen hoodie. Cardigan disrupt fashion axe post-ironic, cold-pressed woke hoodie letterpress YOLO schlitz sartorial etsy prism squid church-key. Pinterest lumbersexual forage chillwave godard pitchfork vexillologist deep v chia truffaut four dollar toast food truck meditation. Hot chicken coloring book cliche YOLO, crucifix kale chips swag hexagon raclette paleo next level austin.<br><br>Hammock sriracha paleo, iPhone swag af flexitarian hella pickled neutra pug. Trust fund chicharrones iPhone stumptown chia. Godard 3 wolf moon tacos try-hard, raw denim locavore messenger bag portland. Blue bottle hashtag schlitz etsy knausgaard, aesthetic tacos freegan lomo deep v fashion axe.</p>
+									</div>
+								</div><!-- accordion__tab end -->
+
+								<!-- accordion__tab start -->
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Product Strategy</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+										<p class="body-text-l">Green juice roof party kombucha mixtape chartreuse. Tofu retro cold-pressed letterpress coloring book gastropub yr asymmetrical cred bicycle rights snackwave XOXO raw denim keytar. Coloring book poutine church-key, selfies asymmetrical pickled banjo green juice PBR&B. Chicharrones you probably haven't heard of them bushwick stumptown yuccie authentic schlitz next level franzen hoodie. Cardigan disrupt fashion axe post-ironic, cold-pressed woke hoodie letterpress YOLO schlitz sartorial etsy prism squid church-key. Pinterest lumbersexual forage chillwave godard pitchfork vexillologist deep v chia truffaut four dollar toast food truck meditation. Hot chicken coloring book cliche YOLO, crucifix kale chips swag hexagon raclette paleo next level austin.<br><br>Hammock sriracha paleo, iPhone swag af flexitarian hella pickled neutra pug. Trust fund chicharrones iPhone stumptown chia. Godard 3 wolf moon tacos try-hard, raw denim locavore messenger bag portland. Blue bottle hashtag schlitz etsy knausgaard, aesthetic tacos freegan lomo deep v fashion axe.</p>
+									</div>
+								</div><!-- accordion__tab end -->
+							</div><!-- accordion end -->
 						</div><!-- padding-top-90 end -->
 					</div><!-- width-100perc end -->
 				</div><!-- pos-rel end -->
@@ -242,7 +398,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</section><!-- work process end -->
 
 			<!-- pricing start -->
-			<section class="pos-rel section-bg-dark-2">
+			<section id = "neha" class="pos-rel section-bg-dark-2">
 				<!-- pos-rel start -->
 				<div class="pos-rel padding-top-bottom-120">
 					<!-- title start -->

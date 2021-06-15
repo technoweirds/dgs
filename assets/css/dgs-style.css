@@ -5041,7 +5041,8 @@ h1 {
 }
 
 .text-left {
-	text-align: left
+	text-align: left;
+	padding-left : 40px
 }
 
 .text-right {
@@ -8912,7 +8913,7 @@ section.pos-rel.section-bg-light-2 .counter-pagination .swiper-pagination-bullet
 	border: 2px dashed #000;
 	background:
 	linear-gradient(#000,#000) padding-box ,
-	linear-gradient(to bottom, #4fc3f7, #ab5ca4 49%, #ff512f) border-box;
+	linear-gradient(to right, #77c3d8 0, #32a5d8 20%, #8f4cc0 40%, #eb4092 60%, #fd7943 80%, #ffb033 100%) border-box;
 	/* -webkit-background-clip: text;
 	-webkit-text-fill-color: transparent */
 

@@ -80,7 +80,7 @@
 
 								<br>
 
-								<a href="#" class="subhead-xxs text-color-white text-hover-to-white js-pointer-small text-left">
+								<a href="#" class="subhead-xxs text-color-white text-hover-to-white js-pointer-small text-center">
 								Sales Address :</a>
 
 								<div class="margin-top-10 ">

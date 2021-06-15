@@ -50,6 +50,103 @@
   //document.querySelector("#currentdate").textContent = dt
 };
 	</script>	
+
+
+<style>
+
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+.img01 {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 1920 px /* Full width */
+  height: 1920 px; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+}
+
+/* Caption of Modal Image */
+#caption {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+
+/* Add Animation */
+.modal-content, #caption {  
+  -webkit-animation-name: zoom;
+  -webkit-animation-duration: 0.6s;
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+  from {-webkit-transform:scale(0)} 
+  to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+  from {transform:scale(0)} 
+  to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-content {
+    width: 100%;
+  }
+}
+</style>
+
 	
 	<script>(function(w, d) { w.CollectId = "60923e127a73a543539f1ad6"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
 	
@@ -216,7 +313,7 @@
 					<!-- swiper-slide start -->
 					<div class="swiper-slide">
 						<!-- slide-bg -->
-						<div class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/videos/b1.gif)"></div>
+						<a  href="services.php" class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/videos/b1.gif)"></a>
 						<!-- bg-overlay -->
 						<div class="bg-overlay-black"></div>
 
@@ -448,10 +545,18 @@
 
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
-							<a href="#" class="grid-margin-box hover-box js-animsition-link js-pointer-large">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-									<img class="anim-img-scale__inner" src="assets/images/projects/branding/SSPL.jpg" alt="project">
+								<img id="myImg" src="assets/images/projects/branding/SSPL.jpg" alt="Snow">
 								</div>
+
+
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
+
+									<img class="modal-content" id="img01">
+								</div>
+
 								<div class="margin-top-10 js-scrollanim">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">Branding</span>
@@ -460,7 +565,10 @@
 										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">SSPL</span>
 									</h3>
 								</div>
-							</a>
+		</a>
+
+
+
 						</div><!-- grid-item end -->
 
 						<!-- grid-item start -->
@@ -727,14 +835,41 @@
 			<div class="pos-rel bg-img-cover height-100vh" style="background-image:url(assets/images/projects/neon-lights/woman-wearing-beige-and-gray-hoodie-portrait-2272855.jpg)">
 				<div class="bg-overlay-black"></div>
 				<div class="pos-rel height-100perc">
-					<a href="assets/logo.mp4" class="play-button js-popup-youtube js-pointer-large">
-						<span class="play-button__inner"></span>
-					</a>
-				</div>
+				<iframe width=100% height="1000" src="https://www.youtube.com/embed/_WDEcDwxua0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>				</div>
 			</div><!-- video content end -->
 		</main><!-- main end -->
 		
 		<?php include("includes/footer.php"); ?>
+
+
+
+						<script>
+				// Get the modal
+				var modal = document.getElementById("myModal");
+
+				// Get the image and insert it inside the modal - use its "alt" text as a caption
+				var img = document.getElementById("myImg");
+				var modalImg = document.getElementById("img01");
+				img.onclick = function(){
+				modal.style.display = "block";
+				modalImg.src = this.src;
+				}
+
+				var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() { 
+  modal.style.display = "none";
+}
+
+
+				// Get the <span> element that closes the modal
+
+				// When the user clicks on <span> (x), close the modal
+				</script>
+
+    
+
 		
 		<!-- scripts -->
 		<script src="assets/js/plugins.js"></script>

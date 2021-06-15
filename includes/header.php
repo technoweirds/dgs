@@ -23,7 +23,8 @@
 			<div class="header-contact js-midnight-color js-headroom">
 				<div class="header-contact__flex">
 					<div class="header-contact__anim">
-						<a href="https://wa.me/9167350238?text=Thank%20You%20!!!%20Our%20support%20team%20will%20get%20in%20touch%20with%20you%20shortly.%0AWe%20are%20glad%20to%20receive%20a%20Query%20from%20you.%0A%0ACall%20us%20%3A%20%2B91%209167350238" target="_blank" class="header-contact__btn vertical-text center js-pointer-large">
+						<a href="https://wa.me/+919167350238"
+" target="_blank" class="header-contact__btn vertical-text center js-pointer-large">
 						<span class="vertical-text__inner"><i class="far fa-comment-dots"></i> Get in touch</span>
 						</a>
 					</div>
@@ -35,28 +36,28 @@
 				<ul class="list list_center list_margin-20px hidden-box">
 					<li class="list__item">
 						<div class="hidden-box d-inline-block">
-							<a href="#" class="anim-slide js-pointer-small">
+							<a href="https://www.facebook.com/DGeniussolutions/" class="anim-slide js-pointer-small">
 								<i class="fab fa-facebook-f"></i>
 							</a>
 						</div>
 					</li>
 					<li class="list__item">
 						<div class="hidden-box d-inline-block">
-							<a href="#" class="anim-slide tr-delay-04 js-pointer-small">
+							<a href="https://instagram.com/dgenius_solutions?utm_medium=copy_link" class="anim-slide tr-delay-04 js-pointer-small">
 								<i class="fab fa-instagram"></i>
 							</a>
 						</div>
 					</li>
 					<li class="list__item">
 						<div class="hidden-box d-inline-block">
-							<a href="#" class="anim-slide tr-delay-04 js-pointer-small">
+							<a href="https://www.linkedin.com/company/d-genius-solutions" class="anim-slide tr-delay-04 js-pointer-small">
 								<i class="fab fa-linkedin-in"></i>
 							</a>
 						</div>
 					</li>
 					<li class="list__item">
 						<div class="hidden-box d-inline-block">
-							<a href="#" class="anim-slide tr-delay-04 js-pointer-small">
+							<a href="https://twitter.com/DGenius_S?s=09" class="anim-slide tr-delay-04 js-pointer-small">
 								<i class="fab fa-twitter"></i>
 							</a>
 						</div>
@@ -189,7 +190,7 @@
 
 						<div class="hidden-box d-inline-block">
 
-							<div class="headline-xxxxs nav-title-color nav-reveal-anim js-nav-anim">Sales Address:</div>
+							<div class="headline-xxxxs nav-title-color nav-reveal-anim js-nav-anim margin-top-10">Sales Address:</div>
 						</div>
 						<div class="nav-fade-anim js-nav-anim margin-top-10">
 							<a href="#" class="subhead-xxs nav-text-color js-pointer-small">
@@ -213,7 +214,7 @@
 
 				<!-- nav-copyright start -->
 				<div class="nav-copyright text-right">
-					<p class="copyright-style nav-fade-anim js-nav-anim">
+					<p class="copyright-style nav-fade-anim js-nav-anim margin-right-50">
 						&copy; Copyright 2020 D'Genius Solutions.
 					</p>
 				</div><!-- nav-copyright end -->

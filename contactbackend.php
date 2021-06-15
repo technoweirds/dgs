@@ -12,20 +12,22 @@ $checkbox1=$_POST['service'];
 $email = $_POST['email'];
 $ln = $_POST['last_name'];
 $fn = $_POST['first_name'];
+$number=$_POST['number'];
 
 
 $chk="";  
+
+$d = date("Y-m-d") ;
 foreach($checkbox1 as $chk1)  
    {  
       $chk .= $chk1.",";  
    }  
-$sql = "INSERT INTO leads (first_name, last_name, email , message , date )
-VALUES ('$fn', '$ln', '$email' , '$chk' , '1/2/3')";
+$sql = "INSERT INTO leads (first_name, last_name, email , message , date , number )
+VALUES ('$fn', '$ln', '$email' , '$chk' , '$d',$number)";
 $in_ch=mysqli_query($con,$sql);  
 if($in_ch==1)  
    {  
-      echo'<script>alert("Inserted Successfully")</script>';  
-   }  
+      header("location: index.php");	   }  
 else  
    {  
       echo'<script>alert("Failed To Insert")</script>';  
