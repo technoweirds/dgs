@@ -171,7 +171,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div><!-- clients-lines__column end -->
                                       
 				</div><!-- pos-rel end -->
-			</section><!-- 
+			</section>
 			<section id="down" class="lines-section pos-rel black-lines section-bg-light-2" data-midnight="black">
 				<!-- flex-container start -->
 				<div class="flex-container lines-container pos-rel black-lines padding-top-30 padding-bottom-120">
