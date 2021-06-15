@@ -104,8 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="headline-xxxs hidden-box">
 							<span class="anim-slide">Who We Are</span>
 						</h2>
-						<h2 class="subhead-xxl margin-top-20 anim-slide">A team of passionate marketers who bring tailored & teste online marketing<br> 
-                                                solutions to you.</h2>
+						<h2 class="subhead-xxl margin-top-20 anim-slide">A clan of creative individuals who believes in creating magic through stories.</h2>
 					</div>
 				</div><!-- pos-rel end -->
 			</section><!-- page head end -->
@@ -119,7 +118,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="column-r-margin-40-999 js-scrollanim js-scrollanim-active text-center padding-left-right-50">
 								<h2 class="anim-text-fill text text-center">
 								<span class="text-center dgshdtxt">Our Vision</span></h2>
-                                                            <p class="body-text-s text-color-black">Create a business world full of prosperity, meaning and acceptance to all. The Highlight Being able to Create Work Value Through Emotional Currency.</p>					
+                                                            <p class="body-text-s text-color-black" >Help brands grow substantially with the latest technologies plus minds at work and create a business world full of prosperity, meaning and empathy for all.
+</p>					
 							</div>
 						</div><!-- column end -->
 						<!-- column start -->
@@ -127,7 +127,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="column-r-margin-40-999 js-scrollanim js-scrollanim-active text-center padding-left-right-50">
 								<h2 class="anim-text-fill text text-center">
 								<span class="text-center dgshdtxt">Our Mission</span></h2>
-                                                            <p class="body-text-s text-color-black">Our mission is to be experts in the digital front of marketing and promotion that delivers measurable results to its clients on a daily basis.</p>					
+                                                            <p class="body-text-s text-color-black">To lead as experts in the digital marketing industry by constantly evolving and making long-term collaborations with our clients by delivering astonishing results to them.</p>					
 							</div>
 						</div><!-- column end -->
 					</div><!-- flex-container end -->

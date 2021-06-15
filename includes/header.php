@@ -168,21 +168,36 @@
 							<div class="headline-xxxxs nav-title-color nav-reveal-anim js-nav-anim">Email</div>
 						</div>
 						<div class="nav-fade-anim js-nav-anim margin-top-10">
-							<a href="#" class="subhead-xxs nav-text-color text-hover-to-red js-pointer-small">business@dgeniussolutions.com</a><br>
+							<a href="#" class="subhead-xxs nav-text-color js-pointer-small">business@dgeniussolutions.com</a><br>
 							</div>
 					</div><!-- nav-email end -->
 
 					<!-- nav-address start -->
 					<div>
 						<div class="hidden-box d-inline-block">
-							<div class="headline-xxxxs nav-title-color nav-reveal-anim js-nav-anim">Address</div>
+							<div class="headline-xxxxs nav-title-color nav-reveal-anim js-nav-anim">Registered Address :</div>
 						</div>
 						<div class="nav-fade-anim js-nav-anim margin-top-10">
-							<a href="#" class="subhead-xxs nav-text-color text-hover-to-red js-pointer-small">
-								305 Damas Gold, Near Ansar Mall,<br>
+							<a href="#" class="subhead-xxs nav-text-color js-pointer-small">
+							8 Bansari Apartment, 30th Road, Pali Naka,</br>
+							Bandra West, Mumbai,</br>
+							400050 Maharashtra, India.
+							</a>
+						</div>
+
+						</span>
+
+						<div class="hidden-box d-inline-block">
+
+							<div class="headline-xxxxs nav-title-color nav-reveal-anim js-nav-anim">Sales Address:</div>
+						</div>
+						<div class="nav-fade-anim js-nav-anim margin-top-10">
+							<a href="#" class="subhead-xxs nav-text-color js-pointer-small">
+							305 Damas Gold, Near Ansar Mall,<br>
 								AI Ittihad Road, AI Nahda, 32629 Sharjah, UAE.
 							</a>
 						</div>
+
 					</div><!-- nav-address end -->
 
 					<!-- nav-phone start -->

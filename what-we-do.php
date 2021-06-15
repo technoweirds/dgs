@@ -118,11 +118,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div><!-- pos-rel end -->
 			</section><!-- team end -->
                           <!-- about start -->
-			<section class="pos-rel section-bg-dark-1">
+						  <section class="pos-rel section-bg-dark-1">
 				<!-- pos-rel start -->
 				<div class="pos-rel padding-top-bottom-120">
 			  
-                                                <h3 class="text-center">We</h3>
+                                                <h3 style="	text-align: center; font-size:50px;">We</h3>
 					<!-- js-infinite-slider start -->
                                              <div class="clients-lines">
 											
@@ -132,9 +132,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<img class="client-logo client-hover-out pos-abs pos-center-center" src="assets/images/care/c.png" alt="We Care">
 									<img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/care/cc.png" alt="We Care">
 								</div>
-                                                        <h3 class="body-text-s text-center margin-top-5">Perception Building</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Comment & Shares</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Achieving the desired goal</h3> 
+                                                        <h3 class="body-text-s text-center margin-top-5">Building perception </h3>
+                                                        <h3 class="body-text-s text-center margin-top-5">Higher engagement</h3>
+                                                        <h3 class="body-text-s text-center margin-top-5">Result-oriented</h3> 
 							</div><!-- clients-lines__column end -->
 
 							<!-- clients-lines__column start -->
@@ -143,9 +143,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<img class="client-logo client-hover-out pos-abs pos-center-center" src="assets/images/care/a.png" alt="We Care">
 									<img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/care/aa.png" alt="We Care">
                                                          </div>
-                                                        <h3 class="body-text-s text-center margin-top-5">Audience Association</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Influencing the audience,<br> the right way</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Being a part of their lives</h3> 
+                                                        <h3 class="body-text-s text-center margin-top-5">Associating with them in the right way</h3>
+                                                        <h3 class="body-text-s text-center margin-top-5">Brand positioning</h3>
+                                                        <h3 class="body-text-s text-center margin-top-5">Showing empathy</h3> 
                                           		</div><!-- clients-lines__column end -->
 
 							<!-- clients-lines__column start -->
@@ -154,8 +154,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<img class="client-logo client-hover-out pos-abs pos-center-center" src="assets/images/care/r.png" alt="We Care">
 									<img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/care/rr.png" alt="We Care">
 								</div>
-                                                        <h3 class="body-text-s text-center margin-top-5">Solving important issue<br> of our audience?</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Helping, Advising &<br> Adding Value?</h3>
+                                                        <h3 class="body-text-s text-center margin-top-5">Focus on important issues</h3>
+                                                        <h3 class="body-text-s text-center margin-top-5">Adding value</h3>
                                                         <h3 class="body-text-s text-center margin-top-5">Being Consistent</h3>                                           		
 							</div><!-- clients-lines__column end -->
 
@@ -165,16 +165,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<img class="client-logo client-hover-out pos-abs pos-center-center" src="assets/images/care/e.png" alt="We Care">
 									<img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/care/ee.png" alt="We Care">
 								</div>
-                                                       <h3 class="body-text-s text-center margin-top-5">Measuring if/how our<br> content matters?</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Measuring if<br> audiences care?</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Measuring our<br> relevance?</h3>                                       		
-							
+                                                       <h3 class="body-text-s text-center margin-top-5">Measuring market value</h3>
+                                                        <h3 class="body-text-s text-center margin-top-5">Taking valuable feedback</h3>
+                                                        <h3 class="body-text-s text-center margin-top-5">Measuring market value</h3>                                       		
 							</div><!-- clients-lines__column end -->
-								</div> <!--js-infinite-slider end -->
                                       
 				</div><!-- pos-rel end -->
-			</section><!-- about us end -->
-
+			</section><!-- 
 			<section id="down" class="lines-section pos-rel black-lines section-bg-light-2" data-midnight="black">
 				<!-- flex-container start -->
 				<div class="flex-container lines-container pos-rel black-lines padding-top-30 padding-bottom-120">
