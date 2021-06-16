@@ -109,7 +109,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</section><!-- page head end -->
 
 			<!-- services start -->
-			<section id="down" class="pos-rel section-bg-dark-2">
+			<section id="BM" class="pos-rel section-bg-dark-2">
 				<!-- pos-rel start -->
 				<div class="pos-rel flex-min-height-100vh">
 					<!-- width-100perc start -->
@@ -408,33 +408,281 @@ website by ranking your brand on any search platform using intent-based keywords
 							<div class="accordion accordion_underline js-accordion margin-top-60">
 								<!-- accordion__tab start -->
 								<div class="accordion__tab js-accordion-tab">
+
+
+								
+
+								<div class="accordion__tab js-accordion-tab">
 									<div class="accordion__btn js-accordion-btn container js-pointer-large">
-										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Social Media Marketing</h6>
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Search Engine Marketing</h6>
 									</div>
 									<div class="accordion__content js-accordion-content container">
-										<p class="body-text-l">Green juice roof party kombucha mixtape chartreuse. Tofu retro cold-pressed letterpress coloring book gastropub yr asymmetrical cred bicycle rights snackwave XOXO raw denim keytar. Coloring book poutine church-key, selfies asymmetrical pickled banjo green juice PBR&B. Chicharrones you probably haven't heard of them bushwick stumptown yuccie authentic schlitz next level franzen hoodie. Cardigan disrupt fashion axe post-ironic, cold-pressed woke hoodie letterpress YOLO schlitz sartorial etsy prism squid church-key. Pinterest lumbersexual forage chillwave godard pitchfork vexillologist deep v chia truffaut four dollar toast food truck meditation. Hot chicken coloring book cliche YOLO, crucifix kale chips swag hexagon raclette paleo next level austin.<br><br>Hammock sriracha paleo, iPhone swag af flexitarian hella pickled neutra pug. Trust fund chicharrones iPhone stumptown chia. Godard 3 wolf moon tacos try-hard, raw denim locavore messenger bag portland. Blue bottle hashtag schlitz etsy knausgaard, aesthetic tacos freegan lomo deep v fashion axe.</p>
+
+									<p class="body-text-l">
+
+
+
+											Search Engine Marketing is a technique and strategy used to increase brand visibility through paid internet marketing and Search Engine Optimization tools.<br>
+											1. Keyword optimization<br>
+											2. Qualified traffic <br>
+											3. Pay Per Click<br>
+											4. Quality Score <br>
+											5. Search Engine Advertising<br>
+																			</p>
 									</div>
 								</div><!-- accordion__tab end -->
 
-								<!-- accordion__tab start -->
+
+
+
 								<div class="accordion__tab js-accordion-tab">
 									<div class="accordion__btn js-accordion-btn container js-pointer-large">
-										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Brand Strategy</h6>
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Marketplace ads</h6>
 									</div>
 									<div class="accordion__content js-accordion-content container">
-										<p class="body-text-l">Green juice roof party kombucha mixtape chartreuse. Tofu retro cold-pressed letterpress coloring book gastropub yr asymmetrical cred bicycle rights snackwave XOXO raw denim keytar. Coloring book poutine church-key, selfies asymmetrical pickled banjo green juice PBR&B. Chicharrones you probably haven't heard of them bushwick stumptown yuccie authentic schlitz next level franzen hoodie. Cardigan disrupt fashion axe post-ironic, cold-pressed woke hoodie letterpress YOLO schlitz sartorial etsy prism squid church-key. Pinterest lumbersexual forage chillwave godard pitchfork vexillologist deep v chia truffaut four dollar toast food truck meditation. Hot chicken coloring book cliche YOLO, crucifix kale chips swag hexagon raclette paleo next level austin.<br><br>Hammock sriracha paleo, iPhone swag af flexitarian hella pickled neutra pug. Trust fund chicharrones iPhone stumptown chia. Godard 3 wolf moon tacos try-hard, raw denim locavore messenger bag portland. Blue bottle hashtag schlitz etsy knausgaard, aesthetic tacos freegan lomo deep v fashion axe.</p>
+
+									<p class="body-text-l">
+
+
+
+									Marketplace online is a place where you can list your products for sale where people come to buy online. One of the most successful marketplaces in social media is the Facebook marketplace.
+Facebook Marketplace is a spot to find and buy things. You can help your business contact more individuals where they're shopping when you make an advertisement for Marketplace. 
+Facebook Marketplace permits you to securely purchase and sell products on the web. It is particularly helpful for you to have the option to peruse social media while speaking with dealers and purchasers. This makes for simple and quick sales for the consumer and seller and makes Facebook Marketplace an incredible choice for online orders. <br>
+																			</p>
+									</div>
+								</div>
+
+
+<!-- accordion__tab end -->
+
+
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Digital PR</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">
+
+
+
+									Digital PR is an expert strategy used to promote the online presence of a brand. As a digital PR agency, we are here to increase the online presence of a brand through blogs, brand mentions, social media, and various other online campaigns and publications.
+									 <br>
+									The objective of a Digital PR campaign is to increment online notices, backlinks, and the brand value of an organization.<br> 
+
+									<br>Key benefits of digital PR for business:<br>
+
+									<br>1. Improves SEO rankings :
+									 The more applicable the connections, the better the site will rank. Computerized PR gets backlinks at scale. <br>
+
+
+									<br>2. Develops site traffic :
+									  PR publication inclusion builds references and develops site traffic. <br>
+
+									<br>3. Constructs brand :
+									The amount of traffic and attention the brand gains through digital PR is commendable. <br>
+
+									<br>4. Produce leads :
+									 Digital PR builds natural pursuit traffic and reference traffic through SEO.  <br>
+
+
+									<br>5. Increases sales :
+									Digital PR helps fabricate the trust of a brand and thus increases sales.   <br>
+
+
+
+									<img id="myImg" src="assets\images\services\Digital Strategy.jpg" alt="" style="width:100%; margin-top: 50px;">
+
+
+									
+
+
+
+
+
+
+
+
+
+
+
+								</p>
+									</div>
+								</div>
+
+
+
+
+
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Programmatic Ads</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">
+
+
+									Programmatic ad is the future of ad promotion and buying.<br>
+
+<br>Programmatic ad is a publicizing method that allows sponsors to put their advertisements on websites, platforms, and applications with the use of automated AI-powered systems. This automation helps the brand to sell its ads without any human interaction proving it to be cost-efficient.
+
+
+<br><br>1. Benefits of automatic advertisements <br>
+
+
+<br>2. Cultivates transparency on the spender<br>
+
+
+<br>3. Extract real-time analysis and strategies <br>
+
+
+<br>4. Sharp targeting utilities<br>
+
+
+<br>5. Budget-friendly <br>
+
+
+
+
+
+																			</p>
+									</div>
+								</div>
+
+
+
+
+
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Native ads</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">
+
+
+									Native ads match the look and feel of the site they are promoted on to the audience. These ad pieces are consumed by the audience with the intent to do so. <br>
+
+Native ads appear in recommended feeds or on websites. <br>
+
+<br>
+&#9675; Why should you choose to opt for Native Ads?<br>
+
+
+<br>&#9675; Consumers look at native ads 50% times more than a display or visibly promoted ad.<br>
+
+
+<br>&#9675; Native ad fights ad fatigue. Native ads don't bore your audience, rather they generate a mere interest in them.<br>
+
+
+<br>&#9675; Native advertising does not fool the audience. Consumers willingly accept native ads rather than spam or forced ads.<br>
+
+
+																			</p>
+									</div>
+								</div>
+
+<!-- accordion__tab end -->
+
+
+<section id="branding">
+
+
+
+
+
+<h6 class="headline-xxl container hidden-box">
+								<span class="anim-slide js-scrollanim">BRANDING</span>
+							</h6>
+							<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Logo Creation/Revamp</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">Logo creation or logo revamp assists with elevating an organization or company's brand recognition and image. Brand image is firmly identified with their logo and redesigning the logo to increase brand value would change the quintessence of your brand image among your customer base. 
+
+With an ever-increasing number of organizations and items seeking market acknowledgment online and offline, an all-around planned logo is a business advantage that attracts customers and addresses the basic beliefs of a brand initially. A decent logo is more than a conventional symbol; it's an encapsulation of what an organization relies on— basically a visual envoy for a brand.</p>
 									</div>
 								</div><!-- accordion__tab end -->
 
-								<!-- accordion__tab start -->
+
 								<div class="accordion__tab js-accordion-tab">
 									<div class="accordion__btn js-accordion-btn container js-pointer-large">
-										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Product Strategy</h6>
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Logo Animation</h6>
 									</div>
 									<div class="accordion__content js-accordion-content container">
-										<p class="body-text-l">Green juice roof party kombucha mixtape chartreuse. Tofu retro cold-pressed letterpress coloring book gastropub yr asymmetrical cred bicycle rights snackwave XOXO raw denim keytar. Coloring book poutine church-key, selfies asymmetrical pickled banjo green juice PBR&B. Chicharrones you probably haven't heard of them bushwick stumptown yuccie authentic schlitz next level franzen hoodie. Cardigan disrupt fashion axe post-ironic, cold-pressed woke hoodie letterpress YOLO schlitz sartorial etsy prism squid church-key. Pinterest lumbersexual forage chillwave godard pitchfork vexillologist deep v chia truffaut four dollar toast food truck meditation. Hot chicken coloring book cliche YOLO, crucifix kale chips swag hexagon raclette paleo next level austin.<br><br>Hammock sriracha paleo, iPhone swag af flexitarian hella pickled neutra pug. Trust fund chicharrones iPhone stumptown chia. Godard 3 wolf moon tacos try-hard, raw denim locavore messenger bag portland. Blue bottle hashtag schlitz etsy knausgaard, aesthetic tacos freegan lomo deep v fashion axe.</p>
+
+									<p class="body-text-l">Digital technologies continue to bring developments so the design field advances quickly. The trending business has made designers pick up innovation and technology at an unexpected speed while proving to be creative.
+
+A logo resembles a brand identity. It presents a character of an organization or a brand and plays a huge part in marking brand strategy. An incredible logo can set the association with their clients and customers. A brilliantly designed logo elevates the brand value. A logo sets up a compelling brand picture that fills in as the establishment of a fruitful promotion. 
+
+An energized moving logo is a stride in front of the static/picture logo, where there are no impacts at all. Animated logo is tied in with adding impacts and activity to the logo, going from basic unique impacts to an entire short video show.
+</p>
 									</div>
 								</div><!-- accordion__tab end -->
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Logo Creation/Revamp</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">Logo creation or logo revamp assists with elevating an organization or company's brand recognition and image. Brand image is firmly identified with their logo and redesigning the logo to increase brand value would change the quintessence of your brand image among your customer base. 
+
+With an ever-increasing number of organizations and items seeking market acknowledgment online and offline, an all-around planned logo is a business advantage that attracts customers and addresses the basic beliefs of a brand initially. A decent logo is more than a conventional symbol; it's an encapsulation of what an organization relies on— basically a visual envoy for a brand.</p>
+									</div>
+								</div><!-- accordion__tab end -->
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Brand Guidelines</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">Brand guidelines offer obvious principles for how your logo, its tonality, its color and its values are addressed to your audience. However, they accomplish more than that: they create consistency for your company's public persona. They fill in as a source of perspective as your advertising agency creates promotional strategies for online and offline media presence. They speak to the world about what's in store from your branding. Brand guidelines are an incredible way to start explaining your organization's character with your statement of purpose, differentiators, and guiding principle. Each will help build up what your company depends on and promote it through visual media and designs created for your brand promotion. As your company's guidelines advance over the long haul (and they will), you'll have the option to refresh your image manual just the way you want.<p>									</div>
+								</div><!-- accordion__tab end -->
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Brand Collaterals</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">Brand collateral is the assortment of media used to advance the brand and backing the deals and product or service. It's substantial proof of the brand, planned compatible with the brand's basic beliefs and character. These collaterals are planned and designed considering a particular goal. They are the strategic material of your brand image. The collateral of your brand is regularly the first impression of your company.
+
+Guarantee collateral design is a vital piece of what we offer here at D'Genius Solutions. We're specialists in creating these and numerous different things not referenced in the rundown above.
+</p>
+									</div>
+								</div><!-- accordion__tab end -->
+
+
+
+
+</section>
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								
 							</div><!-- accordion end -->
 						</div><!-- padding-top-90 end -->
 					</div><!-- width-100perc end -->
@@ -442,245 +690,9 @@ website by ranking your brand on any search platform using intent-based keywords
 			</section><!-- services end -->
 
 			<!-- work process start -->
-			<section class="pos-rel section-bg-dark-1">
-				<!-- pos-rel start -->
-				<div class="pos-rel flex-min-height-100vh">
-					<!-- flex-container start -->
-					<div class="container flex-container padding-top-60 padding-bottom-120">
-						<!-- column start -->
-						<div class="four-columns column-100-100 padding-top-60 padding-bottom-30">
-							<div class="column-r-margin-20-999">
-								<h2 class="headline-xxs hidden-box">
-									<span class="anim-slide js-scrollanim">Work Process</span>
-								</h2>
-							</div>
-						</div><!-- column end -->
-
-						<!-- column start -->
-						<div class="four-columns column-50-100 padding-top-60">
-							<div class="column-r-margin-20 js-scrollanim">
-								<span class="subhead-s text-color-red d-block hidden-box">
-									<span class="anim-slide">01</span>
-								</span>
-								<h3 class="headline-xxxs margin-top-30 hidden-box">
-									<span class="anim-slide tr-delay-01">Brainstorming</span>
-								</h3>
-								<p class="body-text-xs margin-top-20 anim-text-reveal tr-delay-02">Pok pok authentic fashion axe, vegan venmo leggings raclette tousled twee tattooed. Banh mi humblebrag hammock tacos fashion axe aesthetic vegan sustainable taiyaki thundercats jean shorts tousled cloud bread waistcoat kogi. Cloud bread cardigan messenger bag raw denim swag drinking vinegar.</p>
-							</div>
-						</div><!-- column end -->
-
-						<!-- column start -->
-						<div class="four-columns column-50-100 padding-top-60">
-							<div class="column-r-margin-20 js-scrollanim">
-								<span class="subhead-s text-color-red d-block hidden-box">
-									<span class="anim-slide">02</span>
-								</span>
-								<h3 class="headline-xxxs margin-top-30 hidden-box">
-									<span class="anim-slide tr-delay-01">Approaching</span>
-								</h3>
-								<p class="body-text-xs margin-top-20 anim-text-reveal tr-delay-02">Vegan venmo leggings raclette tousled twee tattooed. Banh mi humblebrag hammock tacos fashion axe aesthetic vegan sustainable taiyaki thundercats jean shorts tousled cloud bread waistcoat kogi. Cloud bread cardigan messenger bag raw denim swag drinking vinegar Pok pok authentic fashion axe.</p>
-							</div>
-						</div><!-- column end -->
-
-						<!-- column start -->
-						<div class="four-offset four-columns column-50-100 padding-top-60">
-							<div class="column-r-margin-20 js-scrollanim">
-								<span class="subhead-s text-color-red d-block hidden-box">
-									<span class="anim-slide">03</span>
-								</span>
-								<h3 class="headline-xxxs margin-top-30 hidden-box">
-									<span class="anim-slide tr-delay-01">Adjusting</span>
-								</h3>
-								<p class="body-text-xs margin-top-20 anim-text-reveal tr-delay-02">Banh mi humblebrag hammock tacos fashion axe aesthetic vegan sustainable taiyaki thundercats jean shorts tousled cloud bread waistcoat kogi. Cloud bread cardigan messenger bag raw denim swag drinking vinegar. Pok pok authentic fashion axe, vegan venmo leggings raclette tousled twee tattooed.</p>
-							</div>
-						</div><!-- column end -->
-
-						<!-- column start -->
-						<div class="four-columns column-50-100 padding-top-60">
-							<div class="column-r-margin-20 js-scrollanim">
-								<span class="subhead-s text-color-red d-block hidden-box">
-									<span class="anim-slide">04</span>
-								</span>
-								<h3 class="headline-xxxs margin-top-30 hidden-box">
-									<span class="anim-slide tr-delay-01">Result</span>
-								</h3>
-								<p class="body-text-xs margin-top-20 anim-text-reveal tr-delay-02">Cloud bread cardigan messenger bag raw denim swag drinking vinegar. Pok pok authentic fashion axe, vegan venmo leggings raclette tousled twee tattooed. Banh mi humblebrag hammock tacos fashion axe aesthetic vegan sustainable taiyaki thundercats jean shorts tousled cloud bread waistcoat kogi.</p>
-							</div>
-						</div><!-- column end -->
-					</div><!-- flex-container end -->
-				</div><!-- pos-rel end -->
-			</section><!-- work process end -->
 
 			<!-- pricing start -->
-			<section id = "neha" class="pos-rel section-bg-dark-2">
-				<!-- pos-rel start -->
-				<div class="pos-rel padding-top-bottom-120">
-					<!-- title start -->
-					<h2 class="headline-xxl text-center js-scrollanim">
-						<span class="anim-text-double-fill invert" data-text="Our">Our</span>
-						<span class="anim-text-double-fill tr-delay-02" data-text="Pricing">Pricing</span>
-					</h2><!-- title end -->
 
-					<!-- container start -->
-					<div class="container small padding-top-30">
-						<!-- price start -->
-						<div class="padding-top-60">
-							<div class="flex-container border-box border-radius-10px hidden-box">
-								<div class="three-columns content-bg-red d-flex flex-center-center">
-									<div class="text-center padding-top-bottom-50">
-										<h3 class="subhead-s">Basic</h3>
-										<h4 class="margin-top-10">
-											<span class="headline-l d-block">$100</span>
-											<span class="subhead-xs d-block">Per month</span>
-										</h4>
-									</div>
-								</div>
-								<div class="six-columns d-flex flex-align-center">
-									<div class="width-100perc padding-top-bottom-50">
-										<!-- list start -->
-										<ul class="list list_center subhead-xxs text-color-b0b0b0 margin-left-right-20">
-											<li class="list__item check red">Copper mug</li>
-											<li class="list__item check red">Vexillologist +1</li>
-											<li class="list__item check red">Prism iPhone</li>
-											<li class="list__item check red">Hella quinoa</li>
-											<li class="list__item x opacity-05">Blog af umami</li>
-											<li class="list__item x opacity-05">Vinyl snackwave</li>
-											<li class="list__item x opacity-05">XOXO drinking</li>
-										</ul><!-- list end -->
-									</div>
-								</div>
-								<div class="three-columns d-flex flex-center-center">
-									<div class="price-btn-offset text-center">
-										<a href="#" class="skew-btn js-pointer-large">
-											<span class="skew-btn__box">
-												<span class="skew-btn__content">sign up</span>
-												<span class="skew-btn__arrow"></span>
-											</span>
-										</a>
-									</div>
-								</div>
-							</div>
-						</div><!-- price end -->
-
-						<!-- price start -->
-						<div class="padding-top-60">
-							<div class="flex-container border-box border-radius-10px hidden-box">
-								<div class="three-columns content-bg-red d-flex flex-center-center">
-									<div class="text-center padding-top-bottom-50">
-										<h3 class="subhead-s">Standard</h3>
-										<h4 class="margin-top-10">
-											<span class="headline-l d-block">$120</span>
-											<span class="subhead-xs d-block">Per month</span>
-										</h4>
-									</div>
-								</div>
-								<div class="six-columns d-flex flex-align-center">
-									<div class="width-100perc padding-top-bottom-50">
-										<!-- list start -->
-										<ul class="list list_center subhead-xxs text-color-b0b0b0 margin-left-right-20">
-											<li class="list__item check red">Copper mug</li>
-											<li class="list__item check red">Vexillologist +1</li>
-											<li class="list__item check red">Prism iPhone</li>
-											<li class="list__item check red">Hella quinoa</li>
-											<li class="list__item check red">Blog af umami</li>
-											<li class="list__item x opacity-05">Vinyl snackwave</li>
-											<li class="list__item x opacity-05">XOXO drinking</li>
-										</ul><!-- list end -->
-									</div>
-								</div>
-								<div class="three-columns d-flex flex-center-center">
-									<div class="price-btn-offset text-center">
-										<a href="#" class="skew-btn js-pointer-large">
-											<span class="skew-btn__box">
-												<span class="skew-btn__content">sign up</span>
-												<span class="skew-btn__arrow"></span>
-											</span>
-										</a>
-									</div>
-								</div>
-							</div>
-						</div><!-- price end -->
-
-						<!-- price start -->
-						<div class="padding-top-60">
-							<div class="flex-container border-box border-radius-10px hidden-box">
-								<div class="three-columns content-bg-red d-flex flex-center-center">
-									<div class="text-center padding-top-bottom-50">
-										<h3 class="subhead-s">Extended</h3>
-										<h4 class="margin-top-10">
-											<span class="headline-l d-block">$150</span>
-											<span class="subhead-xs d-block">Per month</span>
-										</h4>
-									</div>
-								</div>
-								<div class="six-columns d-flex flex-align-center">
-									<div class="width-100perc padding-top-bottom-50">
-										<!-- list start -->
-										<ul class="list list_center subhead-xxs text-color-b0b0b0 margin-left-right-20">
-											<li class="list__item check red">Copper mug</li>
-											<li class="list__item check red">Vexillologist +1</li>
-											<li class="list__item check red">Prism iPhone</li>
-											<li class="list__item check red">Hella quinoa</li>
-											<li class="list__item check red">Blog af umami</li>
-											<li class="list__item check red">Vinyl snackwave</li>
-											<li class="list__item x opacity-05">XOXO drinking</li>
-										</ul><!-- list end -->
-									</div>
-								</div>
-								<div class="three-columns d-flex flex-center-center">
-									<div class="price-btn-offset text-center">
-										<a href="#" class="skew-btn js-pointer-large">
-											<span class="skew-btn__box">
-												<span class="skew-btn__content">sign up</span>
-												<span class="skew-btn__arrow"></span>
-											</span>
-										</a>
-									</div>
-								</div>
-							</div>
-						</div><!-- price end -->
-
-						<!-- price start -->
-						<div class="padding-top-60">
-							<div class="flex-container border-box border-radius-10px hidden-box">
-								<div class="three-columns content-bg-red d-flex flex-center-center">
-									<div class="text-center padding-top-bottom-50">
-										<h3 class="subhead-s">Premium</h3>
-										<h4 class="margin-top-10">
-											<span class="headline-l d-block">$180</span>
-											<span class="subhead-xs d-block">Per month</span>
-										</h4>
-									</div>
-								</div>
-								<div class="six-columns d-flex flex-align-center">
-									<div class="width-100perc padding-top-bottom-50">
-										<!-- list start -->
-										<ul class="list list_center subhead-xxs text-color-b0b0b0 margin-left-right-20">
-											<li class="list__item check red">Copper mug</li>
-											<li class="list__item check red">Vexillologist +1</li>
-											<li class="list__item check red">Prism iPhone</li>
-											<li class="list__item check red">Hella quinoa</li>
-											<li class="list__item check red">Blog af umami</li>
-											<li class="list__item check red">Vinyl snackwave</li>
-											<li class="list__item check red">XOXO drinking</li>
-										</ul><!-- list end -->
-									</div>
-								</div>
-								<div class="three-columns d-flex flex-center-center">
-									<div class="price-btn-offset text-center">
-										<a href="#" class="skew-btn js-pointer-large">
-											<span class="skew-btn__box">
-												<span class="skew-btn__content">sign up</span>
-												<span class="skew-btn__arrow"></span>
-											</span>
-										</a>
-									</div>
-								</div>
-							</div>
-						</div><!-- price end -->
-					</div><!-- container end -->
-				</div><!-- pos-rel end -->
-			</section><!-- pricing end -->
 		</main><!-- main end -->
 
 		<?php include("includes/footer.php"); ?>
