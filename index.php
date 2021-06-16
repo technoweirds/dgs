@@ -451,13 +451,12 @@
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/branding/SSPL.jpg" alt="Snow">
+								<img id="myImg" onclick='showImageModal("myModal", "img01", "assets/images/projects/branding/SSPL.jpg")' src="assets/images/projects/branding/SSPL.jpg" alt="Snow">
 								</div>
 
 
 								<div id="myModal" class="modal">
-								<span class="close">&times;</span>
-
+								<span class="close" onclick='closeImageModal("myModal")'>&times;</span>
 									<img class="modal-content" id="img01">
 								</div>
 
@@ -469,10 +468,7 @@
 										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">SSPL</span>
 									</h3>
 								</div>
-		</a>
-
-
-
+							</a>
 						</div><!-- grid-item end -->
 
 						<!-- grid-item start -->
