@@ -219,6 +219,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
+								
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Search Engine Optimization</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">SEO- Search engine optimization is the art and science combined to bring traffic to your 
+website by ranking your brand on any search platform using intent-based keywords.<br> Copywriting features: Advertise a product/service, describe a product/service, Sell a product/service. <br>&#x25CB; It's about understanding what your audience is searching for online. <br>
+&#x25CB; SEO acts as a definite answer to people who are trying to look out for your brand.<br>
+&#x25CB; SEO also helps the brand know their audience and target them by using web crawlers by optimizing and promoting off-page content for your brand.<br>We at D'Genius Solutions specialize in giving the best search engine optimization services by developing campaigns that deliver skyrocketing results with keyword search, on-page and off-page optimization.<br></p>
+									</div>
+								</div>
+
+
+
+
 
 
 
