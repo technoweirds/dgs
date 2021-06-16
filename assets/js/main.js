@@ -822,53 +822,15 @@ SOFTWARE.
 });
 
 // Modal
-var modal = document.getElementById("myModal");
-// Get the image and insert it inside the modal - use its "alt" text as a caption
-var img = document.getElementById("myImg");
-var modalImg = document.getElementById("img01");
-img.onclick = function () {
+function showImageModal(modalId, modalImgId, imgSrc) {
+  var modal = document.getElementById(modalId);
+  var modalImg = document.getElementById(modalImgId);
   modal.style.display = "block";
-  modalImg.src = this.src;
-};
-var span = document.getElementsByClassName("close")[0];
-// When the user clicks on <span> (x), close the modal
-span.onclick = function () {
+  modalImg.src = imgSrc;
+}
+function closeImageModal(modalId) {
+  // When the user clicks on <span> (x), close the modal
+  var modal = document.getElementById(modalId);
   modal.style.display = "none";
-};
-// Get the <span> element that closes the modal
-// When the user clicks on <span> (x), close the modal
+}
 // Modal end
-$(".without-caption").magnificPopup({
-  type: "image",
-  closeOnContentClick: true,
-  closeBtnInside: false,
-  mainClass: "mfp-no-margins mfp-with-zoom", // class to remove default margin from left and right side
-  image: {
-    verticalFit: true,
-  },
-  zoom: {
-    enabled: true,
-    duration: 300, // don't foget to change the duration also in CSS
-  },
-});
-
-$(".with-caption").magnificPopup({
-  type: "image",
-  closeOnContentClick: true,
-  closeBtnInside: false,
-  mainClass: "mfp-with-zoom mfp-img-mobile",
-  image: {
-    verticalFit: true,
-    titleSrc: function (item) {
-      return (
-        item.el.attr("title") +
-        ' &middot; <a class="image-source-link" href="' +
-        item.el.attr("data-source") +
-        '" target="_blank">image source</a>'
-      );
-    },
-  },
-  zoom: {
-    enabled: true,
-  },
-});

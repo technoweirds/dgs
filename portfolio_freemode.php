@@ -36,32 +36,18 @@
 	<!-- styles -->
 	<link href="assets/css/dgs-plugins.css" rel="stylesheet" type="text/css">
 	<link href="assets/css/dgs-style.css" rel="stylesheet" type="text/css">
-
-
-
-
 	<script>
-
-
-
-
-
-var modal2 = document.getElementById("myModal2");
-var img2 = document.getElementById("myImg2");
-var modalImg2 = document.getElementById("img02");
-img2.onclick = function () {
-  modal2.style.display = "block";
-  modalImg2.src = this.src;
+	window.onload = () => {
+  var date = new Date();
+  var dt = 
+    date.toLocaleString("default", { month: "long" }) +
+    " " +
+    date.getFullYear().toString();
+  var docTitle = document.title + "  " + dt;
+  document.querySelector("title").textContent = docTitle;
+  //document.querySelector("#currentdate").textContent = dt
 };
-var span = document.getElementsByClassName("close")[0];
-span.onclick = function () {
-  modal2.style.display = "none";
-};
-
-
-</script>
-
-
+	</script>
 
 	<script>(function(w, d) { w.CollectId = "60923e127a73a543539f1ad6"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
 	<!-- Google Tag Manager -->
@@ -115,13 +101,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<section class="pos-rel section-bg-light-2" data-midnight="black">
 				<!-- pos-rel start -->
 				<div class="pos-rel padding-top-bottom-120">
-
-
-
-
-
-
-
 					<!-- title start -->
 					<h2 class="headline-xxxl text-color-black text-center hidden-box js-scrollanim">
 						<span class="anim-slide">
@@ -166,18 +145,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						<!-- Branding -->
 						<!-- grid-item start -->
-
-
-
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
-							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale ">
-
-
-								<a href="assets\images\projects\branding\structural-specialities-projects.png" class="anim-img-scale anim-img-scale_hover js-img-scale without-caption">
-  <img src="assets\images\projects\branding\structural-specialities-projects.png"  />
-</a>
-
+							<a href="https://youtu.be/EQM7u8yXVMM" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" src="assets/images/projects/branding/structural-specialities-projects.png" alt="Structural Specialities & Projects">
 								</div>
 								<div id="myModal" class="modal">
 								<span class="close">&times;</span>
@@ -197,11 +168,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item end -->
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
-							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+							<a href="https://youtu.be/tlBYHH4wCJs" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<a href="assets\images\projects\branding\MKA&CO.png" class="without-caption">
-  <img src="assets\images\projects\branding\MKA&CO.png"  />
-</a>
+								<img id="myImg" src="assets/images/projects/branding/MKA&CO.png" alt="MKA&CO">
 								</div>
 								<div id="myModal" class="modal">
 								<span class="close">&times;</span>
@@ -217,21 +186,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</h3>
 								</div>
 							</a>
-
 						</div>
 						<!-- grid-item end -->
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
-							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+							<a href="https://youtu.be/_WDEcDwxua0" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<a href="assets\images\projects\branding\DGS.png" class="without-caption">
- 								 <img src="assets\images\projects\branding\DGS.png" width="200" height="300"/>
-								</a>
+								<img id="myImg" src="assets/images/projects/branding/DGS.png" alt="DGS">
 								</div>
-								<div id="myModal2" class="modal">
+								<div id="myModal" class="modal">
 								<span class="close">&times;</span>
 
-									<img class="modal-content2" id="img02">
+									<img class="modal-content" id="img01">
 								</div>
 								<div class="margin-top-10 js-scrollanim">
 									<span class="hidden-box d-block">
@@ -246,11 +212,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item end -->
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
-							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+							<a href="https://youtu.be/0NagHNal_Rc" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<a href="assets\images\projects\branding\YIMT.png" class="without-caption">
- 								 <img src="assets\images\projects\branding\YIMT.png" />
-								</a>
+								<img id="myImg" src="assets/images/projects/branding/YIMT.png" alt="YIMT">
 								</div>
 								<div id="myModal" class="modal">
 								<span class="close">&times;</span>
@@ -273,7 +237,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- Social Media Marketing -->
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
-							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+							<a href="https://youtu.be/VoaDOBN37lI" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
 								<img id="myImg" src="assets/images/projects/social-media-marketing/Aertrip1.png" alt="Aertrip">
 								</div>
@@ -295,7 +259,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item end -->
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
-							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+							<a href="https://youtu.be/ls01suAR6lo" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
 								<img id="myImg" src="assets/images/projects/social-media-marketing/Aertrip2.png" alt="Aertrip">
 								</div>
@@ -319,12 +283,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/social-media-marketing/Compuage1.gif" alt="Compuage">
+								<img id="myImg" onclick='showImageModal("myModal-01", "img-01", "assets/images/projects/social-media-marketing/Compuage1.gif")' src="assets/images/projects/social-media-marketing/Compuage1.gif" alt="Compuage">
 								</div>
-								<div id="myModal" class="modal">
-								<span class="close">&times;</span>
-
-									<img class="modal-content" id="img01">
+								<div id="myModal-01" class="modal">
+								<span class="close" onclick='closeImageModal("myModal-01")'>&times;</span>
+									<img class="modal-content" id="img-01">
 								</div>
 								<div class="margin-top-10 js-scrollanim">
 									<span class="hidden-box d-block">
@@ -341,12 +304,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/social-media-marketing/Fundenable1.png" alt="Fundenable">
+								<img id="myImg" onclick='showImageModal("myModal-02", "img-02", "assets/images/projects/social-media-marketing/Fundenable1.png")' src="assets/images/projects/social-media-marketing/Fundenable1.png" alt="Fundenable">
 								</div>
-								<div id="myModal" class="modal">
-								<span class="close">&times;</span>
+								<div id="myModal-02" class="modal">
+								<span class="close" onclick='closeImageModal("myModal-02")'>&times;</span>
 
-									<img class="modal-content" id="img01">
+									<img class="modal-content" id="img-02">
 								</div>
 								<div class="margin-top-10 js-scrollanim">
 									<span class="hidden-box d-block">
@@ -364,7 +327,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- Music Video -->
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item video">
-							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+							<a href="https://www.youtube.com/watch?v=vUejS-Loe4w" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
 								<img id="myImg" src="assets/images/projects/kailasa-music-video/kailasa-music-video.png" alt="Kailasa Music Video">
 								</div>
@@ -389,7 +352,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- TVC -->
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item tvc">
-							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+							<a href="https://www.youtube.com/watch?v=8Ca5PIxaohY" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
 								<img id="myImg" src="assets/images/projects/welspun/Welspun.png" alt="Welspun">
 								</div>
@@ -416,12 +379,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item email">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/email-marketing/Compuage1.jpg" alt="Compuage">
+								<img id="myImg" onclick='showImageModal("myModal-03", "img-03", "assets/images/projects/email-marketing/Compuage1.jpg")' src="assets/images/projects/email-marketing/Compuage1.jpg" alt="Compuage">
 								</div>
-								<div id="myModal" class="modal">
-								<span class="close">&times;</span>
+								<div id="myModal-03" class="modal">
+								<span class="close" onclick='closeImageModal("myModal-03")'>&times;</span>
 
-									<img class="modal-content" id="img01">
+									<img class="modal-content" id="img-03">
 								</div>
 								<div class="margin-top-10 js-scrollanim">
 									<span class="hidden-box d-block">
@@ -438,12 +401,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item email">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/email-marketing/Compuage2.jpg" alt="Compuage">
+								<img id="myImg" onclick='showImageModal("myModal-04", "img-04", "assets/images/projects/email-marketing/Compuage2.jpg")' src="assets/images/projects/email-marketing/Compuage2.jpg" alt="Compuage">
 								</div>
-								<div id="myModal" class="modal">
-								<span class="close">&times;</span>
+								<div id="myModal-04" class="modal">
+								<span class="close" onclick='closeImageModal("myModal-04")'>&times;</span>
 
-									<img class="modal-content" id="img01">
+									<img class="modal-content" id="img-04">
 								</div>
 								<div class="margin-top-10 js-scrollanim">
 									<span class="hidden-box d-block">
@@ -460,12 +423,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item email">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/email-marketing/Compuage3.png" alt="Compuage">
+								<img id="myImg" onclick='showImageModal("myModal-05", "img-05", "assets/images/projects/email-marketing/Compuage3.png")' src="assets/images/projects/email-marketing/Compuage3.png" alt="Compuage">
 								</div>
-								<div id="myModal" class="modal">
-								<span class="close">&times;</span>
+								<div id="myModal-05" class="modal">
+								<span class="close" onclick='closeImageModal("myModal-05")'>&times;</span>
 
-									<img class="modal-content" id="img01">
+									<img class="modal-content" id="img-05">
 								</div>
 								<div class="margin-top-10 js-scrollanim">
 									<span class="hidden-box d-block">
@@ -482,12 +445,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item email">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/email-marketing/Compuage4.jpg" alt="Compuage">
+								<img id="myImg" onclick='showImageModal("myModal-06", "img-06", "assets/images/projects/email-marketing/Compuage4.jpg")' src="assets/images/projects/email-marketing/Compuage4.jpg" alt="Compuage">
 								</div>
-								<div id="myModal" class="modal">
-								<span class="close">&times;</span>
+								<div id="myModal-06" class="modal">
+								<span class="close" onclick='closeImageModal("myModal-06")'>&times;</span>
 
-									<img class="modal-content" id="img01">
+									<img class="modal-content" id="img-06">
 								</div>
 								<div class="margin-top-10 js-scrollanim">
 									<span class="hidden-box d-block">
@@ -507,12 +470,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item linkedin">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/linkedin-b2b/Aertrip1.jpg" alt="Aertrip ">
+								<img id="myImg" onclick='showImageModal("myModal-07", "img-07", "assets/images/projects/linkedin-b2b/Aertrip1.jpg")' src="assets/images/projects/linkedin-b2b/Aertrip1.jpg" alt="Aertrip">
 								</div>
-								<div id="myModal" class="modal">
-								<span class="close">&times;</span>
+								<div id="myModal-07" class="modal">
+								<span class="close" onclick='closeImageModal("myModal-07")'>&times;</span>
 
-									<img class="modal-content" id="img01">
+									<img class="modal-content" id="img-07">
 								</div>
 								<div class="margin-top-10 js-scrollanim">
 									<span class="hidden-box d-block">
@@ -529,12 +492,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item linkedin">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/linkedin-b2b/Aertrip2.jpg" alt="Aertrip ">
+								<img id="myImg" onclick='showImageModal("myModal-08", "img-08", "assets/images/projects/linkedin-b2b/Aertrip2.jpg")' src="assets/images/projects/linkedin-b2b/Aertrip2.jpg" alt="Aertrip ">
 								</div>
-								<div id="myModal" class="modal">
-								<span class="close">&times;</span>
+								<div id="myModal-08" class="modal">
+								<span class="close" onclick='closeImageModal("myModal-08")'>&times;</span>
 
-									<img class="modal-content" id="img01">
+									<img class="modal-content" id="img-08">
 								</div>
 								<div class="margin-top-10 js-scrollanim">
 									<span class="hidden-box d-block">
@@ -554,12 +517,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item website">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/website/website.jpg" alt="Structural Specialities & Projects">
+								<img id="myImg" onclick='showImageModal("myModal-09", "img-09", "assets/images/projects/website/website.jpg")' src="assets/images/projects/website/website.jpg" alt="Structural Specialities & Projects">
 								</div>
-								<div id="myModal" class="modal">
-								<span class="close">&times;</span>
+								<div id="myModal-09" class="modal">
+								<span class="close" onclick='closeImageModal("myModal-09")'>&times;</span>
 
-									<img class="modal-content" id="img01">
+									<img class="modal-content" id="img-09">
 								</div>
 								<div class="margin-top-10 js-scrollanim">
 									<span class="hidden-box d-block">
