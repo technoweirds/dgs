@@ -230,11 +230,59 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 website by ranking your brand on any search platform using intent-based keywords.<br> Copywriting features: Advertise a product/service, describe a product/service, Sell a product/service. <br>&#x25CB; It's about understanding what your audience is searching for online. <br>
 &#x25CB; SEO acts as a definite answer to people who are trying to look out for your brand.<br>
 &#x25CB; SEO also helps the brand know their audience and target them by using web crawlers by optimizing and promoting off-page content for your brand.<br>We at D'Genius Solutions specialize in giving the best search engine optimization services by developing campaigns that deliver skyrocketing results with keyword search, on-page and off-page optimization.<br></p>
-									</div>
+									
+<img class="body-text-l" src="assets\images\services\SEO.jpg" alt="" style="width:100%; margin-top: 50px;   margin-left: auto; display:block; margin-right: auto">
+
+<img class="body-text-l" src="assets\images\services\SEO2.jpg" alt="" style="width:100%; margin-top: 50px;   margin-left: auto; display:block; margin-right: auto">
+
+
+
+</div>
+
+
+
 								</div>
 
 
 
+
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Email Marketing</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">Email marketing strategy is one of the most effective marketing strategies. Effectively target your audience to build recognition that gets results. It boosts sales and revenue by driving in trusted and potential customers with relevant information. Email marketing promotes newsletters, custom emails, brand stories, transactional emails, and lead nurturing emails.<br>Here are the five most basic sorts of emailers: <br>&#x25CB; Newsletter emails :<br> Pamphlets are mainstream and are normally conveyed on a reliable timetable. They frequently contain the company's blog content, upcoming events, and any updates about your company that would bear some significance for your consumers.
+									<br>&#x25CB; Lead nurturing emails :<br>These messages include controlling your leads through a sales funnel and converting them into customers. The overall thought of lead support is that your endorsers are not yet prepared to purchase from you. The client/organization trust first should be assembled. This is reachable through the supportive substance you convey through lead nurturing emails.
+									<br>&#x25CB; Promotional emails :<br>Limited time messages are very normal in email advertising, which is the reason it's imperative to enhance them as opposed to sending the old "15% off" sort of email. One approach to accomplish this is by featuring the item or administration on offer and afterward adding some important substance about the thing you're selling.
+									<br>&#x25CB; Survey emails : <br>You'll possibly improve at what you're doing if you ask for feedback. The survey email allows you to understand what you're getting right and what you can enhance. It can likewise assist you with understanding your clients better and what they're keen on getting from your image.
+									<br>&#x25CB; Social Media Filters :<br>Brands can give their customers a highly interactive and engaging experience with the filters they create for them. 
+									<br>Types of filters you can engage your clients with :<br>
+									<br>&#x25CB; Makeup/Beauty filter <br>
+									<br>&#x25CB; Theme oriented filter <br>
+
+									<br>&#x25CB; Festival oriented filter <br>
+									<br>&#x25CB; Filter for a cause or social message promotion<br>
+									<br>&#x25CB; Trendsetting filter<br>
+									<br>&#x25CB; Brand based photo frame filter  <br>
+
+
+								
+								</p>
+									</div>
+								</div><!-- accordion__tab end -->
+
+
+
+
+
+
+
+
+
+
+
+								
 
 
 
@@ -263,48 +311,97 @@ website by ranking your brand on any search platform using intent-based keywords
 
 						<!-- padding-top-90 start -->
 						<div class="padding-top-120">
-							<h2 class="headline-l container hidden-box">
-								<span class="anim-slide js-scrollanim"></span>
-							</h2>
+
+
+						<h6 class="headline-xxl container hidden-box">
+								<span class="anim-slide js-scrollanim">VIDEO COLLATERALS</span>
+							</h6>
+
 
 							<!-- accordion start -->
 							<div class="accordion accordion_underline js-accordion margin-top-60">
 								<!-- accordion__tab start -->
 								<div class="accordion__tab js-accordion-tab">
 									<div class="accordion__btn js-accordion-btn container js-pointer-large">
-										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">UI/UX Design</h6>
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Corporate Videos</h6>
 									</div>
 									<div class="accordion__content js-accordion-content container">
-										<p class="body-text-l">Green juice roof party kombucha mixtape chartreuse. Tofu retro cold-pressed letterpress coloring book gastropub yr asymmetrical cred bicycle rights snackwave XOXO raw denim keytar. Coloring book poutine church-key, selfies asymmetrical pickled banjo green juice PBR&B. Chicharrones you probably haven't heard of them bushwick stumptown yuccie authentic schlitz next level franzen hoodie. Cardigan disrupt fashion axe post-ironic, cold-pressed woke hoodie letterpress YOLO schlitz sartorial etsy prism squid church-key. Pinterest lumbersexual forage chillwave godard pitchfork vexillologist deep v chia truffaut four dollar toast food truck meditation. Hot chicken coloring book cliche YOLO, crucifix kale chips swag hexagon raclette paleo next level austin.<br><br>Hammock sriracha paleo, iPhone swag af flexitarian hella pickled neutra pug. Trust fund chicharrones iPhone stumptown chia. Godard 3 wolf moon tacos try-hard, raw denim locavore messenger bag portland. Blue bottle hashtag schlitz etsy knausgaard, aesthetic tacos freegan lomo deep v fashion axe.</p>
+										<p class="body-text-l">Speak about your brand by telling a story to your audience. Corporate video production promotes brand awareness and showcases the ambiance of a brand, increasing direct visibility and positivity.<br></p>
 									</div>
 								</div><!-- accordion__tab end -->
 
 								<!-- accordion__tab start -->
 								<div class="accordion__tab js-accordion-tab">
 									<div class="accordion__btn js-accordion-btn container js-pointer-large">
-										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Graphic Design</h6>
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Digital Videos</h6>
 									</div>
 									<div class="accordion__content js-accordion-content container">
-										<p class="body-text-l">Green juice roof party kombucha mixtape chartreuse. Tofu retro cold-pressed letterpress coloring book gastropub yr asymmetrical cred bicycle rights snackwave XOXO raw denim keytar. Coloring book poutine church-key, selfies asymmetrical pickled banjo green juice PBR&B. Chicharrones you probably haven't heard of them bushwick stumptown yuccie authentic schlitz next level franzen hoodie. Cardigan disrupt fashion axe post-ironic, cold-pressed woke hoodie letterpress YOLO schlitz sartorial etsy prism squid church-key. Pinterest lumbersexual forage chillwave godard pitchfork vexillologist deep v chia truffaut four dollar toast food truck meditation. Hot chicken coloring book cliche YOLO, crucifix kale chips swag hexagon raclette paleo next level austin.<br><br>Hammock sriracha paleo, iPhone swag af flexitarian hella pickled neutra pug. Trust fund chicharrones iPhone stumptown chia. Godard 3 wolf moon tacos try-hard, raw denim locavore messenger bag portland. Blue bottle hashtag schlitz etsy knausgaard, aesthetic tacos freegan lomo deep v fashion axe.</p>
+										<p class="body-text-l">Digital videos allow brands and businesses to achieve more visibility with video.  Make promotional and marketing videos that fit the needs of your business objective to enable sales and growth.
+										<br>&#x25CB; Motion Graphics Animated Video <br>
+
+										Complicated topics, products, and services need a simpler way to be explained. How do you achieve that? Motion graphics animation is one of the most booming and growing areas that marketers are using to successfully promote a brand's uniqueness. Complex notes are converted to easily understandable infographics that are animated to engage the audience well. <br>
+
+										<br>&#x25CB; 2D/3D Animation <br>
+
+										Over the years 2D/3D animation is one of the most promising and growing businesses in the video and media production industry. Showcasing your products in 2D/3D animated videos acts as refreshment for your audience. There is no better video marketing tool than a 2D/3D animated explainer video for your business.<br>
+
+										<br>&#x25CB; Whiteboard Animation <br>
+
+										A whiteboard animation video restores information and text with moving visuals and on-screen material. Whiteboard animation makes strong and clear visuals that instantly convey the message by adding fun components and elements to build commitment and engagement. Be it for an item, a product, or anything tough to explain we make it simpler with whiteboard animation. We as content marketing experts handle your business’ thoughts and translate them into easily graspable explainer videos or live videos curated with thoughtful messaging. With our innovative plan group, our explainer video creation organization can concoct the correct kind of video according to our customer's methodology. 
+
+
+
+
+<br>
+
+									
+									
+									</p>
 									</div>
 								</div><!-- accordion__tab end -->
 
-								<!-- accordion__tab start -->
 								<div class="accordion__tab js-accordion-tab">
 									<div class="accordion__btn js-accordion-btn container js-pointer-large">
-										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Motion Design</h6>
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Product Shoot</h6>
 									</div>
 									<div class="accordion__content js-accordion-content container">
-										<p class="body-text-l">Green juice roof party kombucha mixtape chartreuse. Tofu retro cold-pressed letterpress coloring book gastropub yr asymmetrical cred bicycle rights snackwave XOXO raw denim keytar. Coloring book poutine church-key, selfies asymmetrical pickled banjo green juice PBR&B. Chicharrones you probably haven't heard of them bushwick stumptown yuccie authentic schlitz next level franzen hoodie. Cardigan disrupt fashion axe post-ironic, cold-pressed woke hoodie letterpress YOLO schlitz sartorial etsy prism squid church-key. Pinterest lumbersexual forage chillwave godard pitchfork vexillologist deep v chia truffaut four dollar toast food truck meditation. Hot chicken coloring book cliche YOLO, crucifix kale chips swag hexagon raclette paleo next level austin.<br><br>Hammock sriracha paleo, iPhone swag af flexitarian hella pickled neutra pug. Trust fund chicharrones iPhone stumptown chia. Godard 3 wolf moon tacos try-hard, raw denim locavore messenger bag portland. Blue bottle hashtag schlitz etsy knausgaard, aesthetic tacos freegan lomo deep v fashion axe.</p>
+
+									<p class="body-text-l">Product shoots are not just clicking products. It needs aggressive planning and execution to ensure your products are appealing enough to drive sales. Creating a story through pictures, creatively planning theme-related mood boards, and bringing world-class photography to the table is our ambition here. A simple product photography project sets the right lighting. <br>Create the best images for your eCommerce site and increase conversions by following these 5 product photography basics. Product photography is taking pictures using specific techniques to accurately and attractively represent your website's products. Extraordinary product photography expands transformations by alluring customers to buy your products.<br>
+								
+								</p>
 									</div>
 								</div><!-- accordion__tab end -->
-							</div><!-- accordion end -->
+
+
+
+
+
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Ad Film making</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">Gone are the days when people visited brick-and-mortar stores of every company to finalize their decision. Now the trend is all about knowing the product/brand through Ad Films and promotional videos. At that point, the simplest way out to make an impact is Ad Films/Corporate Films. Promote and promise your products to your customers through creative gimmicks and stories. Make your consumers hear about your products through potential ad campaigns. We stop at nothing when it comes to an ad filmmaking process right from conceptualization to pre-production, production, and post-production phase. And lastly, promote it!<br> The Process : <br> 1. Briefing – The one where you decide the concept and context <br>
+									2. Pre-Production – The one where the content and process is finalized <br> 3. Video Production – The one where you shoot the entire film <br>4. Post Production – The one where you edit the film as per your visualized end product.
+								</p>
+									</div>
+								</div><!-- accordion__tab end -->
+
+
+
+
+
+
+
+
+
 						</div><!-- padding-top-90 end -->
 
 						<!-- padding-top-90 start -->
 						<div class="padding-top-120">
 							<h2 class="headline-l container hidden-box">
-								<span class="anim-slide js-scrollanim">Marketing</span>
+								<span class="anim-slide js-scrollanim">MEDIA MANAGEMENT</span>
 							</h2>
 
 							<!-- accordion start -->
