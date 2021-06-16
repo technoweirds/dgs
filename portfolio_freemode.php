@@ -36,18 +36,32 @@
 	<!-- styles -->
 	<link href="assets/css/dgs-plugins.css" rel="stylesheet" type="text/css">
 	<link href="assets/css/dgs-style.css" rel="stylesheet" type="text/css">
+
+
+
+
 	<script>
-	window.onload = () => {
-  var date = new Date();
-  var dt = 
-    date.toLocaleString("default", { month: "long" }) +
-    " " +
-    date.getFullYear().toString();
-  var docTitle = document.title + "  " + dt;
-  document.querySelector("title").textContent = docTitle;
-  //document.querySelector("#currentdate").textContent = dt
+
+
+
+
+
+var modal2 = document.getElementById("myModal2");
+var img2 = document.getElementById("myImg2");
+var modalImg2 = document.getElementById("img02");
+img2.onclick = function () {
+  modal2.style.display = "block";
+  modalImg2.src = this.src;
 };
-	</script>
+var span = document.getElementsByClassName("close")[0];
+span.onclick = function () {
+  modal2.style.display = "none";
+};
+
+
+</script>
+
+
 
 	<script>(function(w, d) { w.CollectId = "60923e127a73a543539f1ad6"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
 	<!-- Google Tag Manager -->
@@ -101,6 +115,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<section class="pos-rel section-bg-light-2" data-midnight="black">
 				<!-- pos-rel start -->
 				<div class="pos-rel padding-top-bottom-120">
+
+
+
+
+
+
+
 					<!-- title start -->
 					<h2 class="headline-xxxl text-color-black text-center hidden-box js-scrollanim">
 						<span class="anim-slide">
@@ -145,10 +166,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						<!-- Branding -->
 						<!-- grid-item start -->
+
+
+
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/branding/structural-specialities-projects.png" alt="Structural Specialities & Projects">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale ">
+
+
+								<a href="assets\images\projects\branding\structural-specialities-projects.png" class="anim-img-scale anim-img-scale_hover js-img-scale without-caption">
+  <img src="assets\images\projects\branding\structural-specialities-projects.png"  />
+</a>
+
 								</div>
 								<div id="myModal" class="modal">
 								<span class="close">&times;</span>
@@ -170,7 +199,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/branding/MKA&CO.png" alt="MKA&CO">
+								<a href="assets\images\projects\branding\MKA&CO.png" class="without-caption">
+  <img src="assets\images\projects\branding\MKA&CO.png"  />
+</a>
 								</div>
 								<div id="myModal" class="modal">
 								<span class="close">&times;</span>
@@ -186,18 +217,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</h3>
 								</div>
 							</a>
+
 						</div>
 						<!-- grid-item end -->
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/branding/DGS.png" alt="DGS">
+								<a href="assets\images\projects\branding\DGS.png" class="without-caption">
+ 								 <img src="assets\images\projects\branding\DGS.png" width="200" height="300"/>
+								</a>
 								</div>
-								<div id="myModal" class="modal">
+								<div id="myModal2" class="modal">
 								<span class="close">&times;</span>
 
-									<img class="modal-content" id="img01">
+									<img class="modal-content2" id="img02">
 								</div>
 								<div class="margin-top-10 js-scrollanim">
 									<span class="hidden-box d-block">
@@ -214,7 +248,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/branding/YIMT.png" alt="YIMT">
+								<a href="assets\images\projects\branding\YIMT.png" class="without-caption">
+ 								 <img src="assets\images\projects\branding\YIMT.png" />
+								</a>
 								</div>
 								<div id="myModal" class="modal">
 								<span class="close">&times;</span>

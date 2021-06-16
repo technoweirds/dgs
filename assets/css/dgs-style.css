@@ -8936,7 +8936,7 @@ section.pos-rel.section-bg-light-2 .counter-pagination .swiper-pagination-bullet
   }
   .img01 {
 	display: none; /* Hidden by default */
-	position: fixed; /* Stay in place */
+	position: center; /* Stay in place */
 	z-index: 1; /* Sit on top */
 	padding-top: 100px; /* Location of the box */
 	left: 0;
@@ -8947,13 +8947,50 @@ section.pos-rel.section-bg-light-2 .counter-pagination .swiper-pagination-bullet
 	background-color: rgb(0,0,0); /* Fallback color */
 	background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
   }
+  .img02 {
+	display: none; /* Hidden by default */
+	position: center; /* Stay in place */
+	z-index: 1; /* Sit on top */
+	padding-top: 100px; /* Location of the box */
+	left: 0;
+	top: 0;
+	width: 1920 px; /* Full width */
+	height: 1920 px; /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	background-color: rgb(0,0,0); /* Fallback color */
+	background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+  }
+
+  .modal2 {
+	display: none; /* Hidden by default */
+	position: fixed; /* Stay in place */
+	z-index: 1; /* Sit on top */
+	padding-top: 100px; /* Location of the box */
+	left: 0;
+	top: 0;
+	width: 100%; /* Full width */
+	height: 100%; /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	background-color: rgb(0,0,0); /* Fallback color */
+	background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+  }
+
   /* Modal Content (image) */
   .modal-content {
 	margin: auto;
 	display: block;
-	width: 80%;
+	width: 100%;
 	max-width: 700px;
   }
+
+
+  .modal-content2p {
+	margin: auto;
+	display: block;
+	width: 100%;
+	max-width: 700px;
+  }
+
   /* Caption of Modal Image */
   #caption {
 	margin: auto;
@@ -9003,3 +9040,83 @@ section.pos-rel.section-bg-light-2 .counter-pagination .swiper-pagination-bullet
 	}
   }
   /* Modal end */
+
+
+
+
+
+
+
+
+
+
+  .image-link {
+	cursor: -webkit-zoom-in;
+	cursor: -moz-zoom-in;
+	cursor: zoom-in;
+  }
+  
+  
+  /* This block of CSS adds opacity transition to background */
+  
+  .mfp-with-zoom .mfp-container,
+  .mfp-with-zoom.mfp-bg {
+	opacity: 0;
+	-webkit-backface-visibility: hidden;
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+  }
+  
+  .mfp-with-zoom.mfp-ready .mfp-container {
+	opacity: 1;
+  }
+  
+  .mfp-with-zoom.mfp-ready.mfp-bg {
+	opacity: 0.8;
+  }
+  
+  .mfp-with-zoom.mfp-removing .mfp-container,
+  .mfp-with-zoom.mfp-removing.mfp-bg {
+	opacity: 0;
+  }
+  
+  
+  /* padding-bottom and top for image */
+  
+  .mfp-no-margins img.mfp-img {
+	padding: 0;
+  }
+  
+  
+  /* position of shadow behind the image */
+  
+  .mfp-no-margins .mfp-figure:after {
+	top: 0;
+	bottom: 0;
+  }
+  
+  
+  /* padding for main container */
+  
+  .mfp-no-margins .mfp-container {
+	padding: 0;
+  }
+  
+  
+  /* aligns caption to center */
+  
+  .mfp-title {
+	text-align: center;
+	padding: 6px 0;
+  }
+  
+  .image-source-link {
+	color: #DDD;
+  }
+  
+  body {
+	-webkit-backface-visibility: hidden;
+  }
+  
