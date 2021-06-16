@@ -245,38 +245,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								</div>
 							</div><!-- column end -->
 
-							<div class="five-columns">
+
+							<div class="four-columns">
 								<div class="column-l-r-margin-5">
-								<label class = "form-check">Select Your Requirements : </label>
-
-
-								</div>
-							</div><!-- column end -->
-							<div class="five-columns">
-								<div class="column-l-r-margin-10">
-								<input type="checkbox" id="design" name="service[]" value="Design">
-								<label class = "form-check">Design</label><br>
-								<input type="checkbox" id="development" name="service[]" value="development">
-								<label class = "form-check">Marketing</label><br>
-								<input type="checkbox" id="marketing" name="service[]" value="marketing">
-								<label class = "form-check">Development</label>
-
-
-
-
-							</div>
-							</div><!-- column end -->
-
-
-							<div class="five-columns">
-								<div class="column-l-r-margin-5">
-
-
 								<input type="tel" name="number" placeholder="Enter your phone number" id="number" required class="form-input js-pointer-small">
-
-
-
 								</div>
+							</div><!-- column end -->
+              <div class="three-columns">
+								<div class="column-l-margin-5 margin-bottom-10">
+								<label class = "form-check">Select Your Requirements : </label>
+								</div>
+							</div><!-- column end -->
+							<div class="four-columns">
+								<div class="">
+                  <input type="checkbox" id="design" name="service[]" value="Design">
+                  <label class = "form-check">Design</label><br>
+                  <input type="checkbox" id="development" name="service[]" value="development">
+                  <label class = "form-check">Marketing</label><br>
+                  <input type="checkbox" id="marketing" name="service[]" value="marketing">
+                  <label class = "form-check">Development</label>
+                </div>
 							</div><!-- column end -->
 
 
