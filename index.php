@@ -258,7 +258,7 @@
 					<!-- swiper-slide start -->
 					<div class="swiper-slide">
 						<!-- slide-bg -->
-						<a  href="services.php#branding" class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/videos/b3.gif)"></a>
+						<a  href="services.php#BM" class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/videos/b3.gif)"></a>
 						<!-- bg-overlay -->
 						<div class="bg-overlay-black"></div>
 
@@ -266,7 +266,7 @@
 						<div class="flex-min-height-100vh pos-rel" data-swiper-parallax-x="30%">
 							<div class="container small text-center padding-top-120">
 								<div class="margin-top-30 anim-fade tr-delay-08">
-									<a href="services.php" class="border-btn js-pointer-large margin-top-90-percent">
+									<a href="services.php#BM" class="border-btn js-pointer-large margin-top-90-percent">
 										<span class="border-btn__inner">Read more</span>
 										<span class="border-btn__lines-1"></span>
 										<span class="border-btn__lines-2"></span>
