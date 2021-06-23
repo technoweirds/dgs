@@ -104,7 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h3 class="headline-xxxs hidden-box">
 							<span class="anim-slide">Grow with DGS!</span>
 						</h3>
-						<h2 class="subhead-xxl margin-top-20 anim-slide">If you've got the talent to put up a great show in the advertising business, we are looking for you. The founders of D'Genius believe in working with people who come with passion and compassion. We seek modern marketing and digital experts who can contribute and grow with DGS in various sectors spanning copywriting, designing, digital marketing, client servicing, business development and more.</h2>
+						<h2 class="subhead-xxl margin-top-20 anim-slide">If you've got the talent to put up a great show in the advertising business, we are looking for you. The founders of D'Genius believe in working with people who come with passion and compassion. <br>We seek modern marketing and digital experts who can contribute and grow with DGS in various sectors spanning copywriting, designing, digital marketing, client servicing, business development and more.</h2>
 					</div>
 				</div><!-- pos-rel end -->
 			</section><!-- page head end -->
@@ -131,7 +131,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<h2 class="padding-bottom-10 headline-xxs hidden-box">
 									<span class="job anim-slide js-scrollanim js-scrollanim-active">Graphic Designer</span>
 								</h2>		
-								<p class="body-text-l">Pinterest lumbersexual forage chillwave godard pitchfork vexillologist deep v chia truffaut four dollar toast food truck meditation.</p>
+								<p class="body-text-l">Are you a creative head who has an eye for aesthetics, with relevant skills to back them up? 
+</p>
                                                                </div>
 								</div>
 								<div class="four-columns d-flex flex-center-center">
@@ -153,7 +154,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<h2 class="padding-bottom-10 headline-xxs hidden-box">
 									<span class="job anim-slide js-scrollanim js-scrollanim-active">Content Writer</span>
 								</h2>		
-								<p class="body-text-l">Pinterest lumbersexual forage chillwave godard pitchfork vexillologist deep v chia truffaut four dollar toast food truck meditation.</p>
+								<p class="body-text-l">Do you have the ability to keep people hooked through your words while also being authentic and witty?
+</p>
                                                                </div>
 								</div>
 								<div class="four-columns d-flex flex-center-center">
@@ -175,7 +177,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<h2 class="padding-bottom-10 headline-xxs hidden-box">
 									<span class="job anim-slide js-scrollanim js-scrollanim-active">Account Manager</span>
 								</h2>		
-								<p class="body-text-l">Pinterest lumbersexual forage chillwave godard pitchfork vexillologist deep v chia truffaut four dollar toast food truck meditation.</p>
+								<p class="body-text-l">Are you a good juggler with notable managerial skills and also good at communication? 
+</p>
                                                                </div>
 								</div>
 								<div class="four-columns d-flex flex-center-center">
@@ -188,7 +191,38 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</div>
 								</div>
 							</div>
+
+
+
+
+
 						</div><!-- padding-top-90 end -->
+
+
+						<p class="body-text-l text-center padding-top-30">Not sure and still trying to explore a career with us?
+Don’t worry, we have got you. Just drop in your resume and we’ll figure where you fit best. 
+ 
+</p>
+
+<div class="twelve-columns text-center padding-top-50">
+								<button id="send" class="border-btn js-pointer-large">
+									<span class="border-btn__inner">submit</span>
+									<span class="btn-wait">Wait</span>
+									<span class="border-btn__lines-1"></span>
+									<span class="border-btn__lines-2"></span>
+								</button>
+							</div><!-- column end -->
+						</form><!-- flex-container end -->
+					</div><!-- container end -->
+
+
+
+
+
+
+
+
+
                                                    </div>
 							</main><!-- main end -->
 

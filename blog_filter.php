@@ -97,19 +97,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- main start -->
 		<main class="js-animsition-overlay" data-animsition-overlay="true">
 			<!-- pos-rel start -->
-			<section id="up" class="pos-rel js-parallax-bg" style="background-image:url(assets/images/backgrounds/person-holding-white-ceramic-coffee-cup-leaning-on-brown-179912.jpg)">
-				<!-- bg-overlay -->
-				<div class="bg-overlay-black"></div>
-				<!-- pos-rel start -->
-				<div class="pos-rel flex-min-height-100vh">
-					<div class="padding-top-bottom-120 width-100perc">
-						<!-- title start -->
-						<h2 class="headline-xxxxl text-center hidden-box after-preloader-anim">
-							<span class="anim-slide">Grid with Filter</span>
-						</h2><!-- title end -->
-					</div>
-				</div><!-- pos-rel end -->
-			</section><!-- pos-rel end -->
 
 			<!-- blog start -->
 			<div id="down" class="pos-rel section-bg-light-2" data-midnight="black">

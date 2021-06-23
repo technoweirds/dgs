@@ -364,9 +364,9 @@
 									<img class="client-logo client-hover-out pos-abs pos-center-center" src="assets/images/care/c.png" alt="We Care">
 									<img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/care/cc.png" alt="We Care">
 								</div>
-                                                        <h3 class="body-text-s text-center margin-top-5">Building perception </h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Higher engagement</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Result-oriented</h3> 
+                                                        <h3 class="body-text-s text-left margin-top-5">Building perception </h3>
+                                                        <h3 class="body-text-s text-left margin-top-5">Higher engagement</h3>
+                                                        <h3 class="body-text-s text-left margin-top-5">Result-oriented</h3> 
 							</div><!-- clients-lines__column end -->
 
 							<!-- clients-lines__column start -->
@@ -375,9 +375,9 @@
 									<img class="client-logo client-hover-out pos-abs pos-center-center" src="assets/images/care/a.png" alt="We Care">
 									<img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/care/aa.png" alt="We Care">
                                                          </div>
-                                                        <h3 class="body-text-s text-center margin-top-5">Associating with them in the right way</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Brand positioning</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Showing empathy</h3> 
+                                                        <h3 class="body-text-s text-left margin-top-5">Associating with them in the right way</h3>
+                                                        <h3 class="body-text-s text-left margin-top-5">Brand positioning</h3>
+                                                        <h3 class="body-text-s text-left margin-top-5">Showing empathy</h3> 
                                           		</div><!-- clients-lines__column end -->
 
 							<!-- clients-lines__column start -->
@@ -386,9 +386,9 @@
 									<img class="client-logo client-hover-out pos-abs pos-center-center" src="assets/images/care/r.png" alt="We Care">
 									<img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/care/rr.png" alt="We Care">
 								</div>
-                                                        <h3 class="body-text-s text-center margin-top-5">Focus on important issues</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Adding value</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Being Consistent</h3>                                           		
+                                                        <h3 class="body-text-s text-left margin-top-5">Focus on important issues</h3>
+                                                        <h3 class="body-text-s text-left margin-top-5">Adding value</h3>
+                                                        <h3 class="body-text-s text-left margin-top-5">Being Consistent</h3>                                           		
 							</div><!-- clients-lines__column end -->
 
 							<!-- clients-lines__column start -->
@@ -397,9 +397,9 @@
 									<img class="client-logo client-hover-out pos-abs pos-center-center" src="assets/images/care/e.png" alt="We Care">
 									<img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/care/ee.png" alt="We Care">
 								</div>
-                                                       <h3 class="body-text-s text-center margin-top-5">Measuring market value</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Taking valuable feedback</h3>
-                                                        <h3 class="body-text-s text-center margin-top-5">Measuring market value</h3>                                       		
+                                                       <h3 class="body-text-s text-left margin-top-5">Analyzing effectiveness</h3>
+                                                        <h3 class="body-text-s text-left margin-top-5">Taking valuable feedback</h3>
+                                                        <h3 class="body-text-s text-left margin-top-5">Measuring market value</h3>                                       		
 							</div><!-- clients-lines__column end -->
 							<div class="container small text-center padding-top-60">
 									<a href="what-we-do.php" class="border-btn js-pointer-large">
@@ -420,7 +420,7 @@
 					<!-- title start -->
 					<h2 class="headline-xxxl text-color-black text-center hidden-box js-scrollanim">
 						<span class="anim-slide">
-							A glimpse of our <span class="">Works</span>
+							A Glimpse of our <span class="">Works</span>
 						</span>
 					</h2><!-- title end -->
 
@@ -516,7 +516,7 @@
 					<div class="padding-top-bottom-120 container">
 						<!-- title start -->
 						<h2 class="headline-xxl text-center hidden-box js-scrollanim js-scrollanim-active">
-						<span class="anim-slide">Proudly associated with
+						<span class="anim-slide">Proudly Associated With
 </span>				
 						</h2><!-- title end -->
 

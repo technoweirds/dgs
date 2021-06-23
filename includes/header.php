@@ -99,17 +99,12 @@
 			<!-- pos-rel start -->
 			<div class="pos-rel height-100perc">
 				<!-- dropdown close btn start -->
-				<div class="dropdown-close">
-					<div class="dropdown-close__inner js-dropdown-close js-pointer-large">
-						<span class="dropdown-close__arrow"></span>
-					</div>
-				</div><!-- dropdown close btn end -->
 
 					<!-- menu-box start -->
 				<ul class="menu-box">
 					<!-- nav-btn-box start -->
 					<li class="nav-btn-box js-dropdown-open">
-						<a href="index.php" class="nav-btn large dropdown-hidden-btn js-animsition-link js-pointer-large">
+						<a href="index.php" class="nav-btn large dropdown-hidden-btn js-pointer-large">
 							<span class="nav-btn__inner" data-text="Home">Home</span>
 						</a>
 

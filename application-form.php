@@ -97,12 +97,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <main class="js-animsition-overlay" data-animsition-overlay="true">
                <!-- form section start -->
 			<section class="pos-rel bg-img-cover" style="background-image:url(assets/images/backgrounds/architecture-buildings-city-fog-373965.jpg)">
+
+
+
+
+
+
+					<!-- menu-box start -->
 				<!-- bg-overlay -->
 				<div class="bg-overlay-black"></div>
+
 				<!-- pos-rel start -->
 				<div class="pos-rel flex-min-height-100vh">
+
+
+
+
+
 					<!-- container start -->
 					<div class="container small padding-top-bottom-120 form-box">
+
+					<a href="career.php" class="headline-xxxxs text-center pos-center-center">
+				<span>&#8592;</span> Back to Careers
+
+
+						</a>
+
+
 						<h4 class="headline-xxxxs text-center">Application Form</h4>
 						<!-- flex-container start -->
 						<form action="" method="post" name="" id="" class="flex-container padding-top-90">

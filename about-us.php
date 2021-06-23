@@ -117,7 +117,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<h2 class="headline-xxl text-color-black text-center js-scrollanim">
 						<span class="hidden-box d-block">
 							<span class="anim-slide">
-								<span class="text-color-red">We are</span> a Team
+								<span class="text-color-red">We are</span> A Team
 							</span>
 						</span>
 						<span class="hidden-box d-block">

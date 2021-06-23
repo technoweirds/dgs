@@ -104,7 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<main class="js-animsition-overlay" data-animsition-overlay="true">
 			<!-- pos-rel start -->
 
-			<img src="assets\images\services\Conact Us Banners.jpg" alt="Italian Trulli">
+			<img src="assets\images\backgrounds\cub.jpg" alt="">
 
 			<!-- contact us start -->
 			<section id="down" class="pos-rel section-bg-dark-1">

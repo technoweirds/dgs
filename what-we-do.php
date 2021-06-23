@@ -104,8 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h3 class="headline-xxxs hidden-box">
 							<span class="anim-slide">What We Do</span>
 						</h3>
-						<h2 class="subhead-xxl margin-top-20 anim-slide">A team of passionate marketers who bring tailored & tested solutions to you. 
-                                                We plan marketing differently!</h2>
+						<h2 class="subhead-xxl margin-top-20 anim-slide">A team of passionate marketers who bring tailored & tested solutions to you. We plan marketing differently!</h2>
 					</div>
 				</div><!-- pos-rel end -->
 			</section><!-- page head end -->

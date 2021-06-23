@@ -202,7 +202,7 @@ pre code {
 	padding-bottom: 60px
 }
 .padding-top-60 {
-	padding-top: 60px
+	padding-top: 30px
 }
 .padding-bottom-60 {
 	padding-bottom: 60px
@@ -1112,17 +1112,17 @@ body.js-page-in.js-page-out .preloader__logoload-box {
 	-webkit-transition: .3s cubic-bezier(.76, .06, .85, .07);
 	-o-transition: .3s cubic-bezier(.76, .06, .85, .07);
 	transition: .3s cubic-bezier(.76, .06, .85, .07);
-	-webkit-transition-delay: 1.2s;
-	-o-transition-delay: 1.2s;
-	transition-delay: 1.2s
+	-webkit-transition-delay: 0.2s;
+	-o-transition-delay: 0.2s;
+	transition-delay: 0.2s
 }
 body.js-nav-active.js-page-in.js-page-out .preloader__logoload-box {
 	-webkit-transition: .25s cubic-bezier(.76, .06, .85, .07);
 	-o-transition: .25s cubic-bezier(.76, .06, .85, .07);
 	transition: .25s cubic-bezier(.76, .06, .85, .07);
-	-webkit-transition-delay: 1.25s;
-	-o-transition-delay: 1.25s;
-	transition-delay: 1.25s
+	-webkit-transition-delay: 1.0s;
+	-o-transition-delay: 1.0s;
+	transition-delay: 1.0s
 }
 .preloader__logo {
 	width: 100%;
@@ -1168,8 +1168,8 @@ body.js-nav-active.js-page-in.js-page-out .preloader__logoload-box {
 	animation: 1.5s pulse-anim cubic-bezier(.17, .85, .438, .99) infinite
 }
 .preloader__pulse:after {
-	-webkit-animation-duration: 3s;
-	animation-duration: 3s;
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
 	-webkit-animation-delay: .15s;
 	animation-delay: .15s
 }
@@ -3207,8 +3207,9 @@ body.js-page-out .pointer {
 }
 .fixed-footer {
 	width: 100%;
-	min-width: 100%;
-	max-width: 100%
+	/* min-width: 100%; */
+	margin-top: 5px;
+	/* max-width: 100% */
 }
 .footer-logo {
 	text-align: center
@@ -4375,7 +4376,7 @@ right:17px
 	margin-left: 14px
 }
 .skew-btn:hover .skew-btn__content {
-	color: var(--main-color);
+	color: #eb4092;
 	-webkit-transform: skew(-10deg);
 	-ms-transform: skew(-10deg);
 	transform: skew(-10deg)
@@ -4413,8 +4414,8 @@ right:17px
 	border-right: 2px solid #000
 }
 .skew-btn:hover .skew-btn__arrow:before {
-	border-top: 2px solid var(--main-color);
-	border-right: 2px solid var(--main-color);
+	border-top: 2px solid #eb4092;
+	border-right: 2px solid #eb4092;
 	-webkit-transform: translateY(-50%) translateX(6px) rotate(45deg);
 	-ms-transform: translateY(-50%) translateX(6px) rotate(45deg);
 	transform: translateY(-50%) translateX(6px) rotate(45deg)
@@ -4426,7 +4427,7 @@ right:17px
 	position: absolute;
 	top: 50%;
 	right: 0;
-	background-color: var(--main-color);
+	background-color: #eb4092;
 	-webkit-transform: translateY(-50%) scaleX(0);
 	-ms-transform: translateY(-50%) scaleX(0);
 	transform: translateY(-50%) scaleX(0);
@@ -8754,7 +8755,14 @@ body .text-color-red {
 	color: var(--main-color)!important
 }
 .text-hover-to-red:hover {
-	color: var(--main-color)!important;
+	color: #eb4092!important;
+	-webkit-transition: 1s cubic-bezier(.17, .85, .438, .99);
+	-o-transition: 1s cubic-bezier(.17, .85, .438, .99);
+	transition: 1s cubic-bezier(.17, .85, .438, .99)
+}
+
+.text-hover-to-pink:hover {
+	color: #eb4092!important;
 	-webkit-transition: 1s cubic-bezier(.17, .85, .438, .99);
 	-o-transition: 1s cubic-bezier(.17, .85, .438, .99);
 	transition: 1s cubic-bezier(.17, .85, .438, .99)

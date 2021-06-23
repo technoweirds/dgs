@@ -116,9 +116,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="width-100perc padding-bottom-120">
 						<!-- padding-top-90 start -->
 						<div class="padding-top-120">
-							<h6 class="headline-xxl container hidden-box">
-								<span class="anim-slide js-scrollanim">BRAND MARKETING </span>
-							</h6>
+							<div class="headline-xxl container hidden-box">
+							<img id="myImg" src="assets\Strip Banners\BM.jpg" alt="" style="width:100%; margin-top: 50px;">
+
+
+						</div>
 
 							<!-- accordion start -->
 							<div class="accordion accordion_underline js-accordion margin-top-60">
@@ -130,7 +132,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<p class="body-text-l"> Social media marketing services to us is the process of creating tailored content and promoting it on social media platforms to connect your brand with your audience, build brand awareness, drive sales and website traffic. The key to successful social media marketing is having a strategy. D'Genius Solutions aims at being one of the best social media marketing agencies in the coming years by successfully executing reliable and result-driven strategies for the brand across various sectors.
 
-									<br>Top social media platforms we use for brand marketing: Facebook, LinkedIn, Twitter, Instagram.</p>
+									Top social media platforms we use for brand marketing: Facebook, LinkedIn, Twitter, Instagram.</p>
 									</div>
 								</div><!-- accordion__tab end -->
 
@@ -169,7 +171,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</div>
 									<div class="accordion__content js-accordion-content container">
 
-									<p class="body-text-l">Copy and Content creation is an eminent service in marketing. The right copy will promote the content curated for  brand awareness, build a tailored audience and compel sales. As a copy & content marketing agency we ensure serving our clients quality copy and content <br> Copywriting features: Advertise a product/service, describe a product/service, Sell a product/service. <br>Content writing & producing features: Curate brand associated & authentic content to be promoted through copy & design, increase brand positivity, bring in associates and relationships for the brand/business.<br></p>
+									<p class="body-text-l">Copy and Content creation is an eminent service in marketing. The right copy will promote the content curated for  brand awareness, build a tailored audience and compel sales. As a copy & content marketing agency we ensure serving our clients quality copy and content.  <br> <b>Copywriting features:</b>
+									 Advertise a product/service, describe a product/service, Sell a product/service. <br><b>Content writing & producing features:</b> Curate brand associated & authentic content to be promoted through copy & design, increase brand positivity, bring in associates and relationships for the brand/business.<br></p>
 									</div>
 								</div><!-- accordion__tab end -->
 
@@ -185,6 +188,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										<p class="body-text-l">Why do you need a digital strategy?  <br>A digital strategy provides a suitable direction for the brand or business to follow digitally. The strategy aims to lead the brand with a digital vision that walks in alignment with ambitious marketing solutions provided by a team of digital experts. These strategies use content, tools, platforms, and various digital mediums to meet the business objectives of the brand.Digital marketing strategy development is the way towards making guides that manage entrepreneurs and advertisers in accomplishing their image targets. 
 										To secure a competitive situation in the online commercial centre, each industry chief should have a complete web showcasing plan to carry out tasks and hit business goals. Many advertisers, notwithstanding, get right into search engine marketing (SEM) without a substantial promoting technique plan. This is a terrible move, as the maxim goes: "Neglecting to design is intending to fizzle." 
 										Without a digital marketing plan, your search engine optimization (SEO) and other digital marketing efforts will battle to make headway, what's more, you will not see the profit from speculation (ROI) you're expecting.
+										<br>
 										<br>
 										A few key points that account for digital strategy are:
 											<br>
@@ -227,9 +231,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<div class="accordion__content js-accordion-content container">
 
 									<p class="body-text-l">SEO- Search engine optimization is the art and science combined to bring traffic to your 
-website by ranking your brand on any search platform using intent-based keywords.<br> Copywriting features: Advertise a product/service, describe a product/service, Sell a product/service. <br>&#x25CB; It's about understanding what your audience is searching for online. <br>
+website by ranking your brand on any search platform using intent-based keywords.<br><b> Copywriting features:</b> Advertise a product/service, describe a product/service, Sell a product/service. <br><br>&#x25CB; It's about understanding what your audience is searching for online. <br>
 &#x25CB; SEO acts as a definite answer to people who are trying to look out for your brand.<br>
-&#x25CB; SEO also helps the brand know their audience and target them by using web crawlers by optimizing and promoting off-page content for your brand.<br>We at D'Genius Solutions specialize in giving the best search engine optimization services by developing campaigns that deliver skyrocketing results with keyword search, on-page and off-page optimization.<br></p>
+&#x25CB; SEO also helps the brand know their audience and target them by using web crawlers by optimizing and promoting <br>                       off-page content for your brand.<br><br>We at D'Genius Solutions specialize in giving the best search engine optimization services by developing campaigns that deliver skyrocketing results with keyword search, on-page and off-page optimization.<br></p>
 									
 <img class="body-text-l" src="assets\images\services\SEO.jpg" alt="" style="width:100%; margin-top: 50px;   margin-left: auto; display:block; margin-right: auto">
 
@@ -252,12 +256,12 @@ website by ranking your brand on any search platform using intent-based keywords
 									</div>
 									<div class="accordion__content js-accordion-content container">
 
-									<p class="body-text-l">Email marketing strategy is one of the most effective marketing strategies. Effectively target your audience to build recognition that gets results. It boosts sales and revenue by driving in trusted and potential customers with relevant information. Email marketing promotes newsletters, custom emails, brand stories, transactional emails, and lead nurturing emails.<br>Here are the five most basic sorts of emailers: <br>&#x25CB; Newsletter emails :<br> Pamphlets are mainstream and are normally conveyed on a reliable timetable. They frequently contain the company's blog content, upcoming events, and any updates about your company that would bear some significance for your consumers.
-									<br>&#x25CB; Lead nurturing emails :<br>These messages include controlling your leads through a sales funnel and converting them into customers. The overall thought of lead support is that your endorsers are not yet prepared to purchase from you. The client/organization trust first should be assembled. This is reachable through the supportive substance you convey through lead nurturing emails.
-									<br>&#x25CB; Promotional emails :<br>Limited time messages are very normal in email advertising, which is the reason it's imperative to enhance them as opposed to sending the old "15% off" sort of email. One approach to accomplish this is by featuring the item or administration on offer and afterward adding some important substance about the thing you're selling.
-									<br>&#x25CB; Survey emails : <br>You'll possibly improve at what you're doing if you ask for feedback. The survey email allows you to understand what you're getting right and what you can enhance. It can likewise assist you with understanding your clients better and what they're keen on getting from your image.
-									<br>&#x25CB; Social Media Filters :<br>Brands can give their customers a highly interactive and engaging experience with the filters they create for them. 
-									<br>Types of filters you can engage your clients with :<br>
+									<p class="body-text-l">Email marketing strategy is one of the most effective marketing strategies. Effectively target your audience to build recognition that gets results. It boosts sales and revenue by driving in trusted and potential customers with relevant information. Email marketing promotes newsletters, custom emails, brand stories, transactional emails, and lead nurturing emails.<br>Here are the five most basic sorts of emailers: <br>&#x25CB; <b>Newsletter emails :</b><br> &nbsp; &nbsp;Pamphlets are mainstream and are normally conveyed on a reliable timetable. They frequently contain the company's blog content, upcoming  &nbsp; &nbsp;events, and any updates about your company that would bear some significance for your consumers.
+									<br>&#x25CB;<b> Lead nurturing emails :</b><br> &nbsp; &nbsp;These messages include controlling your leads through a sales funnel and converting them into customers. The overall thought of lead support &nbsp; &nbsp;is at your endorsers are not yet prepared to purchase from you. The client/organization trust first should be assembled. 
+									<br>&#x25CB; <b>Promotional emails :</b><br> &nbsp; &nbsp;Limited time messages are very normal in email advertising, which is the reason it's imperative to enhance them as opposed to sending the old  &nbsp; &nbsp;"15% off" sort of email. One approach to accomplish this is by featuring the item or administration on offer and afterward adding some<br>&nbsp; &nbsp;important substance about the thing you're selling.
+									<br>&#x25CB; <b>Survey emails :</b> <br> &nbsp; &nbsp;You'll possibly improve at what you're doing if you ask for feedback. The survey email allows you to understand what you're getting right and <br>&nbsp; &nbsp;what  you can enhance. It can likewise assist you with understanding your clients better and what they're keen on getting from your image.
+										<br>&#x25CB; <b>Social Media Filters :</b><br> &nbsp; &nbsp;Brands can give their customers a highly interactive and engaging experience with the filters they create for them. <br>
+									<br>Types of filters you can engage your clients with :
 									<br>&#x25CB; Makeup/Beauty filter <br>
 									<br>&#x25CB; Theme oriented filter <br>
 
@@ -314,7 +318,7 @@ website by ranking your brand on any search platform using intent-based keywords
 
 
 						<h6 class="headline-xxl container hidden-box">
-								<span class="anim-slide js-scrollanim">VIDEO COLLATERALS</span>
+						<img id="myImg" src="assets\Strip Banners\VC.jpg" alt="" style="width:100%; ">
 							</h6>
 
 
@@ -336,18 +340,18 @@ website by ranking your brand on any search platform using intent-based keywords
 										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Digital Videos</h6>
 									</div>
 									<div class="accordion__content js-accordion-content container">
-										<p class="body-text-l">Digital videos allow brands and businesses to achieve more visibility with video.  Make promotional and marketing videos that fit the needs of your business objective to enable sales and growth.
-										<br>&#x25CB; Motion Graphics Animated Video <br>
+										<p class="body-text-l">Digital videos allow brands and businesses to achieve more visibility with video.  Make promotional and marketing videos that fit the needs of your business objective to enable sales and growth.<br>
+										<br>&#x25CB; <b> Motion Graphics Animated Video</b> <br>
 
-										Complicated topics, products, and services need a simpler way to be explained. How do you achieve that? Motion graphics animation is one of the most booming and growing areas that marketers are using to successfully promote a brand's uniqueness. Complex notes are converted to easily understandable infographics that are animated to engage the audience well. <br>
+										&nbsp; &nbsp;Complicated topics, products, and services need a simpler way to be explained. How do you achieve that? Motion graphics animation is one of <br>&nbsp; &nbsp;the most booming and growing areas that marketers are using to successfully promote a brand's uniqueness. Complex notes are converted to <br>&nbsp; &nbsp;easily understandable infographics that are animated to engage the audience well. <br>
 
-										<br>&#x25CB; 2D/3D Animation <br>
+										<br>&#x25CB; <b>2D/3D Animation </b><br>
 
-										Over the years 2D/3D animation is one of the most promising and growing businesses in the video and media production industry. Showcasing your products in 2D/3D animated videos acts as refreshment for your audience. There is no better video marketing tool than a 2D/3D animated explainer video for your business.<br>
+										&nbsp; &nbsp;Over the years 2D/3D animation is one of the most promising and growing businesses in the video and media production industry. Showcasing<br>&nbsp; &nbsp;your products in 2D/3D animated videos acts as refreshment for your audience. There is no better video marketing tool than a 2D/3D animated <br>&nbsp; &nbsp;explainer video for your business.<br>
 
-										<br>&#x25CB; Whiteboard Animation <br>
+										<br>&#x25CB;<b> Whiteboard Animation</b> <br>
 
-										A whiteboard animation video restores information and text with moving visuals and on-screen material. Whiteboard animation makes strong and clear visuals that instantly convey the message by adding fun components and elements to build commitment and engagement. Be it for an item, a product, or anything tough to explain we make it simpler with whiteboard animation. We as content marketing experts handle your business’ thoughts and translate them into easily graspable explainer videos or live videos curated with thoughtful messaging. With our innovative plan group, our explainer video creation organization can concoct the correct kind of video according to our customer's methodology. 
+										&nbsp; &nbsp;A whiteboard animation video restores information and text with moving visuals and on-screen material. Whiteboard animation makes strong<br>&nbsp; &nbsp;and clear visuals that instantly convey the message by adding fun components and elements to build commitment and engagement. Be it for <br>&nbsp; &nbsp;an item, a product, or anything tough to explain we make it simpler with whiteboard animation. We as content marketing experts handle your <br>&nbsp; &nbsp;business’ thoughts and translate them into easily graspable explainer videos or live videos curated with thoughtful messaging. With our <br>&nbsp; &nbsp;innovative plan group, our explainer video creation organization can concoct the correct kind of video according to our customer's <br>&nbsp; &nbsp;methodology. 
 
 
 
@@ -366,7 +370,7 @@ website by ranking your brand on any search platform using intent-based keywords
 									</div>
 									<div class="accordion__content js-accordion-content container">
 
-									<p class="body-text-l">Product shoots are not just clicking products. It needs aggressive planning and execution to ensure your products are appealing enough to drive sales. Creating a story through pictures, creatively planning theme-related mood boards, and bringing world-class photography to the table is our ambition here. A simple product photography project sets the right lighting. <br>Create the best images for your eCommerce site and increase conversions by following these 5 product photography basics. Product photography is taking pictures using specific techniques to accurately and attractively represent your website's products. Extraordinary product photography expands transformations by alluring customers to buy your products.<br>
+									<p class="body-text-l">Product shoots are not just clicking products. It needs aggressive planning and execution to ensure your products are appealing enough to drive sales. Creating a story through pictures, creatively planning theme-related mood boards, and bringing world-class photography to the table is our ambition here. A simple product photography project sets the right lighting. Create the best images for your E-Commerce site and increase conversions by following these 5 product photography basics. Product photography is taking pictures using specific techniques to accurately and attractively represent your website's products. Extraordinary product photography expands transformations by alluring customers to buy your products.<br>
 								
 								</p>
 									</div>
@@ -382,7 +386,7 @@ website by ranking your brand on any search platform using intent-based keywords
 									</div>
 									<div class="accordion__content js-accordion-content container">
 
-									<p class="body-text-l">Gone are the days when people visited brick-and-mortar stores of every company to finalize their decision. Now the trend is all about knowing the product/brand through Ad Films and promotional videos. At that point, the simplest way out to make an impact is Ad Films/Corporate Films. Promote and promise your products to your customers through creative gimmicks and stories. Make your consumers hear about your products through potential ad campaigns. We stop at nothing when it comes to an ad filmmaking process right from conceptualization to pre-production, production, and post-production phase. And lastly, promote it!<br> The Process : <br> 1. Briefing – The one where you decide the concept and context <br>
+									<p class="body-text-l">Gone are the days when people visited brick-and-mortar stores of every company to finalize their decision. Now the trend is all about knowing the product/brand through Ad Films and promotional videos. At that point, the simplest way out to make an impact is Ad Films/Corporate Films. Promote and promise your products to your customers through creative gimmicks and stories. Make your consumers hear about your products through potential ad campaigns. We stop at nothing when it comes to an ad filmmaking process right from conceptualization to pre-production, production, and post-production phase. And lastly, promote it!<br><br> The Process : <br> 1. Briefing – The one where you decide the concept and context <br>
 									2. Pre-Production – The one where the content and process is finalized <br> 3. Video Production – The one where you shoot the entire film <br>4. Post Production – The one where you edit the film as per your visualized end product.
 								</p>
 									</div>
@@ -401,7 +405,7 @@ website by ranking your brand on any search platform using intent-based keywords
 						<!-- padding-top-90 start -->
 						<div class="padding-top-120">
 							<h2 class="headline-l container hidden-box">
-								<span class="anim-slide js-scrollanim">MEDIA MANAGEMENT</span>
+							<img id="myImg" src="assets\Strip Banners\MM.jpg" alt="" style="width:100%;">
 							</h2>
 
 							<!-- accordion start -->
@@ -467,31 +471,31 @@ Facebook Marketplace permits you to securely purchase and sell products on the w
 
 
 									Digital PR is an expert strategy used to promote the online presence of a brand. As a digital PR agency, we are here to increase the online presence of a brand through blogs, brand mentions, social media, and various other online campaigns and publications.
-									 <br>
+									
 									The objective of a Digital PR campaign is to increment online notices, backlinks, and the brand value of an organization.<br> 
 
 									<br>Key benefits of digital PR for business:<br>
 
-									<br>1. Improves SEO rankings :
+									<br><b>1. Improves SEO rankings :</b>
 									 The more applicable the connections, the better the site will rank. Computerized PR gets backlinks at scale. <br>
 
 
-									<br>2. Develops site traffic :
+									<br><b>2. Develops site traffic :</b>
 									  PR publication inclusion builds references and develops site traffic. <br>
 
-									<br>3. Constructs brand :
+									<br><b>3. Constructs brand :</b>
 									The amount of traffic and attention the brand gains through digital PR is commendable. <br>
 
-									<br>4. Produce leads :
+									<br><b>4. Produce leads :</b>
 									 Digital PR builds natural pursuit traffic and reference traffic through SEO.  <br>
 
 
-									<br>5. Increases sales :
+									<br><b>5. Increases sales :</b>
 									Digital PR helps fabricate the trust of a brand and thus increases sales.   <br>
 
 
 
-									<img id="myImg" src="assets\images\services\Digital Strategy.jpg" alt="" style="width:100%; margin-top: 50px;">
+									<img id="myImg" src="assets\images\services\Digital Strategy.jpg" alt="" style="width:100%;">
 
 
 									
@@ -514,75 +518,46 @@ Facebook Marketplace permits you to securely purchase and sell products on the w
 
 
 
-								<div class="accordion__tab js-accordion-tab">
-									<div class="accordion__btn js-accordion-btn container js-pointer-large">
-										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Programmatic Ads</h6>
-									</div>
-									<div class="accordion__content js-accordion-content container">
+														<div class="accordion__tab js-accordion-tab">
+															<div class="accordion__btn js-accordion-btn container js-pointer-large">
+																<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Programmatic Ads</h6>
+															</div>
+															<div class="accordion__content js-accordion-content container">
 
-									<p class="body-text-l">
-
-
-									Programmatic ad is the future of ad promotion and buying.<br>
-
-<br>Programmatic ad is a publicizing method that allows sponsors to put their advertisements on websites, platforms, and applications with the use of automated AI-powered systems. This automation helps the brand to sell its ads without any human interaction proving it to be cost-efficient.
+															<p class="body-text-l">
 
 
-<br><br>1. Benefits of automatic advertisements <br>
+															Programmatic ad is the future of ad promotion and buying.<br>
+
+						<br>Programmatic ad is a publicizing method that allows sponsors to put their advertisements on websites, platforms, and applications with the use of automated AI-powered systems. This automation helps the brand to sell its ads without any human interaction proving it to be cost-efficient.
 
 
-<br>2. Cultivates transparency on the spender<br>
+						<br><br>1. Benefits of automatic advertisements <br>
 
 
-<br>3. Extract real-time analysis and strategies <br>
+						<br>2. Cultivates transparency on the spender<br>
 
 
-<br>4. Sharp targeting utilities<br>
+						<br>3. Extract real-time analysis and strategies <br>
 
 
-<br>5. Budget-friendly <br>
+						<br>4. Sharp targeting utilities<br>
 
 
-
-
-
-																			</p>
-									</div>
-								</div>
+						<br>5. Budget-friendly <br>
 
 
 
 
 
-								<div class="accordion__tab js-accordion-tab">
-									<div class="accordion__btn js-accordion-btn container js-pointer-large">
-										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Native ads</h6>
-									</div>
-									<div class="accordion__content js-accordion-content container">
-
-									<p class="body-text-l">
+																									</p>
+															</div>
+														</div>
 
 
-									Native ads match the look and feel of the site they are promoted on to the audience. These ad pieces are consumed by the audience with the intent to do so. <br>
-
-Native ads appear in recommended feeds or on websites. <br>
-
-<br>
-&#9675; Why should you choose to opt for Native Ads?<br>
 
 
-<br>&#9675; Consumers look at native ads 50% times more than a display or visibly promoted ad.<br>
 
-
-<br>&#9675; Native ad fights ad fatigue. Native ads don't bore your audience, rather they generate a mere interest in them.<br>
-
-
-<br>&#9675; Native advertising does not fool the audience. Consumers willingly accept native ads rather than spam or forced ads.<br>
-
-
-																			</p>
-									</div>
-								</div>
 
 <!-- accordion__tab end -->
 
@@ -594,10 +569,10 @@ Native ads appear in recommended feeds or on websites. <br>
 
 
 <h6 class="headline-xxl container hidden-box">
-								<span class="anim-slide js-scrollanim">BRANDING</span>
+<img id="myImg" src="assets\Strip Banners\Branding.jpg" alt="" style="width:100%;margin-top: 50px; margin-bottom: 50px" >
 							</h6>
 							<div class="accordion__tab js-accordion-tab">
-									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+							<div class="accordion__btn js-accordion-btn container js-pointer-large">
 										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Logo Creation/Revamp</h6>
 									</div>
 									<div class="accordion__content js-accordion-content container">
@@ -625,17 +600,6 @@ An energized moving logo is a stride in front of the static/picture logo, where 
 								</div><!-- accordion__tab end -->
 								<div class="accordion__tab js-accordion-tab">
 									<div class="accordion__btn js-accordion-btn container js-pointer-large">
-										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Logo Creation/Revamp</h6>
-									</div>
-									<div class="accordion__content js-accordion-content container">
-
-									<p class="body-text-l">Logo creation or logo revamp assists with elevating an organization or company's brand recognition and image. Brand image is firmly identified with their logo and redesigning the logo to increase brand value would change the quintessence of your brand image among your customer base. 
-
-With an ever-increasing number of organizations and items seeking market acknowledgment online and offline, an all-around planned logo is a business advantage that attracts customers and addresses the basic beliefs of a brand initially. A decent logo is more than a conventional symbol; it's an encapsulation of what an organization relies on— basically a visual envoy for a brand.</p>
-									</div>
-								</div><!-- accordion__tab end -->
-								<div class="accordion__tab js-accordion-tab">
-									<div class="accordion__btn js-accordion-btn container js-pointer-large">
 										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Brand Guidelines</h6>
 									</div>
 									<div class="accordion__content js-accordion-content container">
@@ -659,6 +623,215 @@ Guarantee collateral design is a vital piece of what we offer here at D'Genius S
 
 
 </section>
+
+
+
+
+<section id="Tech">
+
+
+
+
+
+<h6 class="headline-xxl container hidden-box">
+<img id="myImg" src="assets\Strip Banners\Tech.jpg" alt="" style="width:100%;margin-top: 50px; margin-bottom: 80px" >
+							</h6>
+							<div class="accordion__tab js-accordion-tab">
+							<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Website Development </h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">Our young and energetic Team of Techies helps to bring the most dynamic Custom Website Designing Services to our clients. 
+
+
+									<br>We help our clients in building: <br>
+1. Brand Website<br>
+2. Corporate Website<br>
+3. Catalog Website<br>
+4. E-commerce Website<br>
+5. Comprehensive portal<br>
+6. E-commerce website development <br>
+
+We carefully understand your products, your customers, and your business processes to design a comprehensive e-commerce website customized to appeal your requirements. We work hand in hand with an e-commerce advertising strategy to drive sales to your site through the paid traffic conversion funnel. 
+
+</p>
+
+<img id="myImg" src="assets\images\services\Technology.jpg" alt="" style="width:100%; margin-top: 50px; margin-bottom:50px">
+
+									</div>
+								</div><!-- accordion__tab end -->
+
+
+
+
+
+
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Chatbots </h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">DA chatbot is an AI program that interacts by simulating and processing the human conversation with your customers to generate a more personalized engagement with them. <br> <br>
+
+Benefits of chatbots in digital marketing<br>
+
+
+1.Ensures your audience gets a more personalized experience.<br>
+2.Reaches a wider audience and generates larger engagement.<br>
+3.Generates sales by seamlessly moving your target audience through the sales funnel. <br>
+4.Customized notifications.<br>
+5.Customized problem solving and guidance. <br>
+</p>
+									</div>
+								</div><!-- accordion__tab end -->
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Backend Development</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">
+										
+									
+									
+									
+									Need back-end improvement? <br>
+
+Programming computers in a customized way to give your customers a unique user experience is called back-end development.
+
+Back-end Development alludes to server-side development. It centres around data sets, scripting, site engineering, website architecture. It contains behind-the-scenes exercises that take place when a user is active on the front-end trying to feed information by interacting with your website. This interaction can be any action right from account login to purchasing from your website.
+
+Our back-end advancement team has nearly 15 years of experience with giving productive back-end arrangements custom-made to the necessities of every individual customer. We are consistently prepared for new difficulties and never botch a chance to dominate our abilities.
+
+									
+									
+									<p>									</div>
+								</div><!-- accordion__tab end -->
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">UI & UX Audit and Design</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">With the thorough investigation of our UX/UI review, you'll have the option to pinpoint spaces of chance in your store and how to improve the client stream that changes over guests into clients. The whole focal point of the UX/UI review is on assessing your clients' necessities and improving your clients' experience and satisfaction, which straightforwardly connects with improving your store's pace of transformation. During the review, we'll distinguish components that don't follow perceived ease of use standards, just as conflicting components that are expanding your ricochet rate, and we'll recommend answers for fixing them. 
+
+In UX/UI review we investigate your company's usability and functionality, adjusting best practices inside the eCommerce business with the unique characteristics of your business to propose the best way to deal with progress. Utilizing devices like Google Analytics and Hotjar, we'll become familiar with your clients, their propensities, and their behaviour. This gives us a lot of information that we can attract to customize solutions for your business.
+</p>
+									</div>
+								</div><!-- accordion__tab end -->
+
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Mobile App Development </h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">
+
+
+
+									Mobile application development is the process of making software applications that run on mobile devices, and a commonplace portable application uses an organization associated with work with distant processing assets. Thus, the versatile improvement measure includes making installable programming packs and software bundles (code, binaries, resources, and so on), carrying out backend administrations, for example, information access with an API, and testing the application on track gadgets/target devices.<br><br>
+1. Custom iOS and Android apps development<br>
+2. Native and cross-platform solutions<br>
+3. UI/UX design<br>
+4. Consulting and prototyping<br>
+5. Automated QA and testing<br>
+6. Power management<br>
+7. Embedded Android & AOSP customizations<br>
+8. Maintenance and post-warranty support<br> Every one of these methodologies for creating portable applications has its arrangement of benefits and inconveniences. While picking the correct improvement approach for their activities, designers consider the ideal client experience, the figuring assets and local highlights needed by the application, the advancement financial plan, time targets, and assets accessible to keep up the application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+									</p>
+									</div>
+								</div><!-- accordion__tab end -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								<div class="accordion__tab js-accordion-tab">
+									<div class="accordion__btn js-accordion-btn container js-pointer-large">
+										<h6 class="accordion__btn-title headline-xs margin-top-bottom-30">Emailers</h6>
+									</div>
+									<div class="accordion__content js-accordion-content container">
+
+									<p class="body-text-l">
+
+
+
+									Emailers play a significant role in our daily limited-time occasions or ads. Emailers are an incredible advertising tool for brand mindfulness. To accomplish the pointed outcomes the mailer configuration must be adequately appealing and instructive. 
+
+Emailer is one of the effective approaches to advance your brand image. You can undoubtedly advance your administration and product data by just sending limited-time mail to the clients. We will make the mailer by utilizing the most recent HTML codes. On account of the corporate mailer plan, we generally attempt to carry out something new to connect with the clients. Our emailer planning administrations effectively dispatch such countless news organizations and help them in expanding their deals. Mailer planning or web mailer planning is an imaginative work that needs specialized skill not just as far as planning but furthermore in terms of what works in advertising. The alluring mailer plans from the organization impact the peruser as well as help them to build the standing.<br> 
+
+
+
+<br>1. Business advantages of emailers
+
+
+<br>2. HTML emails contain connections to your site 
+
+
+<br>3. The email configuration is advanced for quick download 
+
+<br>4. Emailer allows you to customize your promotions
+
+
+<br>5. Messages can be connected to your data set backend for computerized frameworks 
+
+
+<br>6. Conveyance of customized email demonstrations 
+
+
+<br>7. Builds an email data set of existing customers 
+
+
+
+
+
+
+
+
+
+
+									</p>
+									</div>
+								</div><!-- accordion__tab end -->
+
+
+
+
+</section>
+
+
+
+
 
 					
 

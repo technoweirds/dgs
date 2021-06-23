@@ -104,7 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<h2 class="headline-xxxs hidden-box">
 							<span class="anim-slide">Who We Are</span>
 						</h2>
-						<h2 class="subhead-xxl margin-top-20 anim-slide">A clan of creative individuals who believes in creating magic through stories.</h2>
+						<h2 class="subhead-l margin-top-20 anim-slide">A clan of creative individuals who believes in creating magic through stories.</h2>
 					</div>
 				</div><!-- pos-rel end -->
 			</section><!-- page head end -->
@@ -227,7 +227,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<h3 class="headline-xxxs text-color-black margin-top-30 hidden-box">
 										<span class="anim-slide tr-delay-01">With Transparency</span>
 									</h3>
-									<p class="body-text-s text-color-black margin-top-20 anim-text-reveal tr-delay-02">We're honest- and don't keep our clients in the dark. We believe in open communication and working together. There's a reason our office has glass walls. What you see is what you get, and we guarantee you'll like it. The blueprint. The game plan. The ROI. Whatever you can call it, we pursue goals with purpose.</p>
+									<p class="body-text-s text-color-black margin-top-20 anim-text-reveal tr-delay-02">We're honest and don't keep our clients in the dark. We believe in open communication and working together. There's a reason our office has glass walls. What you see is what you get, and we guarantee you'll like it. The blueprint. The game plan. The ROI. Whatever you can call it, we pursue goals with purpose.</p>
 								</div>
 							</div><!-- column end -->
 						</div><!-- flex-container end -->

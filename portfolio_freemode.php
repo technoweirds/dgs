@@ -104,7 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<!-- title start -->
 					<h2 class="headline-xxxl text-color-black text-center hidden-box js-scrollanim">
 						<span class="anim-slide">
-							A glimpse of our <span class="">Works</span>
+							A Glimpse of our <span class="">Works</span>
 						</span>
 					</h2><!-- title end -->
 
@@ -120,22 +120,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<h2><span class="flip-btn text-color-black" data-text="SOCIAL MEDIA MARKETING">SOCIAL MEDIA MARKETING</span></h2>
 						</button>
 						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".video">
-							<h2><span class="flip-btn text-color-black" data-text="VIDEO PRODUCTION">Music Video</span></h2>
+							<h2><span class="flip-btn text-color-black" data-text="VIDEO PRODUCTION">VIDEO PRODUCTION</span></h2>
 						</button>
-						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".tvc">
-							<h2><span class="flip-btn text-color-black" data-text="TVC">TVC</span></h2>
+
+
 						</button>
-						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".email">
+						<button class="list__item js-filter-button anim-fade tr-delay-06 js-pointer-small" data-filter=".email">
 							<h2><span class="flip-btn text-color-black" data-text="EMAIL MARKETING">Email Marketing</span></h2>
 						</button>
-						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".linkedin">
+						<button class="list__item js-filter-button anim-fade tr-delay-07 js-pointer-small" data-filter=".linkedin">
 							<h2><span class="flip-btn text-color-black" data-text="LINKEDIN B2B">Linkedin B2B</span></h2>
 						</button>
-						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".website">
+						<button class="list__item js-filter-button anim-fade tr-delay-09 js-pointer-small" data-filter=".website">
 							<h2><span class="flip-btn text-color-black" data-text="WEBSITE">Website</span></h2>
 						</button>
-					</div><!-- filter-buttons end -->
+						<button class="list__item js-filter-button anim-fade tr-delay-04 js-pointer-small" data-filter=".video">
+							<h2><span class="flip-btn text-color-black" data-text="VIDEO PRODUCTION">Music Video</span></h2>
+						</button>
+						<button class="list__item js-filter-button anim-fade tr-delay-05 js-pointer-small" data-filter=".tvc">
+							<h2><span class="flip-btn text-color-black" data-text="TVC">TVC</span></h2>
 
+					</div><!-- filter-buttons end -->
 					<!-- js-isotope-filter-grid-box start -->
 					<div class="js-isotope-filter-grid-box container full">
 						<!-- empty grid -->
@@ -148,8 +153,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
 							<a href="https://youtu.be/EQM7u8yXVMM" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/branding/structural-specialities-projects.png" alt="Structural Specialities & Projects">
-								</div>
+
+								<iframe width="315" height="315" src="https://www.youtube.com/embed/_WDEcDwxua0?controls=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+\								</div>
 								<div id="myModal" class="modal">
 								<span class="close">&times;</span>
 
@@ -170,7 +177,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
 							<a href="https://youtu.be/tlBYHH4wCJs" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/branding/MKA&CO.png" alt="MKA&CO">
+								<iframe width="315" height="315" src="https://www.youtube.com/embed/_WDEcDwxua0?controls=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal" class="modal">
 								<span class="close">&times;</span>
@@ -192,7 +199,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
 							<a href="https://youtu.be/_WDEcDwxua0" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/branding/DGS.png" alt="DGS">
+								<iframe width="315" height="315" src="https://www.youtube.com/embed/_WDEcDwxua0?controls=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal" class="modal">
 								<span class="close">&times;</span>
@@ -214,7 +221,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
 							<a href="https://youtu.be/0NagHNal_Rc" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/branding/YIMT.png" alt="YIMT">
+								<iframe width="315" height="315" src="https://www.youtube.com/embed/_WDEcDwxua0?controls=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal" class="modal">
 								<span class="close">&times;</span>
@@ -239,7 +246,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
 							<a href="https://youtu.be/VoaDOBN37lI" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/social-media-marketing/Aertrip1.png" alt="Aertrip">
+								<iframe width="315" height="315" src="https://www.youtube.com/embed/_WDEcDwxua0?controls=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal" class="modal">
 								<span class="close">&times;</span>
@@ -261,7 +268,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
 							<a href="https://youtu.be/ls01suAR6lo" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/social-media-marketing/Aertrip2.png" alt="Aertrip">
+								<iframe width="315" height="315" src="https://www.youtube.com/embed/_WDEcDwxua0?controls=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal" class="modal">
 								<span class="close">&times;</span>
@@ -329,7 +336,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item video">
 							<a href="https://www.youtube.com/watch?v=vUejS-Loe4w" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/kailasa-music-video/kailasa-music-video.png" alt="Kailasa Music Video">
+								<iframe width="315" height="315" src="https://www.youtube.com/embed/_WDEcDwxua0?controls=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal" class="modal">
 								<span class="close">&times;</span>
@@ -354,7 +361,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item tvc">
 							<a href="https://www.youtube.com/watch?v=8Ca5PIxaohY" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" src="assets/images/projects/welspun/Welspun.png" alt="Welspun">
+								<iframe width="315" height="315" src="https://www.youtube.com/embed/_WDEcDwxua0?controls=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal" class="modal">
 								<span class="close">&times;</span>

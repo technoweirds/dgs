@@ -56,9 +56,9 @@
 						<!-- column start -->
 						<div class="four-columns column-50-100 padding-top-60 footer-email">
 							<div class="column-l-r-margin-10">
-								<div class="subhead-xxs text-color-white">Email</div>
+								<div class="head-xxs text-color-white">Email</div>
 								<div class="margin-top-10">
-									<a href="mailto:business@dgeniussolutions.com" class="subhead-xxs text-color-white text-hover-to-white js-pointer-small">business@dgeniussolutions.com</a>
+									<a href="mailto:business@dgeniussolutions.com" class="subhead-xxs text-color-white  js-pointer-small">business@dgeniussolutions.com</a>
 
 								</div>
 							</div>
@@ -67,12 +67,12 @@
 						<div class="four-columns column-50-100 padding-top-60 footer-address">
 							<div class="column-l-r-margin-10">
 
-								<a href="#" class="subhead-xxs text-color-white text-hover-to-white js-pointer-small">
+								<a href="#" class="head-xxs text-color-white text-hover-to js-pointer-small">
 								Registered Address :</a>
 
 								<div class="margin-top-10  ">
 
-									<a href="#" class="subhead-xxs text-color-white text-hover-to-white js-pointer-small">
+									<a href="#" class="subhead-xxs text-color-white text-hover-to-pink js-pointer-small">
 										8 Bansari Apartment, 30th Road, Pali Naka,<br>
 										Bandra West, Mumbai, Maharashtra 400050, India.
 									</a>
@@ -80,11 +80,11 @@
 
 								<br>
 
-								<a href="#" class="subhead-xxs text-color-white text-hover-to-white js-pointer-small text-center">
+								<a href="#" class="head-xxs text-color-white  js-pointer-small text-center">
 								Sales Address :</a>
 
 								<div class="margin-top-10 ">
-									<a href="#" class="subhead-xxs text-color-white text-hover-to-white js-pointer-small">
+									<a href="#" class="subhead-xxs text-color-white text-hover-to-pink js-pointer-small">
 										305 Damas Gold, Near Ansar Mall,<br>
 										AI Ittihad Road, AI Nahda, 32629 Sharjah, UAE.
 									</a>
@@ -94,9 +94,9 @@
 						<!-- column start -->
 						<div class="four-columns column-50-100 padding-top-60 footer-phone">
 							<div class="column-l-r-margin-10">
-								<div class="subhead-xxs text-color-white">Phone</div>
+								<div class="head-xxs text-color-white">Call us</div>
 								<div class="margin-top-10">
-									<a href="tel:+91 9167350238" class="subhead-xxs text-color-white text-hover-to-white js-pointer-small">+91 9167350238</a>
+									<a href="tel:+91 9167350238" class="subhead-xxs text-color-white js-pointer-small">+91 9167350238</a>
 								</div>
 							</div>
 						</div><!-- column end -->
