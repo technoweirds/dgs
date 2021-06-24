@@ -427,16 +427,16 @@
 					<!-- filter-buttons start -->
 					<div class="list list_row list_center list_margin-30px padding-top-90 js-filter-button-box js-scrollanim">
 						<button class="list__item js-filter-button anim-fade js-pointer-small js-filter-button-active" data-filter="*">
-							<h2><span class="flip-btn text-color-black" data-text="EVERYTHING">EVERYTHING</span></h2>
+							<h2 class="portfolio-selected-indicator" id="home-everything" onclick='selectPortfolioCategory("home-everything")'><span class="flip-btn text-color-black" data-text="EVERYTHING">EVERYTHING</span></h2>
 						</button>
 						<button class="list__item js-filter-button anim-fade tr-delay-01 js-pointer-small" data-filter=".branding">
-							<h2><span class="flip-btn text-color-black" data-text="BRANDING">BRANDING</span></h2>
+							<h2 id="home-branding" onclick='selectPortfolioCategory("home-branding")'><span class="flip-btn text-color-black" data-text="BRANDING">BRANDING</span></h2>
 						</button>
 						<button class="list__item js-filter-button anim-fade tr-delay-02 js-pointer-small" data-filter=".social">
-							<h2><span class="flip-btn text-color-black" data-text="SOCIAL MEDIA MARKETING">SOCIAL MEDIA MARKETING</span></h2>
+							<h2 id="home-social-media-marketing" onclick='selectPortfolioCategory("home-social-media-marketing")'><span class="flip-btn text-color-black" data-text="SOCIAL MEDIA MARKETING">SOCIAL MEDIA MARKETING</span></h2>
 						</button>
 						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".video">
-							<h2><span class="flip-btn text-color-black" data-text="VIDEO PRODUCTION">VIDEO PRODUCTION</span></h2>
+							<h2 id="home-video-production" onclick='selectPortfolioCategory("home-video-production")'><span class="flip-btn text-color-black" data-text="VIDEO PRODUCTION">VIDEO PRODUCTION</span></h2>
 						</button>
 					</div><!-- filter-buttons end -->
 
