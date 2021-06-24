@@ -111,28 +111,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<!-- filter-buttons start -->
 					<div class="list list_row list_center list_margin-30px padding-top-90 js-filter-button-box js-scrollanim">
 						<button class="list__item js-filter-button anim-fade js-pointer-small js-filter-button-active" data-filter="*">
-							<h2><span class="flip-btn text-color-black" data-text="EVERYTHING">EVERYTHING</span></h2>
+							<h2 class="portfolio-selected-indicator" id="portfolio-everything" onclick='selectPortfolioCategory("portfolio-everything")'><span class="flip-btn text-color-black" data-text="EVERYTHING">EVERYTHING</span></h2>
 						</button>
 						<button class="list__item js-filter-button anim-fade tr-delay-01 js-pointer-small" data-filter=".branding">
-							<h2><span class="flip-btn text-color-black" data-text="BRANDING">BRANDING</span></h2>
+							<h2 id="portfolio-branding" onclick='selectPortfolioCategory("portfolio-branding")'><span class="flip-btn text-color-black" data-text="BRANDING">BRANDING</span></h2>
 						</button>
 						<button class="list__item js-filter-button anim-fade tr-delay-02 js-pointer-small" data-filter=".social">
-							<h2><span class="flip-btn text-color-black" data-text="SOCIAL MEDIA MARKETING">SOCIAL MEDIA MARKETING</span></h2>
+							<h2 id="portfolio-social-media-marketing" onclick='selectPortfolioCategory("portfolio-social-media-marketing")'><span class="flip-btn text-color-black" data-text="SOCIAL MEDIA MARKETING">SOCIAL MEDIA MARKETING</span></h2>
 						</button>
 						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".video">
-							<h2><span class="flip-btn text-color-black" data-text="VIDEO PRODUCTION">Music Video</span></h2>
+							<h2 id="portfolio-music-video" onclick='selectPortfolioCategory("portfolio-music-video")'><span class="flip-btn text-color-black" data-text="MUSIC VIDEO">Music Video</span></h2>
 						</button>
 						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".tvc">
-							<h2><span class="flip-btn text-color-black" data-text="TVC">TVC</span></h2>
+							<h2 id="portfolio-tvc" onclick='selectPortfolioCategory("portfolio-tvc")'><span class="flip-btn text-color-black" data-text="TVC">TVC</span></h2>
 						</button>
 						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".email">
-							<h2><span class="flip-btn text-color-black" data-text="EMAIL MARKETING">Email Marketing</span></h2>
+							<h2 id="portfolio-email-marketing" onclick='selectPortfolioCategory("portfolio-email-marketing")'><span class="flip-btn text-color-black" data-text="EMAIL MARKETING">Email Marketing</span></h2>
 						</button>
 						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".linkedin">
-							<h2><span class="flip-btn text-color-black" data-text="LINKEDIN B2B">Linkedin B2B</span></h2>
+							<h2 id="portfolio-linkedin-marketing" onclick='selectPortfolioCategory("portfolio-linkedin-marketing")'><span class="flip-btn text-color-black" data-text="LINKEDIN B2B">Linkedin B2B</span></h2>
 						</button>
 						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".website">
-							<h2><span class="flip-btn text-color-black" data-text="WEBSITE">Website</span></h2>
+							<h2 id="portfolio-website" onclick='selectPortfolioCategory("portfolio-website")'><span class="flip-btn text-color-black" data-text="WEBSITE">Website</span></h2>
 						</button>
 					</div><!-- filter-buttons end -->
 
