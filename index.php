@@ -427,16 +427,16 @@
 					<!-- filter-buttons start -->
 					<div class="list list_row list_center list_margin-30px padding-top-90 js-filter-button-box js-scrollanim">
 						<button class="list__item js-filter-button anim-fade js-pointer-small js-filter-button-active" data-filter="*">
-							<h2><span class="flip-btn text-color-black" data-text="EVERYTHING">EVERYTHING</span></h2>
+							<h2 class="portfolio-selected-indicator" id="home-everything" onclick='selectPortfolioCategory("home-everything")'><span class="flip-btn text-color-black" data-text="EVERYTHING">EVERYTHING</span></h2>
 						</button>
 						<button class="list__item js-filter-button anim-fade tr-delay-01 js-pointer-small" data-filter=".branding">
-							<h2><span class="flip-btn text-color-black" data-text="BRANDING">BRANDING</span></h2>
+							<h2 id="home-branding" onclick='selectPortfolioCategory("home-branding")'><span class="flip-btn text-color-black" data-text="BRANDING">BRANDING</span></h2>
 						</button>
 						<button class="list__item js-filter-button anim-fade tr-delay-02 js-pointer-small" data-filter=".social">
-							<h2><span class="flip-btn text-color-black" data-text="SOCIAL MEDIA MARKETING">SOCIAL MEDIA MARKETING</span></h2>
+							<h2 id="home-social-media-marketing" onclick='selectPortfolioCategory("home-social-media-marketing")'><span class="flip-btn text-color-black" data-text="SOCIAL MEDIA MARKETING">SOCIAL MEDIA MARKETING</span></h2>
 						</button>
 						<button class="list__item js-filter-button anim-fade tr-delay-03 js-pointer-small" data-filter=".video">
-							<h2><span class="flip-btn text-color-black" data-text="VIDEO PRODUCTION">VIDEO PRODUCTION</span></h2>
+							<h2 id="home-video-production" onclick='selectPortfolioCategory("home-video-production")'><span class="flip-btn text-color-black" data-text="VIDEO PRODUCTION">VIDEO PRODUCTION</span></h2>
 						</button>
 					</div><!-- filter-buttons end -->
 
@@ -449,27 +449,54 @@
 
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
-							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+							<div class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<img id="myImg" onclick='showImageModal("myModal", "img01", "assets/images/projects/branding/SSPL.jpg")' src="assets/images/projects/branding/SSPL.jpg" alt="Snow">
+								<iframe width="315" height="315" src="https://www.youtube.com/embed/EQM7u8yXVMM?controls=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
-
-
 								<div id="myModal" class="modal">
-								<span class="close" onclick='closeImageModal("myModal")'>&times;</span>
+								<span class="close">&times;</span>
+
 									<img class="modal-content" id="img01">
 								</div>
-
 								<div class="margin-top-10 js-scrollanim">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">Branding</span>
 									</span>
 									<h3 class="hidden-box">
-										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">SSPL</span>
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Structural Specialities & Projects</span>
 									</h3>
 								</div>
-							</a>
-						</div><!-- grid-item end -->
+								</div>
+						</div>
+
+
+						<!-- Branding -->
+						<!-- grid-item start -->
+
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
+							<div class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+
+								<img id="myImg" onclick='showImageModal("myModal-01", "img-01", "assets/images/projects/branding/SSPL.jpg")' src="assets/images/projects/branding/SSPL.jpg" alt="Structural Specialities & Projects">
+
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
+
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">Branding</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Structural Specialities & Projects</span>
+									</h3>
+								</div>
+								</div>
+						</div>
+
+
 
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
@@ -487,23 +514,99 @@
 								</div>
 							</a>
 						</div><!-- grid-item end -->
-                                                <!-- grid-item start -->
-						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item video">
-							<a href="#" class="grid-margin-box hover-box js-animsition-link js-pointer-large">
+
+
+
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
+							<a href="https://youtu.be/B2vJ3lnT69s" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-									<img class="anim-img-scale__inner" src="assets/images/projects/video-production/pexels-3165053.jpg" alt="project">
+								<iframe width="315" height="315" src="https://www.youtube.com/embed/B2vJ3lnT69s?controls=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
+
+									<img class="modal-content" id="img01">
 								</div>
 								<div class="margin-top-10 js-scrollanim">
 									<span class="hidden-box d-block">
-										<span class="subhead-xxs anim-slide">Social Media Marketing</span>
+										<span class="subhead-xxs anim-slide">SOCIAL MEDIA MARKETING</span>
 									</span>
 									<h3 class="hidden-box">
-										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">HP-02</span>
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Aertrip</span>
 									</h3>
 								</div>
 							</a>
-						</div><!-- grid-item end --> 
+						</div>
 
+
+
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
+							<a href="https://youtu.be/VoaDOBN37lI" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<iframe width="315" height="315" src="https://www.youtube.com/embed/VoaDOBN37lI?controls=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
+
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">SOCIAL MEDIA MARKETING</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Aertrip</span>
+									</h3>
+								</div>
+							</a>
+						</div>
+
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item tvc">
+							<a href="https://www.youtube.com/watch?v=8Ca5PIxaohY" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<iframe width="315" height="315" src="https://www.youtube.com/embed/8Ca5PIxaohY?controls=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								</div>
+								<div id="myModal" class="modal">
+								<span class="close">&times;</span>
+
+									<img class="modal-content" id="img01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">TVC</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Welspun</span>
+									</h3>
+								</div>
+							</a>
+						</div>
+
+
+
+						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<img id="myImg" onclick='showImageModal("myModal-01", "img-01", "assets/images/projects/social-media-marketing/Camoupage1.png")' src="assets/images/projects/social-media-marketing/Camoupage1.png" alt="Compuage">
+								</div>
+								<div id="myModal-01" class="modal">
+								<span class="close" onclick='closeImageModal("myModal-01")'>&times;</span>
+									<img class="modal-content" id="img-01">
+								</div>
+								<div class="margin-top-10 js-scrollanim">
+									<span class="hidden-box d-block">
+										<span class="subhead-xxs anim-slide">SOCIAL MEDIA MARKETING</span>
+									</span>
+									<h3 class="hidden-box">
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Compuage</span>
+									</h3>
+								</div>
+							</a>
+						</div>
+
+						<!-- grid-item end -->
+
+                                                <!-- grid-item start -->
 						</div><!-- js-isotope-filter-grid-box end -->
 				</div><!-- pos-rel end -->
 			</section><!-- portfolio end -->

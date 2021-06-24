@@ -834,3 +834,13 @@ function closeImageModal(modalId) {
   modal.style.display = "none";
 }
 // Modal end
+// Portfolio selected class
+function selectPortfolioCategory(selectedCategoryId) {
+  let previousSelectedCategory = document.getElementsByClassName(
+    "portfolio-selected-indicator"
+  )[0];
+  let selectedCategory = document.getElementById(selectedCategoryId);
+  previousSelectedCategory.classList.remove("portfolio-selected-indicator");
+  selectedCategory.classList.add("portfolio-selected-indicator");
+}
+// Portfolio selected class end

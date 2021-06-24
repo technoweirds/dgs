@@ -206,7 +206,7 @@ Don’t worry, we have got you. Just drop in your resume and we’ll figure wher
 
 <div class="twelve-columns text-center padding-top-50">
 								<button id="send" class="border-btn js-pointer-large">
-									<span class="border-btn__inner">submit</span>
+									<span class="border-btn__inner">Apply Now</span>
 									<span class="btn-wait">Wait</span>
 									<span class="border-btn__lines-1"></span>
 									<span class="border-btn__lines-2"></span>

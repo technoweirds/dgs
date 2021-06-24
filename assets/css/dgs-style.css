@@ -9084,3 +9084,29 @@ section.pos-rel.section-bg-light-2 .counter-pagination .swiper-pagination-bullet
 	-webkit-backface-visibility: hidden;
   }
   
+
+/* Portfolio underline */
+.portfolio-selected-indicator {
+	text-decoration: none; 
+       position: relative; 
+}
+.portfolio-selected-indicator:after {
+	position: absolute;
+	content: '';
+	height: 2px;
+	bottom: -4px;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	width: 100%;
+	background: #000;
+	-o-transition:.5s;
+	-ms-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+	transition:.5s;
+}
+  .portfolio-selected-indicator:hover:after {
+	  width: 90%;
+	  /* background: orange; */
+}
