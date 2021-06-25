@@ -656,7 +656,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			
 		</main><!-- main end -->
 
-		<?php include("includes/footer.php"); ?>
+	<?php include("includes/footer.php"); ?>
 		
 
 		<!-- scripts -->

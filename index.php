@@ -514,7 +514,7 @@
 										<span class="subhead-xxs anim-slide">Social Media Marketing</span>
 									</span>
 									<h3 class="hidden-box">
-										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">HP-02</span>
+										<span class="headline-xxxs text-color-black anim-slide tr-delay-02">Compuage</span>
 									</h3>
 								</div>
 								</div>
