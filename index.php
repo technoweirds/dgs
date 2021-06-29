@@ -217,9 +217,9 @@
 					<!-- swiper-slide start -->
 					<div class="swiper-slide">
 						<!-- slide-bg -->
-						<a  href="services.php#branding" class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/videos/b1.gif)"></a>
+						<a  href="services.php#branding" class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/videos/b1.png)"></a>
 						<!-- bg-overlay -->
-						<div class="bg-overlay-black"></div>
+						<div class=""></div>
 
 						<!-- content start -->
 						<div class="flex-min-height-100vh pos-rel" data-swiper-parallax-x="30%">
@@ -238,9 +238,9 @@
 					<!-- swiper-slide start -->
 					<div class="swiper-slide">
 						<!-- slide-bg -->
-						<a  href="services.php#BM" class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/videos/b2.gif)"></a>
+						<a  href="services.php#BM" class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/videos/b2.png)"></a>
 						<!-- bg-overlay -->
-						<div class="bg-overlay-black"></div>
+						<div class=""></div>
 
 						<!-- content start -->
 						<div class="flex-min-height-100vh pos-rel" data-swiper-parallax-x="30%">
@@ -258,9 +258,9 @@
 					<!-- swiper-slide start -->
 					<div class="swiper-slide">
 						<!-- slide-bg -->
-						<a  href="services.php#branding" class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/videos/b3.gif)"></a>
+						<a  href="services.php#branding" class="js-parallax-slide-bg bg-img-cover" style="background-image:url(assets/videos/b3.png)"></a>
 						<!-- bg-overlay -->
-						<div class="bg-overlay-black"></div>
+						<div class=""></div>
 
 						<!-- content start -->
 						<div class="flex-min-height-100vh pos-rel" data-swiper-parallax-x="30%">
