@@ -451,7 +451,7 @@
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
 							<div class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<iframe width="315" height="315" src="https://www.youtube.com/embed/EQM7u8yXVMM?controls=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								<iframe width="315" height="315" src="https://www.youtube.com/embed/EQM7u8yXVMM?autoplay=0&controls=0&rel=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal-01" class="modal">
 								<span class="close">&times;</span>
@@ -524,7 +524,7 @@
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
 							<a href="https://youtu.be/B2vJ3lnT69s" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<iframe width="315" height="315" src="https://www.youtube.com/embed/B2vJ3lnT69s?controls=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								<iframe width="315" height="415" src="https://www.youtube.com/embed/B2vJ3lnT69s?controls=0&autoplay=0&rel=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal-03" class="modal">
 								<span class="close">&times;</span>
