@@ -153,7 +153,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
 							<div class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<iframe width="315" height="315" src="https://www.youtube.com/embed/EQM7u8yXVMM?controls=0&autoplay=0&rel=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal-01" class="modal">
@@ -161,7 +161,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-01">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">Branding</span>
 									</span>
@@ -178,7 +178,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
 							<div class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 
 								<img id="myImg" onclick='showImageModal("myModal-02", "img-02", "assets/images/projects/branding/SSPL.jpg")' src="assets/images/projects/branding/SSPL.jpg" alt="Structural Specialities & Projects">
 
@@ -188,7 +188,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-02">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">Branding</span>
 									</span>
@@ -206,7 +206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
 							<a href="https://youtu.be/tlBYHH4wCJs" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<iframe width="315" height="315" src="https://www.youtube.com/embed/tlBYHH4wCJs?controls=0&autoplay=0&rel=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal-03" class="modal">
@@ -214,7 +214,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-03">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">Branding</span>
 									</span>
@@ -228,7 +228,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
 							<a href="https://youtu.be/Lgy0l7qsMtg" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<iframe width="315" height="315" src="https://www.youtube.com/embed/Lgy0l7qsMtg?controls=0&autoplay=0&rel=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal-04" class="modal">
@@ -236,7 +236,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-04">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">Branding</span>
 									</span>
@@ -250,7 +250,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item branding">
 							<a href="https://youtu.be/0NagHNal_Rc" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<iframe width="315" height="315" src="https://www.youtube.com/embed/0NagHNal_Rc?controls=0&autoplay=0&rel=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal-05" class="modal">
@@ -258,7 +258,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-05">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">Branding</span>
 									</span>
@@ -275,7 +275,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
 							<a href="https://youtu.be/VoaDOBN37lI" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<iframe width="315" height="315" src="https://www.youtube.com/embed/VoaDOBN37lI?controls=0&autoplay=0&rel=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal-06" class="modal">
@@ -283,7 +283,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="im-06">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">SOCIAL MEDIA MARKETING</span>
 									</span>
@@ -297,7 +297,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
 							<a href="https://youtu.be/LwM_8Z-jQHs" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<iframe width="315" height="315" src="https://www.youtube.com/embed/LwM_8Z-jQHs?controls=0&autoplay=0&rel=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal-07" class="modal">
@@ -305,7 +305,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-07">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">SOCIAL MEDIA MARKETING</span>
 									</span>
@@ -321,7 +321,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
 							<a href="https://youtu.be/B2vJ3lnT69s" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<iframe width="315" height="315" src="https://www.youtube.com/embed/B2vJ3lnT69s?controls=0&autoplay=0&rel=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal-08" class="modal">
@@ -329,7 +329,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-08">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">SOCIAL MEDIA MARKETING</span>
 									</span>
@@ -344,14 +344,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<img id="myImg" onclick='showImageModal("myModal-09", "img-09", "assets/images/projects/social-media-marketing/Camoupage1.png")' src="assets/images/projects/social-media-marketing/Camoupage1.png" alt="Compuage">
 								</div>
 								<div id="myModal-09" class="modal">
 								<span class="close" onclick='closeImageModal("myModal-09")'>&times;</span>
 									<img class="modal-content" id="img-09">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">SOCIAL MEDIA MARKETING</span>
 									</span>
@@ -369,7 +369,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<img id="myImg" onclick='showImageModal("myModal-10", "img-10", "assets/images/projects/social-media-marketing/Fundenable3.jpg")' src="assets/images/projects/social-media-marketing/Fundenable3.jpg" alt="Fundenable">
 								</div>
 								<div id="myModal-10" class="modal">
@@ -377,7 +377,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-10">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">SOCIAL MEDIA MARKETING</span>
 									</span>
@@ -395,14 +395,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item video">
 							<a href="https://www.youtube.com/watch?v=vUejS-Loe4w" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<iframe width="560" height="315" src="https://www.youtube.com/embed/vUejS-Loe4w?controls=0&autoplay=0&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>								</div>
 								<div id="myModal-11" class="modal">
 								<span class="close">&times;</span>
 
 									<img class="modal-content" id="img-11">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">Music Video</span>
 									</span>
@@ -419,7 +419,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item tvc">
 							<a href="https://www.youtube.com/watch?v=8Ca5PIxaohY" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<iframe width="315" height="315" src="https://www.youtube.com/embed/8Ca5PIxaohY?controls=0&autoplay=0&rel=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal-12" class="modal">
@@ -427,7 +427,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-12">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">TVC</span>
 									</span>
@@ -444,7 +444,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item email">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<img id="myImg" onclick='showImageModal("myModal-13", "img-13", "assets/images/projects/email-marketing/Compuage1.jpg")' src="assets/images/projects/email-marketing/Compuage1.jpg" alt="Compuage">
 								</div>
 								<div id="myModal-13" class="modal">
@@ -452,7 +452,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-13">
 								</div>
-								<div class="margin-top-10 js-scrollanim"1
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">Email Marketing</span>
 									</span>
@@ -466,7 +466,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item email">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<img id="myImg" onclick='showImageModal("myModal-14", "img-14", "assets/images/projects/email-marketing/Compuage2.jpg")' src="assets/images/projects/email-marketing/Compuage2.jpg" alt="Compuage">
 								</div>
 								<div id="myModal-14" class="modal">
@@ -474,7 +474,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-14">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">Email Marketing</span>
 									</span>
@@ -488,7 +488,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item email">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<img id="myImg" onclick='showImageModal("myModal-15", "img-15", "assets/images/projects/email-marketing/Compuage3.png")' src="assets/images/projects/email-marketing/Compuage3.png" alt="Compuage">
 								</div>
 								<div id="myModal-15" class="modal">
@@ -496,7 +496,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-15">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">Email Marketing</span>
 									</span>
@@ -510,7 +510,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item email">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<img id="myImg" onclick='showImageModal("myModal-16", "img-16", "assets/images/projects/email-marketing/Compuage4.jpg")' src="assets/images/projects/email-marketing/Compuage4.jpg" alt="Compuage">
 								</div>
 								<div id="myModal-16" class="modal">
@@ -518,7 +518,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-16">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">Email Marketing</span>
 									</span>
@@ -535,7 +535,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item linkedin">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<img id="myImg" onclick='showImageModal("myModal-17", "img-17", "assets/images/projects/linkedin-b2b/Aertrip1.jpg")' src="assets/images/projects/linkedin-b2b/Aertrip1.jpg" alt="Aertrip">
 								</div>
 								<div id="myModal-17" class="modal">
@@ -543,7 +543,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-17">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">LinkedIn B2B</span>
 									</span>
@@ -557,7 +557,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item linkedin">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<img id="myImg" onclick='showImageModal("myModal-18", "img-18", "assets/images/projects/linkedin-b2b/Aertrip2.jpg")' src="assets/images/projects/linkedin-b2b/Aertrip2.jpg" alt="Aertrip ">
 								</div>
 								<div id="myModal-18" class="modal">
@@ -565,7 +565,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-18">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">LinkedIn B2B</span>
 									</span>
@@ -582,7 +582,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<!-- grid-item start -->
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item website">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<img id="myImg" onclick='showImageModal("myModal-19", "img-19", "assets/images/projects/website/website.jpg")' src="assets/images/projects/website/website.jpg" alt="Structural Specialities & Projects">
 								</div>
 								<div id="myModal-19" class="modal">
@@ -590,7 +590,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-19">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">Website</span>
 									</span>
@@ -605,7 +605,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item email">
 							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
-								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
+								<div class="anim-img-scale anim-img-scale_hover js-img-scale portfolio-content-center-align-mobile">
 								<img id="myImg" onclick='showImageModal("myModal-20", "img-20", "assets/images/projects/email-marketing/c6.jpg")' src="assets/images/projects/email-marketing/c6.jpg" alt="Compuage">
 								</div>
 								<div id="myModal-20" class="modal">
@@ -613,7 +613,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-20">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">Email Marketing</span>
 									</span>
@@ -624,7 +624,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</a>
 						</div>
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item email">
-							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large">
+							<a href="javascript:void(0)" class="grid-margin-box hover-box  js-pointer-large portfolio-content-center-align-mobile">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
 								<img id="myImg" onclick='showImageModal("myModal-21", "img-21", "assets/images/projects/email-marketing/c5.jpg")' src="assets/images/projects/email-marketing/c5.jpg" alt="Compuage">
 								</div>
@@ -633,7 +633,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 									<img class="modal-content" id="img-21">
 								</div>
-								<div class="margin-top-10 js-scrollanim">
+								<div class="margin-top-10 js-scrollanim portfolio-content-center-align-mobile">
 									<span class="hidden-box d-block">
 										<span class="subhead-xxs anim-slide">Email Marketing</span>
 									</span>

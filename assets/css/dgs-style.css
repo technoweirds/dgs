@@ -9110,3 +9110,11 @@ section.pos-rel.section-bg-light-2 .counter-pagination .swiper-pagination-bullet
 	  width: 90%;
 	  /* background: orange; */
 }
+
+/* Portfolio content center align */
+@media only screen and (max-width:767px) {
+	.portfolio-content-center-align-mobile {
+		text-align: center;
+	}
+}
+/* Portfolio contend center align end */
