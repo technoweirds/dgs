@@ -524,7 +524,7 @@
 						<div class="padding-top-60 grid-item-33-50-100 js-isotope-filter-grid-item social">
 							<a href="https://youtu.be/B2vJ3lnT69s" target="_blank" class="grid-margin-box hover-box  js-pointer-large">
 								<div class="anim-img-scale anim-img-scale_hover js-img-scale">
-								<iframe width="315" height="415" src="https://www.youtube.com/embed/B2vJ3lnT69s?controls=0&autoplay=0&rel=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								<iframe width="315" height="315" src="https://www.youtube.com/embed/B2vJ3lnT69s?controls=0&autoplay=0&rel=0" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 								</div>
 								<div id="myModal-03" class="modal">
 								<span class="close">&times;</span>
@@ -839,11 +839,12 @@
 	
 
 			<!-- video content start -->
-			<div class="pos-rel bg-img-cover height-100vh" style="background-image:url(assets/images/projects/neon-lights/woman-wearing-beige-and-gray-hoodie-portrait-2272855.jpg)">
+			<!-- <div class="pos-rel bg-img-cover height-100vh" style="background-image:url(assets/images/projects/neon-lights/woman-wearing-beige-and-gray-hoodie-portrait-2272855.jpg)">
 				<div class="bg-overlay-black"></div>
 				<div class="pos-rel height-100perc">
-				<iframe width=100% height="1000" src="https://www.youtube.com/embed/_WDEcDwxua0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>				</div>
-			</div><!-- video content end -->
+				<iframe width=100% height="1000" src="https://www.youtube.com/embed/_WDEcDwxua0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>				</div> -->
+			<!-- </div> -->
+			<!-- video content end -->
 		</main><!-- main end -->
 		
 		<?php include("includes/footer.php"); ?>
