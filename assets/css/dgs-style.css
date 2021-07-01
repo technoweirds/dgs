@@ -9122,53 +9122,42 @@ section.pos-rel.section-bg-light-2 .counter-pagination .swiper-pagination-bullet
 /* Index banner image */
 .index-banner1-bg-image {
 	background-image: url("../videos/b1.png");
+	background-size: 100vw auto;
 }
 .index-banner2-bg-image {
 	background-image: url("../videos/b2.png");
+	background-size: 100vw auto;
 }
 .index-banner3-bg-image {
 	background-image: url("../videos/b3.png");
+	background-size: 100vw auto;
 }
 /* Index banner image end */
 /* Index banner mobile fix */
 @media only screen and (max-width:767px) {
 	.index-banner1-bg-image {
 		background-image: url("../images/banner/v1.jpg");
-		background-size: 375px auto;
+		background-size: 100vw auto;
 	}
 	.index-banner2-bg-image {
 		background-image: url("../images/banner/v2.jpg");
-		background-size: 375px auto;
+		background-size: 100vw auto;
 	}
 	.index-banner3-bg-image {
 		background-image: url("../images/banner/v3.jpg");
-		background-size: 375px auto;
+		background-size: 100vw auto;
 	}
-}
-@media only screen and (max-width:1366px) {
-	.index-banner1-bg-image {
-		background-image: url("../videos/b1.png");
-		background-size: 1336px auto;
-	}
-	.index-banner2-bg-image {
-		background-image: url("../videos/b2.png");
-		background-size: 1336px auto;
-	}
-	.index-banner3-bg-image {
-		background-image: url("../videos/b3.png");
-		background-size: 1336px auto;
-	}
-}
+} 
 /* Index banner mobile fix end */
 
 /* Footer background image */
 .footer-bg-image {
 	background-image: url("../images/backgrounds/BottomBanner-01.jpg");
 }
-
 @media only screen and (max-width:767px) {
 	.footer-bg-image {
-		/* background-image: url("../images/backgrounds/BottomBanner-01.jpg"); */
 		background-size: 600px auto;
+		text-align: center;
 	}
+}
 /* Footer background image end */

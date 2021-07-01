@@ -258,7 +258,7 @@
 					<!-- swiper-slide start -->
 					<div class="swiper-slide">
 						<!-- slide-bg -->
-						<a  href="services.php#branding" class="js-parallax-slide-bg bg-img-cover  index-banner3-bg-image"></a>
+						<a  href="services.php#branding" class="js-parallax-slide-bg bg-img-cover index-banner3-bg-image"></a>
 						<!-- bg-overlay -->
 						<div class=""></div>
 
