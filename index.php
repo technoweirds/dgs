@@ -719,8 +719,8 @@
                             <!-- clients-lines__column start -->
 							<div class="clients-lines__column">
 								<div class="clients-lines__inner hover-box pos-rel">
-									<img class="client-logo client-hover-out pos-abs pos-center-center" src="assets/images/clients/raymond.png" alt="clients logo">
-									<img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/clients/raymond-hover.png" alt="clients logo">
+									<img class="client-logo client-hover-out pos-abs pos-center-center" src="assets/images/clients/Onida.png" alt="clients logo">
+									<img class="client-logo client-hover-in pos-abs pos-center-center" src="assets/images/clients/Onida-hover.png" alt="clients logo">
 								</div>
 							</div><!-- clients-lines__column end -->
                             <!-- clients-lines__column start -->
