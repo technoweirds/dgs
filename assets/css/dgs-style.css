@@ -9118,3 +9118,45 @@ section.pos-rel.section-bg-light-2 .counter-pagination .swiper-pagination-bullet
 	}
 }
 /* Portfolio contend center align end */
+
+/* Index banner image */
+.index-banner1-bg-image {
+	background-image: url("../videos/b1.png");
+}
+.index-banner2-bg-image {
+	background-image: url("../videos/b2.png");
+}
+.index-banner3-bg-image {
+	background-image: url("../videos/b3.png");
+}
+/* Index banner image end */
+/* Index banner mobile fix */
+@media only screen and (max-width:767px) {
+	.index-banner1-bg-image {
+		background-image: url("../images/banner/v1.jpg");
+		background-size: 375px auto;
+	}
+	.index-banner2-bg-image {
+		background-image: url("../images/banner/v2.jpg");
+		background-size: 375px auto;
+	}
+	.index-banner3-bg-image {
+		background-image: url("../images/banner/v3.jpg");
+		background-size: 375px auto;
+	}
+}
+@media only screen and (max-width:1366px) {
+	.index-banner1-bg-image {
+		background-image: url("../videos/b1.png");
+		background-size: 1336px auto;
+	}
+	.index-banner2-bg-image {
+		background-image: url("../videos/b2.png");
+		background-size: 1336px auto;
+	}
+	.index-banner3-bg-image {
+		background-image: url("../videos/b3.png");
+		background-size: 1336px auto;
+	}
+}
+/* Index banner mobile fix end */
