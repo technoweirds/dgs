@@ -9160,3 +9160,15 @@ section.pos-rel.section-bg-light-2 .counter-pagination .swiper-pagination-bullet
 	}
 }
 /* Index banner mobile fix end */
+
+/* Footer background image */
+.footer-bg-image {
+	background-image: url("../images/backgrounds/BottomBanner-01.jpg");
+}
+
+@media only screen and (max-width:767px) {
+	.footer-bg-image {
+		/* background-image: url("../images/backgrounds/BottomBanner-01.jpg"); */
+		background-size: 600px auto;
+	}
+/* Footer background image end */

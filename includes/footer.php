@@ -1,5 +1,5 @@
 <!-- footer start -->
-		<footer class="fixed-footer pos-rel bg-img-cover js-fixed-footer" style="background-image:url(assets/images/backgrounds/BottomBanner-01.jpg)">
+		<footer class="fixed-footer pos-rel bg-img-cover js-fixed-footer footer-bg-image">
 			<!-- bg-overlay -->
 			<div class="bg-overlay-black"></div>
 			<!-- pos-rel start -->
